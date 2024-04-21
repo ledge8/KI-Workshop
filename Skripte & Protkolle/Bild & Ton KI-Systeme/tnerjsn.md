@@ -1,3 +1,3 @@
-<a href="https://markdown-syntax.de">https://markdown-syntax.de</a>
+https://markdown-syntax.de
 
 tsetfidlsnafjkdnaklfnnfsdjkanljkf
