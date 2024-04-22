@@ -9,7 +9,9 @@
     <tr>
         <td>11:00-11:10<br>10 min</td>
         <td>TN lernen Ref kennen</td>
-        <td>TN begrüßen, Eis brechen <br>Sagen worum es heute geht: KI kennedsjakfdnjksfnjkdnsjfksdkfndjksnfjkdnsjkfnknlernen<br>Selbst kurz vorstellen<br>Erläutern, das mit Methoden gearbeitet wird/ kein Vortra<br>Du ok?/<br>Bitten Namen aufschreiben<br>Pausen erläutern<br>Freu mich schon</td>
+        <td>TN begrüßen, Eis brechen <br>
+            Sagen worum es heute geht: KI kennedsjakfdnjksfnjkdnsjfksdkfndjksnfjkdnsjkfnknlernen<br>
+            Selbst kurz vorstellen<br>Erläutern, das mit Methoden gearbeitet wird/ kein Vortra<br>Du ok?/<br>Bitten Namen aufschreiben<br>Pausen erläutern<br>Freu mich schon</td>
         <td>TN schreiben Namensschilder</td>
         <td>Namensschilder<br>Eddings</td>
         <!-- Hier ist es wichtig die Würdigungshürde zu schaffen -->
