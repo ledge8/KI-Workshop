@@ -25,79 +25,79 @@ Seminar auszuprobieren.
     <th>Methode</th>
     <th>Material</th>
   </tr>
-  <tr> <-- ---------------Zeile------------------ -->
+  <tr> <!-- ---------------Zeile------------------ -->
   
-    <-- Zeit --> <td>
+    <!-- Zeit --> <td>
     00:00 - 00--00 <br/>
     00 min
     </td>
     
-    <-- Inhalt --> <td>
+    <!-- Inhalt --> <td>
     Text
     </td>
 
-    <-- Methode --> <td>
+    <!-- Methode --> <td>
     Text
     </td>
 
-    <-- Material --> <td>
+    <!-- Material --> <td>
     Text
     </td> </tr>
 
-<-- ---------------Zeile------------------ -->
+<!-- ---------------Zeile------------------ -->
   
-    <-- Zeit --> <td>
+    <!-- Zeit --> <td>
     00:00 - 00--00 <br/>
     00 min
     </td>
     
-    <-- Inhalt --> <td>
+    <!-- Inhalt --> <td>
     Text
     </td>
 
-    <-- Methode --> <td>
+    <!-- Methode --> <td>
     Text
     </td>
 
-    <-- Material --> <td>
+    <!-- Material --> <td>
     Text
     </td> </tr>
 
-<-- ---------------Zeile------------------ -->
+<!-- ---------------Zeile------------------ -->
   
-    <-- Zeit --> <td>
+    <!-- Zeit --> <td>
     00:00 - 00--00 <br/>
     00 min
     </td>
     
-    <-- Inhalt --> <td>
+    <!-- Inhalt --> <td>
     Text
     </td>
 
-    <-- Methode --> <td>
+    <!-- Methode --> <td>
     Text
     </td>
 
-    <-- Material --> <td>
+    <!-- Material --> <td>
     Text
     </td> </tr>
 
- <-- ---------------Zeile------------------ -->
+ <!-- ---------------Zeile------------------ -->
   
-    <-- Zeit --> <td>
+    <!-- Zeit --> <td>
     00:00 - 00--00 <br/>
     00 min
     </td>
     
-    <-- Inhalt --> <td>
+    <!-- Inhalt --> <td>
     Text
     </td>
 
-    <-- Methode --> <td>
+    <!-- Methode --> <td>
     Text
     </td>
 
-    <-- Material --> <td>
+    <!-- Material --> <td>
     Text
     </td> </tr>
 
