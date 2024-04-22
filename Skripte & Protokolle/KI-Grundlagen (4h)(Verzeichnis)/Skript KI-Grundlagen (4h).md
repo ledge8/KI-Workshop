@@ -196,7 +196,7 @@ Alle sprechen von KI, aber was ist KI eigentlich? In diesem Seminar verschaffen 
     Das Neuronale Netz gibt als Antwort wieder Zahlenwerte aus.
     Diese Zahlenwerte werden wieder in Text umgewaldelt.
     Das Ergebniss ist „Züge“.
-    -> Anhand der Trainingsdaten wurde das wahrscheinlich nächte Wort „Züge“ errechnet.
+    -> Anhand der Trainingsdaten wird wahrscheinlich nächste Wort errechnet.
     -> Trainieren verbraucht die meiste Engergie,
     Brücke zu OpenSource schlagen
     Erklärung hier https://www.youtube.com/watch?v=j2mXlzOZ4V4
@@ -305,7 +305,7 @@ Alle sprechen von KI, aber was ist KI eigentlich? In diesem Seminar verschaffen 
     </td>
 
     <!-- Material --> <td>
-    Alle Modelle auf eigenem Computer öffnen
+    Modelle auf eigenem Computer öffnen
     Beamer/Monitor
     </td> </tr>
 
