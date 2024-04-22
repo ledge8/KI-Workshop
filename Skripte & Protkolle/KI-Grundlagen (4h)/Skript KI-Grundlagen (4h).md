@@ -54,7 +54,6 @@ Alle sprechen von KI, aber was ist KI eigentlich? In diesem Seminar verschaffen 
     - "Fragen sind sehr willkommen" (Pausen erwähnen)
     - "Ist du ok?"
     - Bitten Namen auf Namensschilder aufschreiben
-   
     </td>
 
     <!-- Methode --> <td>
@@ -135,24 +134,33 @@ Alle sprechen von KI, aber was ist KI eigentlich? In diesem Seminar verschaffen 
  <!-- ---------------Zeile------------------ --> <tr>
   
     <!-- Zeit --> <td>
-    00:00 - 00--00 <br/>
+    11:30 - 11:50 <br/>
     00 min
     </td>
 
     <!-- Ziel --> <td>
-    Text
+    TN erhalten Einblick in
+    aktuelle Anwendungen
     </td>
     
     <!-- Inhalt --> <td>
-    Text
+    Frage: Wer hat mit einem ChatBot schon geschrieben?
+    Einen ChatBot aufrufen und es Prompt beantworten lassen.
+    Danach eine Präsenation mit vielen Beispielen zeigen.
+    Text-,Audio-,Bild-,Robotik-Systeme
     </td>
 
     <!-- Methode --> <td>
-    Text
+    Frage mit Hand heben
+    Live präsentation 
+    Präsentation zeigen
     </td>
 
     <!-- Material --> <td>
-    Text
+    Computer
+    Zugang zu ChatBot
+    Präsentation
+    Beamer/Monitor
     </td> </tr>
 
 
