@@ -21,9 +21,9 @@
     <td>Lol</td>
     <!-- Weitere Zeilen und Zellen hier hinzufügen -->
 </table>
-
-<style><style>
+### Section with HTML
+<style>
     th, td{
         white-space: nowrap;
     }
-</style></style>
+</style>
