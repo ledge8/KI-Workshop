@@ -32,6 +32,20 @@ https://www.youtube.com/watch?v=fT69SLK2m9I
 https://www.youtube.com/watch?v=r4dkW0AW0Wo
 https://www.youtube.com/watch?v=j2mXlzOZ4V4
 
+<hr>
+### OpenSource
+<!-- Hier Bild rein tun -->
+
+Hier ist eine Anleitung um OpenSource Modelle zu nutzen
+https://www.youtube.com/watch?v=SUYXdI1kC08&t
+
+Hier findest Du OpenSource Modelle.
+Im Abschnitt "Spaces" kann man Modelle auch ausprobieren.
+https://huggingface.co
+
+
+
+
 
 <hr>
 ### Anwendungsfälle
