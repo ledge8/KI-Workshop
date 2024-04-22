@@ -5,10 +5,8 @@ taxonomy:
         - Testbeiträge
         
 ---
-
-
 Vorlage
-[giw_edit_link]
+
 
  
 #### Teasertext
@@ -133,3 +131,7 @@ Seminar auszuprobieren.
 
 
 </table>
+
+
+
+[giw_edit_link]
