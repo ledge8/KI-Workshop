@@ -30,24 +30,36 @@ Alle sprechen von KI, aber was ist KI eigentlich? In diesem Seminar verschaffen 
   <tr> <!-- ---------------Zeile------------------ -->
   
     <!-- Zeit --> <td>
-    00:00 - 00--00 <br/>
-    00 min
+    11:00 - 11--10 <br/>
+    10 min
     </td>
 
     <!-- Ziel --> <td>
-    Text
+    TN lernen Refi kennen
     </td>
     
     <!-- Inhalt --> <td>
-    Text
+    - TN begrüßen <br>
+    - Fragen ob gut hergefunden <br>
+    - Sagen worum es geht: KI-Systeme kennenlernen <br>
+    - Selbst kurz vorstellen <br>
+    - Erläutern, das mit Methoden/Flipcharts/Interaktiv gelernt wird.
+    - "Fragen sind sehr willkommen" (Pausen erwähnen)
+    - "Ist du ok?"
+    - Bitten Namen auf Namensschilder aufschreiben
+   
     </td>
 
     <!-- Methode --> <td>
-    Text
+    TN schreiben Namenskarten
+    Ref steht vorne und gibt Inhalt wieder
     </td>
 
     <!-- Material --> <td>
-    Text
+    ggf. Willkommensplakat
+    Namensschilder
+    Eddings
+    ggf. Notizblöcke & Stifte
     </td> </tr>
 
 <!-- ---------------Zeile------------------ --> <tr>
