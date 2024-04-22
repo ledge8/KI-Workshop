@@ -5,17 +5,14 @@
         <th>Inhalt</th>
         <th>Methode</th>
         <th>Material</th>
-        <th>Notiz</th>
-        <th>Braindump</th>
     </tr>
     <tr>
         <td>11:00-11:10<br>10 min</td>
         <td>TN lernen Ref kennen</td>
-        <td>TN begrüßen, hergefunden haben<br>Sagen worum es heute geht, KI kennenlernen<br>Mich kurz vorstellen<br>Bildungsreferent / Initative<br>Du ok?<br>Erläutern, das mit Methoden gearbeitet wird/ kein Vortrag/<br>Bitten das Namen aufschreiben<br>Pausen<br>Freu mich schon</td>
-        <td>TN schreiben Karten</td>
+        <td>TN begrüßen, Eis brechen <br>Sagen worum es heute geht: KI kennenlernen<br>Selbst kurz vorstellen<br>Erläutern, das mit Methoden gearbeitet wird/ kein Vortra<br>Du ok?/<br>Bitten Namen aufschreiben<br>Pausen erläutern<br>Freu mich schon</td>
+        <td>TN schreiben Namensschilder</td>
         <td>Namensschilder<br>Eddings</td>
-        <td>Kontakt- und Würdigungshürde check</td>
-        <td>Auch Initiative und Doku erwähnen</td>
+        <!-- Hier ist es wichtig die Würdigungshürde zu schaffen -->
     </tr>
     <!-- Weitere Zeilen und Zellen hier hinzufügen -->
 </table>
