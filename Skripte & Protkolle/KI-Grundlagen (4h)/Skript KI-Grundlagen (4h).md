@@ -1,4 +1,9 @@
-
+---
+taxonomy:
+    category:
+        - Workshop Skript
+        
+---
 
 
 Dieser Workshop dauert 4 Stunden.
