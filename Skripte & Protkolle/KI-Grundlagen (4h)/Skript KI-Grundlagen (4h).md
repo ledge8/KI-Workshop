@@ -17,12 +17,12 @@ Ihr könnt die Unterlagen unter folgender Lizenz selber nutzen
  <!--
 Die Fotodokumentation findet Ihr Noch ergänzen -->
 
- 
-#### Teasertext
+<hr>
+## Teasertext
 
 Alle sprechen von KI, aber was ist KI eigentlich? In diesem Seminar verschaffen wir Ihnen Klarheit über die grundlegenden Funktionsweisen, erörtern die Einsatzmöglichkeiten im Ihrem privaten und beruflichen Umfeld und diskutieren aktuelle Herausforderungen. Darauf aufbauend erhalten Sie die Chance, die populärsten Anwendungen selbst live im Seminar zu testen. 
 
-
+<hr>
 ## Zim
 
 <table border="1,5" cellpadding="5" cellspacing="0">
