@@ -140,6 +140,14 @@ Seminar auszuprobieren.
     </td> </tr>
 
 
+ <!-- -------------Pause Zeile-------------- --> <tr>
+   
+    <!-- Zeit --> <td>
+    
+    00:00 - 00:00 
+    00 min
+    
+    <td> Pause </td> </tr>
 
 
 </table>
