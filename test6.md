@@ -15,10 +15,10 @@
         <!-- Hier ist es wichtig die Würdigungshürde zu schaffen -->
     </tr>
     <td>11:10-11:30<br>10 min</td>
-    <tb>lol</tb>
-    <tb>Lol</tb>
-    <tb>lol</tb>
-    <tb>Lol</tb>
+    <td>lol</td>
+    <td>Lol</td>
+    <td>lol</td>
+    <td>Lol</td>
     <!-- Weitere Zeilen und Zellen hier hinzufügen -->
 </table>
 
