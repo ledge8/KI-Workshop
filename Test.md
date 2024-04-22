@@ -67,10 +67,6 @@ This is an [absolute link](/folder1/sub-dir1/post3.md) which links to another po
     h1 {
         color: red;
     }
-    table, th, td {
-        border: 1px solid black;
-    }
-    
 </style>
 
 ### Section with Shortcodes
