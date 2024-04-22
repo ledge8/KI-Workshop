@@ -22,8 +22,8 @@
     <!-- Weitere Zeilen und Zellen hier hinzufügen -->
 </table>
 
-<style>
+<style><style>
     th, td{
         white-space: nowrap;
     }
-</style>
+</style></style>
