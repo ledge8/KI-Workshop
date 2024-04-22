@@ -2,7 +2,7 @@
 taxonomy:
     category:
         - Workshops
-
+featured_image: _images/333B657F-9BBF-4CEE-B25A-62CA15ECC0C1-scaled.jpg
 ---
 Vorlage
 
