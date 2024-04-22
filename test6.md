@@ -1,4 +1,4 @@
-<table border="1" cellpadding="30" cellspacing="0">
+<table border="1" cellpadding="5" cellspacing="0">
     <tr>
         <th>Zt</th>
         <th>Ziel</th>
