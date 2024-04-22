@@ -17,7 +17,7 @@ This is an [absolute link](/folder1/sub-dir1/post3.md) which links to another po
 ### Section with HTML
 
 <section id="home">
-    <h2>Welcome to Our Website!</h2>
+    <h1>Welcome to Our Website!</h1>
     <p>This is a sample HTML page with JavaScript and CSS styling.</p>
     <button type="button" onclick="showMessage()">Show message</button>
 </section>
