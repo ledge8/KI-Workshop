@@ -89,7 +89,7 @@ Seminar auszuprobieren.
     </td>
 
     <!-- Ziel --> <td>
-    Textijooxfviöyjiofdjixoöjiosöjgioöfsjdiogöjsfiodögjiofdösjgioöjfiogöjfioösdjgioöfjsögoifjösgjifsöjgioöfdsjgöoijdfiosögjioöfsdjgioösfjdögojsdfioöjisdfjlöjlöjöojioöfjöioafjioöadjgoöfijdögiojidöfogjöiosjioögjsfioögjöiosfdjgioö
+    Text
     </td>
     
     <!-- Inhalt --> <td>
