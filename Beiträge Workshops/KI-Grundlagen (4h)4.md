@@ -5,7 +5,7 @@ taxonomy:
 featured_image: _images/IMG_6794-scaled.jpg
 ---
 
-
+test
 Der aller erste hier gepostete Workshop, behandelt in 4 Stunden die Grundlagen der künstlichen Intelligenz.
 Gehalten wurde dieser an einer VHS.
 
