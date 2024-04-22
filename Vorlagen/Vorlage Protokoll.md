@@ -1,5 +1,5 @@
 ---
-
+skip_file: yes
 taxonomy:
     category:
         - Testbeiträge
@@ -11,7 +11,7 @@ Vorlage
  
 #### Teasertext
 
-Alle sprechen von KI und Sie nutzen
+Alle sprechen von KI und Sie nutzen ?
 wahrscheinlich schon viele KI-Systeme, ohne
 es zu wissen. Aber was ist KI eigentlich und
 was können diese Systeme bereits?
