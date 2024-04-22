@@ -136,12 +136,7 @@ Alle sprechen von KI, aber was ist KI eigentlich? In diesem Seminar verschaffen 
 
 </table>
 
----
-taxonomy:
-    category:
-        - Workshop Skript
-        
----
+
 
 
 [giw_edit_link]
