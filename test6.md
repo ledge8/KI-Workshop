@@ -1,6 +1,6 @@
-<table border="1" cellpadding="5" cellspacing="0">
+<table border="1" cellpadding="30" cellspacing="0">
     <tr>
-        <th>Zeit</th>
+        <th>Zt</th>
         <th>Ziel</th>
         <th>Inhalt</th>
         <th>Methode</th>
