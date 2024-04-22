@@ -2,9 +2,9 @@
 taxonomy:
     category:
         - Workshops
-featured_image: _images/333B657F-9BBF-4CEE-B25A-62CA15ECC0C1-scaled.jpg
+featured_image: _images/img_6794/
 ---
-Vorlage
+
 
 Der aller erste hier gepostete Workshop, behandelt in 4 Stunden die Grundlagen der künstlichen Intelligenz.
 Gehalten wurde dieser an einer VHS.
