@@ -4,10 +4,7 @@ taxonomy:
         - Workshop Skript
         
 ---
-<!--
-[ ] Präsentation einfügen
-[ ] Fotoprotokoll ergänzen
--->
+
 Dieser Workshop dauert 4 Stunden.
 
 Ihr könnt die Unterlagen unter folgender Lizenz selber nutzen
