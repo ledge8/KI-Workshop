@@ -1,3 +1,6 @@
+
+
+
 Dieser Workshop dauert 4 Stunden.
 
 Ihr könnt die Unterlagen unter folgender Lizenz selber nutzen
@@ -12,33 +15,6 @@ Die Fotodokumentation findet Ihr Noch ergänzen -->
 
 Alle sprechen von KI, aber was ist KI eigentlich? In diesem Seminar verschaffen wir Ihnen Klarheit über die grundlegenden Funktionsweisen, erörtern die Einsatzmöglichkeiten im Ihrem privaten und beruflichen Umfeld und diskutieren aktuelle Herausforderungen. Darauf aufbauend erhalten Sie die Chance, die populärsten Anwendungen selbst live im Seminar zu testen. 
 
-####   
-
----
-skip_file: yes
-taxonomy:
-    category:
-        - Testbeiträge
-        
----
-Vorlage
-
-
- 
-#### Teasertext
-
-Alle sprechen von KI und Sie nutzen ?
-wahrscheinlich schon viele KI-Systeme, ohne
-es zu wissen. Aber was ist KI eigentlich und
-was können diese Systeme bereits?
-In diesem Seminar verschaffen wir Ihnen
-Klarheit über die grundlegenden Funktions-
-weisen der KI, erörtern die Einsatzmöglich-
-keiten im privaten und beruflichen Umfeld
-und diskutieren aktuelle Herausforderungen.
-Darauf aufbauend erhalten Sie die Chance,
-die populärsten Anwendungen selbst live im
-Seminar auszuprobieren.
 
 ## Zim
 
@@ -148,6 +124,12 @@ Seminar auszuprobieren.
 
 </table>
 
+---
+taxonomy:
+    category:
+        - Workshop Skript
+        
+---
 
 
 [giw_edit_link]
