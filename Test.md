@@ -24,6 +24,18 @@ custom_fields:
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec a lacinia orci.
 Nunc sodales massa enim, nec consectetur orci tempus ac.
 
+
+<table>
+    <tr>
+        <th>Kopfzelle 1</th>
+        <th>Kopfzelle 2</th>
+    </tr>
+    <tr>
+        <td>Zelle 1</td>
+        <td>Zelle 2</td>
+    </tr>
+</table>
+
 ### Section with image
 
 ![alt text for the image](/_images/pic4.jpg "Caption for the image")
@@ -44,18 +56,6 @@ This is an [absolute link](/folder1/sub-dir1/post3.md) which links to another po
     <button type="button" onclick="showMessage()">Show message</button>
 </section>
 
-
-<table>
-    <tr>
-        <th>Kopfzelle 1</th>
-        <th>Kopfzelle 2</th>
-    </tr>
-    <tr>
-        <td>Zelle 1</td>
-        <td>Zelle 2</td>
-    </tr>
-</table>
-
 <script>
     function showMessage() {
         alert('Thank you for contacting us!');
@@ -67,6 +67,10 @@ This is an [absolute link](/folder1/sub-dir1/post3.md) which links to another po
     h1 {
         color: red;
     }
+    table, th, td {
+        border: 1px solid black;
+    }
+    
 </style>
 
 ### Section with Shortcodes
