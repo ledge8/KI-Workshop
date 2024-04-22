@@ -165,12 +165,16 @@ Alle sprechen von KI, aber was ist KI eigentlich? In diesem Seminar verschaffen 
 
 
  <!-- ---------------Zeile------------------ --> <tr>
-  
+    <!-- PAUSE -->
+    <!-- Zeit --> <td>
+    
+    00:00 - 00:00 
+    00 min
+    
+    <td/></td>
     <!-- Pause --> <td>
     Pause
     </td> </tr>
-
-
 
  <!-- ---------------Zeile------------------ --> <tr>
   
