@@ -135,7 +135,7 @@ Alle sprechen von KI, aber was ist KI eigentlich? In diesem Seminar verschaffen 
   
     <!-- Zeit --> <td>
     11:30 - 11:50 <br/>
-    00 min
+    20 min
     </td>
 
     <!-- Ziel --> <td>
@@ -163,6 +163,187 @@ Alle sprechen von KI, aber was ist KI eigentlich? In diesem Seminar verschaffen 
     Beamer/Monitor
     </td> </tr>
 
+
+ <!-- ---------------Zeile------------------ --> <tr>
+  
+    <!-- Pause --> <td>
+    Pause
+    </td> </tr>
+
+
+
+ <!-- ---------------Zeile------------------ --> <tr>
+  
+    <!-- Zeit --> <td>
+    00:00 - 00:00 <br/>
+    00 min
+    </td>
+
+    <!-- Ziel --> <td>
+    Text
+    </td>
+    
+    <!-- Inhalt --> <td>
+    Text
+    </td>
+
+    <!-- Methode --> <td>
+    Text
+    </td>
+
+    <!-- Material --> <td>
+    Text
+    </td> </tr>
+
+
+
+ <!-- ---------------Zeile------------------ --> <tr>
+  
+    <!-- Zeit --> <td>
+    00:00 - 00:00 <br/>
+    00 min
+    </td>
+
+    <!-- Ziel --> <td>
+    Text
+    </td>
+    
+    <!-- Inhalt --> <td>
+    Text
+    </td>
+
+    <!-- Methode --> <td>
+    Text
+    </td>
+
+    <!-- Material --> <td>
+    Text
+    </td> </tr>
+
+
+
+ <!-- ---------------Zeile------------------ --> <tr>
+  
+    <!-- Zeit --> <td>
+    00:00 - 00:00 <br/>
+    00 min
+    </td>
+
+    <!-- Ziel --> <td>
+    Text
+    </td>
+    
+    <!-- Inhalt --> <td>
+    Text
+    </td>
+
+    <!-- Methode --> <td>
+    Text
+    </td>
+
+    <!-- Material --> <td>
+    Text
+    </td> </tr>
+
+
+
+ <!-- ---------------Zeile------------------ --> <tr>
+  
+    <!-- Zeit --> <td>
+    00:00 - 00:00 <br/>
+    00 min
+    </td>
+
+    <!-- Ziel --> <td>
+    Text
+    </td>
+    
+    <!-- Inhalt --> <td>
+    Text
+    </td>
+
+    <!-- Methode --> <td>
+    Text
+    </td>
+
+    <!-- Material --> <td>
+    Text
+    </td> </tr>
+
+
+
+ <!-- ---------------Zeile------------------ --> <tr>
+  
+    <!-- Zeit --> <td>
+    00:00 - 00:00 <br/>
+    00 min
+    </td>
+
+    <!-- Ziel --> <td>
+    Text
+    </td>
+    
+    <!-- Inhalt --> <td>
+    Text
+    </td>
+
+    <!-- Methode --> <td>
+    Text
+    </td>
+
+    <!-- Material --> <td>
+    Text
+    </td> </tr>
+
+
+
+ <!-- ---------------Zeile------------------ --> <tr>
+  
+    <!-- Zeit --> <td>
+    00:00 - 00:00 <br/>
+    00 min
+    </td>
+
+    <!-- Ziel --> <td>
+    Text
+    </td>
+    
+    <!-- Inhalt --> <td>
+    Text
+    </td>
+
+    <!-- Methode --> <td>
+    Text
+    </td>
+
+    <!-- Material --> <td>
+    Text
+    </td> </tr>
+
+
+
+ <!-- ---------------Zeile------------------ --> <tr>
+  
+    <!-- Zeit --> <td>
+    00:00 - 00:00 <br/>
+    00 min
+    </td>
+
+    <!-- Ziel --> <td>
+    Text
+    </td>
+    
+    <!-- Inhalt --> <td>
+    Text
+    </td>
+
+    <!-- Methode --> <td>
+    Text
+    </td>
+
+    <!-- Material --> <td>
+    Text
+    </td> </tr>
 
 
 
