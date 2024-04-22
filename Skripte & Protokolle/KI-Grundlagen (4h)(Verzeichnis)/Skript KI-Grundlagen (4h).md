@@ -227,15 +227,134 @@ Alle sprechen von KI, aber was ist KI eigentlich? In diesem Seminar verschaffen 
     </td>
     
     <!-- Inhalt --> <td>
-    Text
+    In die Runde Fragen:
+    - Was sind proprätere Systeme?
+    -> 1. Teil der Flipchart zeigen
+    Nachteile aufzählen
+    Gegenteil -> OpenSource - zeigen
+    (Mischung erwähnen, nur zum Teil OpenSource)
+    Vorteile aufzählen
+    
+    Verweise auf Videos & Dokumentation
     </td>
 
     <!-- Methode --> <td>
-    Text
+    Fragen per Zuruf
+    Flipchart zeigen
     </td>
 
     <!-- Material --> <td>
-    Text
+    Flipchart
+    </td> </tr>
+
+
+ <!-- ---------------Zeile------------------ --> <tr>
+  
+    <!-- Zeit --> <td>
+    12:20 - 12:30 <br/>
+    10 min
+    </td>
+
+    <!-- Ziel --> <td>
+    TN erhalten Überblick
+    zu aktuellen Modellen
+    </td>
+    
+    <!-- Inhalt --> <td>
+    Zeige die Gruppierungsweise (Flipchart)
+    Per Zuruf nach Systemen fragen, dabei ist nicht 
+    wichtig, ob es sich um ein KI-Modell, oder
+    Anwendung handelt.
+    Nennungen auf Metaplankarten schreiben.
+    Blau OpenSource, Orange Propritär, Braun Mischung
+    Gruppiere an der Pinnwand direkt.
+    </td>
+
+    <!-- Methode --> <td>
+    Erklärung an Flipchart
+    Zuruf Abfrage auf Metaplankarten
+    </td>
+
+    <!-- Material --> <td>
+    Metaplan Karten
+    Flipchart
+    Überschriften Karten
+    </td> </tr>
+
+
+ <!-- ---------------Zeile------------------ --> <tr>
+  
+    <!-- Zeit --> <td>
+    12:30 - 12:45 <br/>
+    15 min
+    </td>
+
+    <!-- Ziel --> <td>
+    TN bekommen Motivation Modelle auszuprobieren
+    TN erfahren Grundlegend wie Modelle zu benutzen sind
+    </td>
+    
+    <!-- Inhalt --> <td>
+    Die Modelle, die im Anschluss ausprobiert werden
+    können, werden gezeigt. Es wird jeweils nur sehr
+    kurz auf die einzelnen Modelle eingegangen.
+    </td>
+
+    <!-- Methode --> <td>
+    Live Vorstellung
+    </td>
+
+    <!-- Material --> <td>
+    Alle Modelle auf eigenem Computer öffnen
+    Beamer/Monitor
+    </td> </tr>
+
+ <!-- ---------------Zeile------------------ --> <tr>
+  
+    <!-- Zeit --> <td>
+    12:45 - 13:35 <br/>
+    50 min
+    </td>
+
+    <!-- Ziel --> <td>
+    TN erhalten die Chance, Modelle auszuprobieren
+    </td>
+    
+    <!-- Inhalt --> <td>
+    TN können nun an die Computer gehen.
+    Sollen gleich eine Pause mit einbauen.
+    </td>
+
+    <!-- Methode --> <td>
+    Stationsarbeit
+    </td>
+
+    <!-- Material --> <td>
+    Computer mit den Anwendungen
+    </td> </tr>
+
+ <!-- ---------------Zeile------------------ --> <tr>
+  
+    <!-- Zeit --> <td>
+    13:35 - 13:45 <br/>
+    10 min
+    </td>
+
+    <!-- Ziel --> <td>
+    TN können ihre Begeisterung/Highlights teilen
+    </td>
+    
+    <!-- Inhalt --> <td>
+    Frage in die Runde, was waren die Highlights.
+    ggf. auf Metaplan Karten schreiben.
+    </td>
+
+    <!-- Methode --> <td>
+    Plenum Disskusion
+    </td>
+
+    <!-- Material --> <td>
+    -
     </td> </tr>
 
 
@@ -243,127 +362,137 @@ Alle sprechen von KI, aber was ist KI eigentlich? In diesem Seminar verschaffen 
  <!-- ---------------Zeile------------------ --> <tr>
   
     <!-- Zeit --> <td>
-    00:00 - 00:00 <br/>
-    00 min
+    13:45 - 14:05 <br/>
+    20 min
     </td>
 
     <!-- Ziel --> <td>
-    Text
+    Puffer, um auf Anwendungen gezielter einzugehen
     </td>
     
     <!-- Inhalt --> <td>
-    Text
+    Fragen, auf was die TN im speziellen eingehen wollen.
+    ggf. als Puffer nutzen
     </td>
 
     <!-- Methode --> <td>
-    Text
+    Puffer
     </td>
 
     <!-- Material --> <td>
-    Text
+    -
     </td> </tr>
 
-
-
- <!-- ---------------Zeile------------------ --> <tr>
+<!-- ---------------Zeile------------------ --> <tr>
   
     <!-- Zeit --> <td>
-    00:00 - 00:00 <br/>
-    00 min
+    14:05 - 14:25 <br/>
+    20 min
     </td>
 
     <!-- Ziel --> <td>
-    Text
+    TN erfahren über die Gefahren/Hindernisse/
+    Herausforderungen erfahren und erkennen.
     </td>
     
     <!-- Inhalt --> <td>
-    Text
+    Refi zeigt Flipchart mit Frage
+    TN sollen auf Metaplankarten aufschreiben
+    Danach sammeln auf Pinnwand, Refi pinnt &
+    gruppiert direkt. 
+    Refi ergänzt weitere Punkte.
+    Refi zeigt Flipchart mit Gruppierung und
+    fasst zusammen.
     </td>
 
     <!-- Methode --> <td>
-    Text
+    Kartenabfrage
     </td>
 
     <!-- Material --> <td>
-    Text
+    Flipchart
     </td> </tr>
 
-
-
- <!-- ---------------Zeile------------------ --> <tr>
+<!-- ---------------Zeile------------------ --> <tr>
   
     <!-- Zeit --> <td>
-    00:00 - 00:00 <br/>
-    00 min
+    14:25 - 14:35 <br/>
+    10 min
     </td>
 
     <!-- Ziel --> <td>
-    Text
+    TN erfahren über Anwendungsfälle
     </td>
     
     <!-- Inhalt --> <td>
-    Text
+    Refi fragt nach möglichen Anwendungsfällen
+    und schreibt sie auf Withboard.
     </td>
 
     <!-- Methode --> <td>
-    Text
+    Zuruf
     </td>
 
     <!-- Material --> <td>
-    Text
+    Withboard
     </td> </tr>
 
-
-
- <!-- ---------------Zeile------------------ --> <tr>
+<!-- ---------------Zeile------------------ --> <tr>
   
     <!-- Zeit --> <td>
-    00:00 - 00:00 <br/>
-    00 min
+    14:35 - 14:50 <br/>
+    15 min
     </td>
 
     <!-- Ziel --> <td>
-    Text
+    TN erfahren wie Herausforderungen
+    begegnet werden können
     </td>
     
     <!-- Inhalt --> <td>
-    Text
+    Refi fragt nach Strategien um den
+    Herausforderungen zu begegnen 
+    TN schreiben auf Metaplankarten
+    TN stellen vor und pinnen
+    TN disskustieren
+    Refi betont nochmal OpenSource
     </td>
 
     <!-- Methode --> <td>
-    Text
+    Kartenabfrage
+    Mit Plenum Disskusion
     </td>
 
     <!-- Material --> <td>
     Text
     </td> </tr>
 
-
-
- <!-- ---------------Zeile------------------ --> <tr>
+<!-- ---------------Zeile------------------ --> <tr>
   
     <!-- Zeit --> <td>
-    00:00 - 00:00 <br/>
-    00 min
+    14:50 - 15:00 <br/>
+    10 min
     </td>
 
     <!-- Ziel --> <td>
-    Text
+    TN erhalten einen schönen Abschluss
     </td>
     
     <!-- Inhalt --> <td>
-    Text
+    TN erhalten eine Übersicht zu weiteren 
+    Informationsquellen.
+    Refi fragt nach (anonymem Feedback)
+    Refi zeigt Seminardokumentation.
+    Refi verabschiedet sich
     </td>
 
     <!-- Methode --> <td>
-    Text
+    -
     </td>
 
     <!-- Material --> <td>
-    Text
+    -
     </td> </tr>
-
-
 
 </table>
 
