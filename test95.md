@@ -15,9 +15,10 @@ Darauf aufbauend erhalten Sie die Chance,
 die populärsten Anwendungen selbst live im
 Seminar auszuprobieren.
 
-####   
+
 
 <table border="1" cellpadding="5" cellspacing="0">
+ 
   <tr>
     <th>Zeit</th>
     <th>Ziel</th>
@@ -79,7 +80,7 @@ Seminar auszuprobieren.
     </td>
 
     <!-- Ziel --> <td>
-    Text
+    Textijooxfviöyjiofdjixoöjiosöjgioöfsjdiogöjsfiodögjiofdösjgioöjfiogöjfioösdjgioöfjsögoifjösgjifsöjgioöfdsjgöoijdfiosögjioöfsdjgioösfjdögojsdfioöjisdfjlöjlöjöojioöfjöioafjioöadjgoöfijdögiojidöfogjöiosjioögjsfioögjöiosfdjgioö
     </td>
     
     <!-- Inhalt --> <td>
