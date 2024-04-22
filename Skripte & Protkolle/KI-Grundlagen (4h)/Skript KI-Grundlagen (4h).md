@@ -39,10 +39,10 @@ Alle sprechen von KI, aber was ist KI eigentlich? In diesem Seminar verschaffen 
     </td>
     
     <!-- Inhalt --> <td>
-    - TN begrüßen <br>
-    - Fragen ob gut hergefunden <br>
-    - Sagen worum es geht: KI-Systeme kennenlernen <br>
-    - Selbst kurz vorstellen <br>
+    - TN begrüßen <br/>
+    - Fragen ob gut hergefunden <br/>
+    - Sagen worum es geht: KI-Systeme kennenlernen <br/>
+    - Selbst kurz vorstellen <br/>
     - Erläutern, das mit Methoden/Flipcharts/Interaktiv gelernt wird.
     - "Fragen sind sehr willkommen" (Pausen erwähnen)
     - "Ist du ok?"
