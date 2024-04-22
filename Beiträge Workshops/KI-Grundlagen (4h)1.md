@@ -2,7 +2,7 @@
 taxonomy:
     category:
         - Workshops
-featured_image: _images/img_6794/
+featured_image: _images/IMG_6794-scaled.jpg
 ---
 
 
