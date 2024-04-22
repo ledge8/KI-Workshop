@@ -6,7 +6,6 @@ taxonomy:
 ---
 <!--
 [ ] Präsentation einfügen
-[ ] Vorlage Zeit : statt - ändern
 [ ] Fotoprotokoll ergänzen
 -->
 Dieser Workshop dauert 4 Stunden.
@@ -64,10 +63,10 @@ Alle sprechen von KI, aber was ist KI eigentlich? In diesem Seminar verschaffen 
     </td>
 
     <!-- Material --> <td>
-    ggf. Willkommensplakat
+    ggf. Willkommensflipchart
     Namensschilder
-    Eddings
-    ggf. Notizblöcke & Stifte
+    Stifte (große Dunkle)
+    ggf. Notizblöcke
     </td> </tr>
 
 <!-- ---------------Zeile------------------ --> <tr>
@@ -82,38 +81,55 @@ Alle sprechen von KI, aber was ist KI eigentlich? In diesem Seminar verschaffen 
     </td>
     
     <!-- Inhalt --> <td>
-    Text
+    - Wie funktioniert KI
+    - Welche Anwendungen gibt es
+    - Selber ausprobieren
+    - Herausforderungen
+    - Einsatzmöglichkeiten
     </td>
 
     <!-- Methode --> <td>
-    Text
+    Flipchart vorstellen
     </td>
 
     <!-- Material --> <td>
-    Text
+    Flipchar mit Seminarfahrplan
     </td> </tr>
 
 <!-- ---------------Zeile------------------ --> <tr>
   
     <!-- Zeit --> <td>
-    00:00 - 00--00 <br/>
-    00 min
+    11:15 - 11:30 <br/>
+    15 min
     </td>
 
     <!-- Ziel --> <td>
-    Text
+    Refi bekommt Gefühl über
+    Vorwissen der TN.
+    TN erhalten "leichten"
+    Einstieg in das Thema
     </td>
     
     <!-- Inhalt --> <td>
-    Text
+    Erfahrungen werden erfragt.
+    "In einem Interview über KI,
+    welche zwei Gedanken oder
+    Gefühle würdet Ihr äußern?
+    TN haben 5 min, um es aufzuschreiben,
+    dann pinnen sie es an Pinnwand.
+    Danach stellen sie ihre Punkte vor.
+    (Ergebnisse wertschätzen)
     </td>
 
     <!-- Methode --> <td>
-    Text
+    Kartenabfrage
     </td>
 
     <!-- Material --> <td>
-    Text
+    Flipchart mit der Frage
+    Metaplankarten
+    Stifte (große Dunkle)
+    Pinnnadeln und Pinnwand
     </td> </tr>
 
  <!-- ---------------Zeile------------------ --> <tr>
