@@ -4,8 +4,11 @@ taxonomy:
         - Workshop Skript
         
 ---
-
-
+<!--
+[ ] Präsentation einfügen
+[ ] Vorlage Zeit : statt - ändern
+[ ] Fotoprotokoll ergänzen
+-->
 Dieser Workshop dauert 4 Stunden.
 
 Ihr könnt die Unterlagen unter folgender Lizenz selber nutzen
@@ -44,10 +47,10 @@ Alle sprechen von KI, aber was ist KI eigentlich? In diesem Seminar verschaffen 
     </td>
     
     <!-- Inhalt --> <td>
-    - TN begrüßen <br/>
-    - Fragen ob gut hergefunden <br/>
-    - Sagen worum es geht: KI-Systeme kennenlernen <br/>
-    - Selbst kurz vorstellen <br/>
+    - TN begrüßen 
+    - Fragen ob gut hergefunden 
+    - Sagen worum es geht: KI-Systeme kennenlernen
+    - Selbst kurz vorstellen
     - Erläutern, das mit Methoden/Flipcharts/Interaktiv gelernt wird.
     - "Fragen sind sehr willkommen" (Pausen erwähnen)
     - "Ist du ok?"
@@ -70,12 +73,12 @@ Alle sprechen von KI, aber was ist KI eigentlich? In diesem Seminar verschaffen 
 <!-- ---------------Zeile------------------ --> <tr>
   
     <!-- Zeit --> <td>
-    00:00 - 00--00 <br/>
-    00 min
+    11:10 - 11:15 <br/>
+    5 min
     </td>
 
     <!-- Ziel --> <td>
-    Text
+    TN erhalten einen Überblick 
     </td>
     
     <!-- Inhalt --> <td>
