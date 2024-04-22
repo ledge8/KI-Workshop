@@ -168,7 +168,7 @@ Alle sprechen von KI, aber was ist KI eigentlich? In diesem Seminar verschaffen 
     <!-- PAUSE -->
     <!-- Zeit --> <td>
     
-    00:00 - 00:00 
+    11:50 - 12:00 
     00 min
     
     <td/></td>
@@ -179,24 +179,40 @@ Alle sprechen von KI, aber was ist KI eigentlich? In diesem Seminar verschaffen 
  <!-- ---------------Zeile------------------ --> <tr>
   
     <!-- Zeit --> <td>
-    00:00 - 00:00 <br/>
-    00 min
+    12:00 - 12:15 <br/>
+    15 min
     </td>
 
     <!-- Ziel --> <td>
-    Text
+    TN lernen [stark vereinfacht] die
+    grundlegende Funktionsweise einer KI
     </td>
     
     <!-- Inhalt --> <td>
-    Text
+    <!-- MUSS VERBESSERT WERDEN -->
+    Am Withboard aufmalen:
+    Ich möchte das nächste Wort im Satz wissen.
+    Die Eingabe (das was man der KI gibt) z.B. „Ich mag“, 
+    wird in Zahlenwerte umgewandelt, damit die KI es verarbeiten kann.
+    Der umgewandelte Satz wird nun in ein Neuronales Netz gegeben.
+    Dieses wurde vorher trainiert.
+    Das Neuronale Netz gibt als Antwort wieder Zahlenwerte aus.
+    Diese Zahlenwerte werden wieder in Text umgewaldelt.
+    Das Ergebniss ist „Züge“.
+    -> Anhand der Trainingsdaten wurde das wahrscheinlich nächte Wort „Züge“ errechnet.
+    -> Trainieren verbraucht die meiste Engergie,
+    Brücke zu OpenSource schlagen
+    Erklärung hier https://www.youtube.com/watch?v=j2mXlzOZ4V4
+    
     </td>
 
     <!-- Methode --> <td>
-    Text
+    Lehr-Lern Gespräch am Withboard
     </td>
 
     <!-- Material --> <td>
-    Text
+    Withboard
+    Withboardmaker
     </td> </tr>
 
 
@@ -204,12 +220,13 @@ Alle sprechen von KI, aber was ist KI eigentlich? In diesem Seminar verschaffen 
  <!-- ---------------Zeile------------------ --> <tr>
   
     <!-- Zeit --> <td>
-    00:00 - 00:00 <br/>
-    00 min
+    12:15 - 12:20 <br/>
+    05 min
     </td>
 
     <!-- Ziel --> <td>
-    Text
+    TN lernen Vorteile von 
+    OpenSource kennen
     </td>
     
     <!-- Inhalt --> <td>
