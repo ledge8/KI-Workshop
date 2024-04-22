@@ -1,4 +1,15 @@
-V1
+---
+
+taxonomy:
+    category:
+        - Testbeiträge
+        
+---
+
+
+Vorlage
+[giw_edit_link]
+
  
 #### Teasertext
 
@@ -15,7 +26,7 @@ Darauf aufbauend erhalten Sie die Chance,
 die populärsten Anwendungen selbst live im
 Seminar auszuprobieren.
 
-
+## Zim
 
 <table border="1,5" cellpadding="5" cellspacing="0">
  
