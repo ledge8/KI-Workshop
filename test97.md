@@ -31,6 +31,10 @@ Seminar auszuprobieren.
     00:00 - 00--00 <br/>
     00 min
     </td>
+
+    <!-- Ziel --> <td>
+    Text
+    </td>
     
     <!-- Inhalt --> <td>
     Text
@@ -50,6 +54,10 @@ Seminar auszuprobieren.
     00:00 - 00--00 <br/>
     00 min
     </td>
+
+    <!-- Ziel --> <td>
+    Text
+    </td>
     
     <!-- Inhalt --> <td>
     Text
@@ -68,6 +76,10 @@ Seminar auszuprobieren.
     <!-- Zeit --> <td>
     00:00 - 00--00 <br/>
     00 min
+    </td>
+
+    <!-- Ziel --> <td>
+    Text
     </td>
     
     <!-- Inhalt --> <td>
@@ -87,6 +99,10 @@ Seminar auszuprobieren.
     <!-- Zeit --> <td>
     00:00 - 00--00 <br/>
     00 min
+    </td>
+
+    <!-- Ziel --> <td>
+    Text
     </td>
     
     <!-- Inhalt --> <td>
