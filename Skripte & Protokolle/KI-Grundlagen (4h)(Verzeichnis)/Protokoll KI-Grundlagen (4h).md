@@ -13,6 +13,10 @@ Resüme: Als Ergebnis hielten wir fest: KI-Systeme werden einen immer größeren
 Dabei können Gefahren von den Systemen ausgehen, aber auch Chancen.
 
 <hr>
+### Einblick in aktuelle Anwendungen
+
+
+<hr>
 ### Funktionsweise
 <!-- Dringend verbessern https://github.com/ledge8/KI-Workshop/issues/10#issue-2257093704 -->
 ![Schaubildung Funktionsweise KI](https://github.com/ledge8/KI-Workshop/assets/166513027/02ddaee6-8566-45f3-914d-d31a71c1c39b)
