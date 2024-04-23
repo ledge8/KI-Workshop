@@ -2,10 +2,18 @@
 skip_file: yes
 taxonomy:
     category:
-        - Testbeiträge
+        - Workshopskript
         
 ---
 Vorlage
+
+# In Bearbeitung
+
+
+
+
+[giw_edit_link]
+
 
 <!--
 [ ] Präsentation einfügen
