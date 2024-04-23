@@ -1,7 +1,7 @@
 ---
 taxonomy:
     category:
-        - Workshop Skript
+        - Workshopskript
         
 ---
 
