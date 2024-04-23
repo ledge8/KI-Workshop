@@ -1,5 +1,4 @@
 ---
-skip_file: yes
 taxonomy:
     category:
         - Workshopskript
