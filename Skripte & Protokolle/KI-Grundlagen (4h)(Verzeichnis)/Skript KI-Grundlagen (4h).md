@@ -34,7 +34,7 @@ Alle sprechen von KI, aber was ist KI eigentlich? In diesem Seminar verschaffen 
   <tr> <!-- ---------------Zeile------------------ -->
   
     <!-- Zeit --> <td>
-    11:00 - 11--10 <br/>
+    11:00 - 11:10 <br/>
     10 min
     </td>
 
@@ -44,10 +44,10 @@ Alle sprechen von KI, aber was ist KI eigentlich? In diesem Seminar verschaffen 
     
     <!-- Inhalt --> <td>
     - TN begrüßen 
-    - Fragen ob gut hergefunden 
-    - Sagen worum es geht: KI-Systeme kennenlernen
+    - Fragen, ob gut hergefunden 
+    - Sagen, worum es geht: KI-Systeme kennenlernen.
     - Selbst kurz vorstellen
-    - Erläutern, das mit Methoden/Flipcharts/Interaktiv gelernt wird.
+    - Erläutern, dass mit Methoden/Flipcharts/Interaktiv gelernt wird.
     - "Fragen sind sehr willkommen" (Pausen erwähnen)
     - "Ist du ok?"
     - Bitten Namen auf Namensschilder aufschreiben
@@ -149,7 +149,7 @@ Alle sprechen von KI, aber was ist KI eigentlich? In diesem Seminar verschaffen 
 
     <!-- Methode --> <td>
     Frage mit Hand heben
-    Live präsentation 
+    Live Präsentation 
     Präsentation zeigen
     </td>
 
@@ -187,15 +187,15 @@ Alle sprechen von KI, aber was ist KI eigentlich? In diesem Seminar verschaffen 
     
     <!-- Inhalt --> <td>
     <!-- MUSS VERBESSERT WERDEN -->
-    Am Withboard aufmalen:
+    Am Whiteboard aufmalen:
     Ich möchte das nächste Wort im Satz wissen.
     Die Eingabe (das was man der KI gibt) z.B. „Ich mag“, 
     wird in Zahlenwerte umgewandelt, damit die KI es verarbeiten kann.
     Der umgewandelte Satz wird nun in ein Neuronales Netz gegeben.
     Dieses wurde vorher trainiert.
     Das Neuronale Netz gibt als Antwort wieder Zahlenwerte aus.
-    Diese Zahlenwerte werden wieder in Text umgewaldelt.
-    Das Ergebniss ist „Züge“.
+    Diese Zahlenwerte werden wieder in Text umgewandelt.
+    Das Ergebnis ist „Züge“.
     -> Anhand der Trainingsdaten wird wahrscheinlich 
     nächste Wort errechnet.
     -> Trainieren verbraucht die meiste Engergie,
@@ -205,12 +205,12 @@ Alle sprechen von KI, aber was ist KI eigentlich? In diesem Seminar verschaffen 
     </td>
 
     <!-- Methode --> <td>
-    Lehr-Lern Gespräch am Withboard
+    Lehr-Lern Gespräch am Whiteboard
     </td>
 
     <!-- Material --> <td>
-    Withboard
-    Withboardmaker
+    Whiteboard
+    Whiteboardmaker
     </td> </tr>
 
 
@@ -229,7 +229,7 @@ Alle sprechen von KI, aber was ist KI eigentlich? In diesem Seminar verschaffen 
     
     <!-- Inhalt --> <td>
     In die Runde Fragen:
-    - Was sind proprätere Systeme?
+    - Was sind proprietäre Systeme?
     -> 1. Teil der Flipchart zeigen
     Nachteile aufzählen
     Gegenteil -> OpenSource - zeigen
@@ -267,7 +267,7 @@ Alle sprechen von KI, aber was ist KI eigentlich? In diesem Seminar verschaffen 
     wichtig, ob es sich um ein KI-Modell, oder
     Anwendung handelt.
     Nennungen auf Metaplankarten schreiben.
-    Blau OpenSource, Orange Propritär, Braun Mischung
+    blau=OpenSource, orange=Proprietär, braun=Mischung
     Gruppiere an der Pinnwand direkt.
     </td>
 
@@ -427,7 +427,7 @@ Alle sprechen von KI, aber was ist KI eigentlich? In diesem Seminar verschaffen 
     
     <!-- Inhalt --> <td>
     Refi fragt nach möglichen Anwendungsfällen
-    und schreibt sie auf Withboard.
+    und schreibt sie auf Whiteboard.
     </td>
 
     <!-- Methode --> <td>
@@ -435,7 +435,7 @@ Alle sprechen von KI, aber was ist KI eigentlich? In diesem Seminar verschaffen 
     </td>
 
     <!-- Material --> <td>
-    Withboard
+    Whiteboard
     </td> </tr>
 
 <!-- ---------------Zeile------------------ --> <tr>
@@ -455,13 +455,13 @@ Alle sprechen von KI, aber was ist KI eigentlich? In diesem Seminar verschaffen 
     Herausforderungen zu begegnen 
     TN schreiben auf Metaplankarten
     TN stellen vor und pinnen
-    TN disskustieren
+    TN diskutieren
     Refi betont nochmal OpenSource
     </td>
 
     <!-- Methode --> <td>
     Kartenabfrage
-    Mit Plenum Disskusion
+    Mit Plenum Diskussion
     </td>
 
     <!-- Material --> <td>
