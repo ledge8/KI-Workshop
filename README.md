@@ -1,7 +1,9 @@
 # KI-Workshop
-Herzlich Willkommen!
 
-Hier werden Workshops zum Thema KI organisiert. 
+Wir wollen euch alles an die Hand geben, um Workshops über KI zu halten.
+Die Zielgruppe sind zurzeit noch einsteiger.
+Unter dem Motto OpenKnowledge können alle mitarbeiten.
+
 Möchtest du mehr erfahren? Zur besseren Übersicht haben wir eine Website erstellt, die die Unterlagen aus GitHub direkt syncronisiert und schön anzeigt.
 https://ki-workshop.org
 
@@ -10,7 +12,7 @@ Möchtest du mit diskutieren und dich mit uns austauschen? Komm in unseren Matri
 
 
 
-Aufbau dieses Reposiorie
+Aufbau Reposiorie
 
 
 Jeder Workshop hat mindestens 3 Dateien
