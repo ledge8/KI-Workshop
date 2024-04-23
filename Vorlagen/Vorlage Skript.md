@@ -10,16 +10,6 @@ Vorlage
 # In Bearbeitung
 
 
-
-
-[giw_edit_link]
-
-
-<!--
-[ ] Präsentation einfügen
-[ ] Vorlage Zeit : statt - ändern
-[ ] Fotoprotokoll ergänzen
--->
 Dieser Workshop dauert 4 Stunden.
 
 Ihr könnt die Unterlagen unter folgender Lizenz selber nutzen
