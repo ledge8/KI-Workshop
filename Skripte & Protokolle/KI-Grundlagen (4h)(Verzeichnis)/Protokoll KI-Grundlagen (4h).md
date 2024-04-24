@@ -71,6 +71,7 @@ Mistral
 LLAMA
 bing chat
 gemini
+Studiensearch
 
 #### Bilder KI-Systeme:
 midjourney
