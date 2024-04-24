@@ -385,9 +385,9 @@ Alle sprechen von KI, aber was ist KI eigentlich? In diesem Seminar verschaffen 
     </td> </tr>
 
 <!-- ---------------Zeile------------------ --> <tr>
-  
+<!-- Zurzet gleich mit KI im Office -->
     <!-- Zeit --> <td>
-    14:05 - 14:25 <br/>
+    14:15 - 14:35 <br/>
     20 min
     </td>
 
@@ -401,7 +401,15 @@ Alle sprechen von KI, aber was ist KI eigentlich? In diesem Seminar verschaffen 
     TN sollen auf Metaplankarten aufschreiben
     Danach sammeln auf Pinnwand, Refi pinnt &
     gruppiert direkt. 
-    Refi ergänzt weitere Punkte.
+    
+    Refi ergänzt weitere Punkte:
+    - Bias
+    - Überschätzung
+    - Ressourcenverbrauch
+    - plappert, simuliert, produziert Falschinformationen
+    - Manipulation
+    - unklarer Urheberschutz
+    - Datenschutz
     Refi zeigt Flipchart mit Gruppierung und
     fasst zusammen.
     </td>
@@ -480,6 +488,7 @@ Alle sprechen von KI, aber was ist KI eigentlich? In diesem Seminar verschaffen 
     </td>
     
     <!-- Inhalt --> <td>
+    TN fasst Workshop nochmal zusammen
     TN erhalten eine Übersicht zu weiteren 
     Informationsquellen.
     Refi fragt nach (anonymem Feedback)
@@ -492,7 +501,8 @@ Alle sprechen von KI, aber was ist KI eigentlich? In diesem Seminar verschaffen 
     </td>
 
     <!-- Material --> <td>
-    -
+    Flipchart Workshopfahrplan
+    Flipchart weitere Quellen
     </td> </tr>
 
 </table>
@@ -501,3 +511,4 @@ Alle sprechen von KI, aber was ist KI eigentlich? In diesem Seminar verschaffen 
 
 
 [giw_edit_link]
+Hilf mit!
