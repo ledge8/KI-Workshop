@@ -353,15 +353,176 @@ Seminar auszuprobieren.
     </td>
 
     <!-- Ziel --> <td>
-    Text
+    TN steigern Motivation 
+    Tools zu nutzen 
+    TN erfahren Rechtliches
     </td>
     
     <!-- Inhalt --> <td>
-    Text
+    KEINE RECHTSBERATUNG/GARATIE
+    Zeige Lizenz, gehe auf Computer-
+    vorraussetzungen ein
+    TN sollen im Plenum berichten 
+    wie es lief
     </td>
 
     <!-- Methode --> <td>
-    Text
+    Vortrag
+    Plenum/Disskusion
+    </td>
+
+    <!-- Material --> <td>
+    Lizenzvertrag von Wispher
+    </td> </tr>
+<!-- ---------------Zeile------------------ --> <tr>
+  
+    <!-- Zeit --> <td>
+    00:00 - 00:-00 <br/>
+    00 min
+    </td>
+
+    <!-- Ziel --> <td>
+    TN werden fastiziniert von KI
+    Bildern
+    </td>
+    
+    <!-- Inhalt --> <td>
+    Zeige KI generierte Bilder
+    von Dalle E, Stable Diffusion,
+    Midjourny
+    </td>
+
+    <!-- Methode --> <td>
+    Präsentation
+    </td>
+
+    <!-- Material --> <td>
+    Präsentation mit Bildern
+    </td> </tr>
+<!-- ---------------Zeile------------------ --> <tr>
+  
+    <!-- Zeit --> <td>
+    00:00 - 00:-00 <br/>
+    00 min
+    </td>
+
+    <!-- Ziel --> <td>
+    TN erfahren wie Unterschiedlich
+    die Modelle sind
+    </td>
+    
+    <!-- Inhalt --> <td>
+    Erstelle einen Prompt & gebe
+    den in jedes Model
+    Zeige wie unterschiedlich der
+    Prompt interpretiert wird
+    </td>
+
+    <!-- Methode --> <td>
+    Live Demonstration
+    </td>
+
+    <!-- Material --> <td>
+    KI Modelle auf Computer
+    </td> </tr>
+<!-- ---------------Zeile------------------ --> <tr>
+  
+    <!-- Zeit --> <td>
+    00:00 - 00:-00 <br/>
+    00 min
+    </td>
+
+    <!-- Ziel --> <td>
+    TN bekommen Gefühl wie die 
+    Prompts aussehen müssen
+    </td>
+    
+    <!-- Inhalt --> <td>
+    Zeige eine Präsentation auf
+    der erst ein Bild und dann
+    der Prompt erscheint
+    Ein Beispiel soll auch ein
+    referenziertes Bild sein
+    </td>
+
+    <!-- Methode --> <td>
+    Disskusion anhand von
+    Präsentation
+    </td>
+
+    <!-- Material --> <td>
+    Präsentation mit Beispielen
+    </td> </tr>
+<!-- ---------------Zeile------------------ --> <tr>
+  
+    <!-- Zeit --> <td>
+    00:00 - 00:-00 <br/>
+    00 min
+    </td>
+
+    <!-- Ziel --> <td>
+    TN lernen Grundlagen
+    für gute Prompts
+    </td>
+    
+    <!-- Inhalt --> <td>
+    Nenne Tipps für gute Prompts
+    - Stile (zeige welche)
+    - Details (Objekte/Farben/...)
+    - Komposition und Perspektive:
+    - Trail and Error
+    - Lasse Prompt optimieren
+
+    
+    </td>
+
+    <!-- Methode --> <td>
+    Vortrag
+    </td>
+
+    <!-- Material --> <td>
+    Flipchart mit Tipps
+    </td> </tr>
+<!-- ---------------Zeile------------------ --> <tr>
+  
+    <!-- Zeit --> <td>
+    00:00 - 00:-00 <br/>
+    00 min
+    </td>
+
+    <!-- Ziel --> <td>
+    TN verlieren Hemmung KI zu benutzen
+    TN verfestigen gelernte Tipps
+    </td>
+    
+    <!-- Inhalt --> <td>
+    TN können selber ausprobieren
+    </td>
+
+    <!-- Methode --> <td>
+    Einzelarbeit
+    </td>
+
+    <!-- Material --> <td>
+    Laptops mit den Modellen
+    </td> </tr>
+<!-- ---------------Zeile------------------ --> <tr>
+  
+    <!-- Zeit --> <td>
+    00:00 - 00:-00 <br/>
+    00 min
+    </td>
+
+    <!-- Ziel --> <td>
+    TN 
+    </td>
+    
+    <!-- Inhalt --> <td>
+    Machen Plenum über gesehendes
+    </td>
+
+    <!-- Methode --> <td>
+    Plenum
     </td>
 
     <!-- Material --> <td>
@@ -375,20 +536,24 @@ Seminar auszuprobieren.
     </td>
 
     <!-- Ziel --> <td>
-    Text
+    TN erfahren über Urheberrecht
+    & Kosten etwas
     </td>
     
     <!-- Inhalt --> <td>
-    Text
+    Stelle aktuelle Kosten vor
+    Firmen werden gerade verklagt
+    Urheberrecht ist nicht sicher
     </td>
 
     <!-- Methode --> <td>
-    Text
+    Vortrag
     </td>
 
     <!-- Material --> <td>
-    Text
+    Präsentation
     </td> </tr>
+    
 <!-- ---------------Zeile------------------ --> <tr>
   
     <!-- Zeit --> <td>
@@ -397,11 +562,15 @@ Seminar auszuprobieren.
     </td>
 
     <!-- Ziel --> <td>
-    Text
+    TN erfahren die Herausforderungen
+    TN lernen wie wichtig Echtheitsprüfung ist
     </td>
     
     <!-- Inhalt --> <td>
-    Text
+    Frage nach Herrausforderungen
+    ergänze ggf.:
+        - Fake Bilder
+        - Urheberrecht(Klagen(Schöperrische Höhe)
     </td>
 
     <!-- Methode --> <td>
@@ -411,182 +580,10 @@ Seminar auszuprobieren.
     <!-- Material --> <td>
     Text
     </td> </tr>
-<!-- ---------------Zeile------------------ --> <tr>
-  
-    <!-- Zeit --> <td>
-    00:00 - 00:-00 <br/>
-    00 min
-    </td>
 
-    <!-- Ziel --> <td>
-    Text
-    </td>
-    
-    <!-- Inhalt --> <td>
-    Text
-    </td>
 
-    <!-- Methode --> <td>
-    Text
-    </td>
+</table>
 
-    <!-- Material --> <td>
-    Text
-    </td> </tr>
-<!-- ---------------Zeile------------------ --> <tr>
-  
-    <!-- Zeit --> <td>
-    00:00 - 00:-00 <br/>
-    00 min
-    </td>
-
-    <!-- Ziel --> <td>
-    Text
-    </td>
-    
-    <!-- Inhalt --> <td>
-    Text
-    </td>
-
-    <!-- Methode --> <td>
-    Text
-    </td>
-
-    <!-- Material --> <td>
-    Text
-    </td> </tr>
-<!-- ---------------Zeile------------------ --> <tr>
-  
-    <!-- Zeit --> <td>
-    00:00 - 00:-00 <br/>
-    00 min
-    </td>
-
-    <!-- Ziel --> <td>
-    Text
-    </td>
-    
-    <!-- Inhalt --> <td>
-    Text
-    </td>
-
-    <!-- Methode --> <td>
-    Text
-    </td>
-
-    <!-- Material --> <td>
-    Text
-    </td> </tr>
-<!-- ---------------Zeile------------------ --> <tr>
-  
-    <!-- Zeit --> <td>
-    00:00 - 00:-00 <br/>
-    00 min
-    </td>
-
-    <!-- Ziel --> <td>
-    Text
-    </td>
-    
-    <!-- Inhalt --> <td>
-    Text
-    </td>
-
-    <!-- Methode --> <td>
-    Text
-    </td>
-
-    <!-- Material --> <td>
-    Text
-    </td> </tr>
-<!-- ---------------Zeile------------------ --> <tr>
-  
-    <!-- Zeit --> <td>
-    00:00 - 00:-00 <br/>
-    00 min
-    </td>
-
-    <!-- Ziel --> <td>
-    Text
-    </td>
-    
-    <!-- Inhalt --> <td>
-    Text
-    </td>
-
-    <!-- Methode --> <td>
-    Text
-    </td>
-
-    <!-- Material --> <td>
-    Text
-    </td> </tr>
-<!-- ---------------Zeile------------------ --> <tr>
-  
-    <!-- Zeit --> <td>
-    00:00 - 00:-00 <br/>
-    00 min
-    </td>
-
-    <!-- Ziel --> <td>
-    Text
-    </td>
-    
-    <!-- Inhalt --> <td>
-    Text
-    </td>
-
-    <!-- Methode --> <td>
-    Text
-    </td>
-
-    <!-- Material --> <td>
-    Text
-    </td> </tr>
-<!-- ---------------Zeile------------------ --> <tr>
-  
-    <!-- Zeit --> <td>
-    00:00 - 00:-00 <br/>
-    00 min
-    </td>
-
-    <!-- Ziel --> <td>
-    Text
-    </td>
-    
-    <!-- Inhalt --> <td>
-    Text
-    </td>
-
-    <!-- Methode --> <td>
-    Text
-    </td>
-
-    <!-- Material --> <td>
-    Text
-    </td> </tr>
-<!-- ---------------Zeile------------------ --> <tr>
-  
-    <!-- Zeit --> <td>
-    00:00 - 00:-00 <br/>
-    00 min
-    </td>
-
-    <!-- Ziel --> <td>
-    Text
-    </td>
-    
-    <!-- Inhalt --> <td>
-    Text
-    </td>
-
-    <!-- Methode --> <td>
-    Text
-    </td>
-
-    <!-- Material --> <td>
-    Text
-    </td> </tr>
 
 
 
