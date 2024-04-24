@@ -292,7 +292,9 @@ Seminar auszuprobieren.
     </td>
 
     <!-- Material --> <td>
-    Text
+    Metaplan Karten
+    Breiter Stift
+    Pinnwand
     </td> </tr>
 <!-- ---------------Zeile------------------ --> <tr>
   
