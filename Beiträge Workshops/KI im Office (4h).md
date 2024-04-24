@@ -1,15 +1,13 @@
 ---
+
 taxonomy:
     category:
         - Workshops
         
 ---
-# In Bearbeitung
+KI kann Mitarbeitenden im Büro  behilflich sein. Vier Stunden lang werden ausprobiert, geübt und gelernt wie KI gut eingesetzt werden kann.
 
-Der aller erste hier gepostete Workshop, behandelt in 4 Stunden die Grundlagen der künstlichen Intelligenz.
-Gehalten wurde dieser an einer VHS.
+Die Fotodokumentation könnt Ihr <a href="https://ki-workshop.org/protokoll-ki-im-office-4h/">hier</a> ansehen.
 
-Die Fotodokumentation könnt Ihr [hier](https://ki-workshop.org/protokoll-ki-im-office-4h/) ansehen.
-
-Die Workshop Skript Unterlage (ZIM) könnt Ihr [hier](https://ki-workshop.org/skript-ki-im-office-4h/) ansehen.
+Die Workshop Skript Unterlage (ZIM) könnt Ihr <a href="https://ki-workshop.org/skript-ki-im-office-4h/">hier</a>  ansehen.
 
