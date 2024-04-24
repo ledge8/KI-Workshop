@@ -234,18 +234,6 @@ Seminar auszuprobieren.
     -
     </td> </tr>
 
-
- <!-- -------------Pause Zeile-------------- --> <tr>
-   
-    <!-- Zeit --> <td>
-    
-    00:00 - 00:00 
-    00 min
-    
-    <td> Pause </td> </tr>
-
-
-</table>
 <!-- ---------------Zeile------------------ --> <tr>
   
     <!-- Zeit --> <td>
@@ -254,15 +242,53 @@ Seminar auszuprobieren.
     </td>
 
     <!-- Ziel --> <td>
-    Text
+    TN lernen einfachen Weg für
+    mehr Barrierefreiheit
     </td>
     
     <!-- Inhalt --> <td>
-    Text
+    Zeige ein Wordpress Plugin, dass einen
+    Playbutton auf Seiten, wie beim Spiegel,
+    anzeigt.
+    Zeige Kosten / werden angezeigt
     </td>
 
     <!-- Methode --> <td>
-    Text
+    Live Demonstration
+    </td>
+
+    <!-- Material --> <td>
+    Wordpress Seite
+    Plugin
+    Beispielseite
+    Repo von Morpheus
+    </td> </tr>
+<!-- ---------------Zeile------------------ --> <tr>
+  
+    <!-- Zeit --> <td>
+    00:00 - 00:-00 <br/>
+    00 min
+    </td>
+
+    <!-- Ziel --> <td>
+    TN lernen Herrausforderungen kennen
+    TN lernen wie sie sich vor Fakeanrufen
+    schützen können
+    Werden motiviert Wissen nach außen
+    zu tragen
+    </td>
+    
+    <!-- Inhalt --> <td>
+    Sammeln im Plenum Herausforderungen
+    Refi schreibt auf Metaplankarten und
+    pinnt sie an
+    Refi richtet Appell an TN, Sicherheitsfragen
+    bei Anrufen zu vereinbaren & wissen weiterzugeben
+    
+    </td>
+
+    <!-- Methode --> <td>
+    Plenum, Kartenabfrage
     </td>
 
     <!-- Material --> <td>
@@ -276,63 +302,48 @@ Seminar auszuprobieren.
     </td>
 
     <!-- Ziel --> <td>
-    Text
+    TN lernen Tool für 
+    Sprache -> Text kennen
     </td>
     
     <!-- Inhalt --> <td>
-    Text
+    Stelle Wispher vor
+    Zeige Video von IOS diktierfunktion
+    Betone Datenschutzfreundlichkeit von Wispher
+    <!-- Recherchiere ob auch für Andriod #31-->
     </td>
 
     <!-- Methode --> <td>
-    Text
+    Live Demonstration
     </td>
 
     <!-- Material --> <td>
-    Text
+    Wispher läuft AUF 
+    dem Computer
     </td> </tr>
 <!-- ---------------Zeile------------------ --> <tr>
   
     <!-- Zeit --> <td>
-    00:00 - 00:-00 <br/>
+    00:00 - 00:00 <br/>
     00 min
     </td>
 
     <!-- Ziel --> <td>
-    Text
+    TN verlieren Hemmungen
+    es zu nutzen
     </td>
     
     <!-- Inhalt --> <td>
-    Text
+    TN können an Laptops
+    Wispher ausprobieren
     </td>
 
     <!-- Methode --> <td>
-    Text
+    Einzelarbeit
     </td>
 
     <!-- Material --> <td>
-    Text
-    </td> </tr>
-<!-- ---------------Zeile------------------ --> <tr>
-  
-    <!-- Zeit --> <td>
-    00:00 - 00:-00 <br/>
-    00 min
-    </td>
-
-    <!-- Ziel --> <td>
-    Text
-    </td>
-    
-    <!-- Inhalt --> <td>
-    Text
-    </td>
-
-    <!-- Methode --> <td>
-    Text
-    </td>
-
-    <!-- Material --> <td>
-    Text
+    Laptops mit Wispher installiert
     </td> </tr>
 <!-- ---------------Zeile------------------ --> <tr>
   
