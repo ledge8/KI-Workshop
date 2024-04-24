@@ -1,15 +1,17 @@
 ---
+
 taxonomy:
     category:
-        - Workshops
-        
----
-In Bearbeitung
+        - Workshops        
 
-Der aller erste hier gepostete Workshop, behandelt in 4 Stunden die Grundlagen der künstlichen Intelligenz.
+---
+
+
+Was alles können Chatbots und eie wird ein guter Prompt geschrieben?
+Diese Fragen werden in diesem vierstündigen Workshop behandelt.
 Gehalten wurde dieser an einer VHS.
 
-Die Fotodokumentation könnt Ihr [hier](https://ki-workshop.org/protokoll-how-to-text-ki-4h/) ansehen.
+Die Fotodokumentation könnt Ihr <a href="https://ki-workshop.org/protokoll-how-to-text-ki-4h/">hier</a> ansehen.
 
-Die Workshop Skript Unterlage (ZIM) könnt Ihr [hier](https://ki-workshop.org/skript-how-to-text-ki-4h/) ansehen.
+Die Workshop Skript Unterlage (ZIM) könnt Ihr <a href="https://ki-workshop.org/skript-how-to-text-ki-4h/">hier</a> ansehen.
 
