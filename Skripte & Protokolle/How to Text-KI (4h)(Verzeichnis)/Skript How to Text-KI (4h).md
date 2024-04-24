@@ -405,7 +405,7 @@ Seminar auszuprobieren.
     </td>
 
     <!-- Material --> <td>
-    Text
+    Flipchart
     </td> </tr>
 
  <!-- -------------Pause Zeile-------------- --> <tr>
