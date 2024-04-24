@@ -7,7 +7,7 @@ taxonomy:
 ---
 
 
-Was alles können Chatbots und eie wird ein guter Prompt geschrieben?
+Was alles können Chatbots und wie wird ein guter Prompt geschrieben?
 Diese Fragen werden in diesem vierstündigen Workshop behandelt.
 Gehalten wurde dieser an einer VHS.
 
