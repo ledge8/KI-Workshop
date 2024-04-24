@@ -2,7 +2,7 @@
 taxonomy:
     category:
         - Workshops
-        
+comment_status: open        
 ---
 In Bearbeitung
 
