@@ -27,9 +27,7 @@ Außerdem sprechen wir über die Herausforderungen, die mit dem Einzug der KI am
 
 <hr>
 ## Zim
-
 <table border="1,5" cellpadding="5" cellspacing="0">
- 
   <tr>
     <th>Zeit</th>
     <th>Ziel</th>
