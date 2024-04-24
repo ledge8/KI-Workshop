@@ -16,11 +16,19 @@ Text to Audio
 Bildererstellung
 Recherche via Stdsjf.io
 
-
 -->
 
 
 <hr>
+### Wichtigste Regel
+![image](https://github.com/ledge8/KI-Workshop/assets/166513027/59676d7a-89eb-4f81-a213-f75526d804cd)
+
+### Beispiele für Text-KI-Einsatz
+<!-- Link zu Beitrag erstellen -->
+
+
+<hr>
+
 
 
 
