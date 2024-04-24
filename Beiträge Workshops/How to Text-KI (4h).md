@@ -1,9 +1,8 @@
 ---
-
 taxonomy:
     category:
         - Workshops        
-
+comment_status: open
 ---
 
 
