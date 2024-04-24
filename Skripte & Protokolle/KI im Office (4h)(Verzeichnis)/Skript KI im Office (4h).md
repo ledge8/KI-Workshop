@@ -121,6 +121,8 @@ Außerdem sprechen wir über die Herausforderungen, die mit dem Einzug der KI am
     Fragen was sie damit taten
     Beliebigen ChatBot zeigen
     Gruppe nach Prompt fragen
+    Direkt auf Fehler aufmerksam machen
+    "Wichtigste Regel Flipchart" zeigen
     </td>
 
     <!-- Methode --> <td>
@@ -157,17 +159,434 @@ Außerdem sprechen wir über die Herausforderungen, die mit dem Einzug der KI am
 
     <!-- Material --> <td>
     Präsentation
+    Beamer/Monitor/
+    Computer
     </td> </tr>
 
+ <!-- ---------------Zeile------------------ --> <tr>
+  
+    <!-- Zeit --> <td>
+    11:40 - 11:50 <br/>
+    10 min
+    </td>
 
+    <!-- Ziel --> <td>
+    TN lernen [stark vereinfacht] die
+    grundlegende Funktionsweise einer KI
+    </td>
+    
+    <!-- Inhalt --> <td>
+    <!-- MUSS VERBESSERT WERDEN -->
+    Am Whiteboard aufmalen:
+    Ich möchte das nächste Wort im Satz wissen.
+    Die Eingabe (das was man der KI gibt) z.B. „Ich mag“, 
+    wird in Zahlenwerte umgewandelt, damit die KI es verarbeiten kann.
+    Der umgewandelte Satz wird nun in ein Neuronales Netz gegeben.
+    Dieses wurde vorher trainiert.
+    Das Neuronale Netz gibt als Antwort wieder Zahlenwerte aus.
+    Diese Zahlenwerte werden wieder in Text umgewandelt.
+    Das Ergebnis ist „Züge“.
+    -> Anhand der Trainingsdaten wird wahrscheinlich 
+    nächste Wort errechnet.
+    -> Trainieren verbraucht die meiste Engergie,
+    Brücke zu OpenSource schlagen
+    Erklärung hier https://www.youtube.com/watch?v=j2mXlzOZ4V4
+    
+    </td>
+
+    <!-- Methode --> <td>
+    Lehr-Lern Gespräch am Whiteboard
+    </td>
+
+    <!-- Material --> <td>
+    Whiteboard
+    Whiteboardmaker
+    </td> </tr>
+    
  <!-- -------------Pause Zeile-------------- --> <tr>
    
     <!-- Zeit --> <td>
     
-    00:00 - 00:00 
-    00 min
+    11:50 - 12:00 
+    10 min
     
     <td> Pause </td> </tr>
+    
+ <!-- ---------------Zeile------------------ --> <tr>
+  
+    <!-- Zeit --> <td>
+    12:00 - 12:20 <br/>
+    20 min
+    </td>
+
+    <!-- Ziel --> <td>
+    TN lernen, was mit Text-KI 
+    möglich ist
+    </td>
+    
+    <!-- Inhalt --> <td>
+    Refi zeigt anhand echter Chats
+    <!-- Link zu Beitrag -->
+    Refi zeigt QR Code mit Zusammenfassung
+    Refi hält Disskusionen kurz!
+    </td>
+
+    <!-- Methode --> <td>
+    Lehr-Lern-Gespräch
+    </td>
+
+    <!-- Material --> <td>
+    Echte Chats
+    Zusammenfassung online
+    QR Code zur Zusammenfassung
+    </td> </tr>
+
+ <!-- ---------------Zeile------------------ --> <tr>
+  
+    <!-- Zeit --> <td>
+    12:20 - 12:35 <br/>
+    15 min
+    </td>
+
+    <!-- Ziel --> <td>
+    TN lernen Prompts zu optimieren
+    </td>
+    
+    <!-- Inhalt --> <td>
+    Refi geht die Prompt Optimierungsregeln durch
+    </td>
+
+    <!-- Methode --> <td>
+    Text
+    </td>
+
+    <!-- Material --> <td>
+    Text
+    </td> </tr>
+
+ <!-- ---------------Zeile------------------ --> <tr>
+  
+    <!-- Zeit --> <td>
+    12:35 - 13:05 <br/>
+    30 min
+    </td>
+
+    <!-- Ziel --> <td>
+    TN können eigenen Anwendungsfall
+    ausprobieren
+    </td>
+    
+    <!-- Inhalt --> <td>
+    2er Gruppen bilden
+    Jede Gruppe soll einen Fall
+    überlegen
+    15 Min drauf losschreiben
+    15 Min
+    Zu ihrem Fall einen Prompt
+    durchoptimieren
+    Im Anschluss vorstellen,
+    sollen Laptop mitnehmen
+    </td>
+
+    <!-- Methode --> <td>
+    Gruppenarbeit
+    </td>
+
+    <!-- Material --> <td>
+    Laptops mit der Anzahl
+    der Gruppen, mit LLM,
+    im Raum verteilt
+    </td> </tr>
+
+ <!-- ---------------Zeile------------------ --> <tr>
+  
+    <!-- Zeit --> <td>
+    13:05 - 13:20 <br/>
+    15 min
+    </td>
+
+    <!-- Ziel --> <td>
+    TN lernen von anderen
+    </td>
+    
+    <!-- Inhalt --> <td>
+    Gruppen stellen kurz vor
+    wie sie Prompt optimiert haben
+    </td>
+
+    <!-- Methode --> <td>
+    Gruppen präsentieren
+    </td>
+
+    <!-- Material --> <td>
+    Beamer/Monitor mit 
+    passenden Kabeln für
+    die Laptops
+    </td> </tr>
+    
+ <!-- -------------Pause Zeile-------------- --> <tr>
+   
+    <!-- Zeit --> <td>
+    
+    13:20 - 13:30 
+    10 min
+    
+    <td> Pause </td> </tr>
+    
+ <!-- ---------------Zeile------------------ --> <tr>
+  
+    <!-- Zeit --> <td>
+    13:30 - 13:40 <br/>
+    10 min
+    </td>
+
+    <!-- Ziel --> <td>
+    TN erfahren wie sie Bild-KI
+    nutzen können
+    </td>
+    
+    <!-- Inhalt --> <td>
+    Modelle vorstellen
+    - Midjourney
+    - Dall*E 3
+    - Stable Deffusion XL & 3
+    Promptoptiemirung DAlleE erwähnen
+    Alle Modelle/ Versionen sind unterschiedlich
+    Trial & Error + Doku
+    Funktionionen live zeigen
+    - Bild in Stable Diffusion & Midjourny erstellen
+    - Inpainting, Zoom Out, etc. zeigen
+    Adobe Firefly und Canva GPTs ansprechen
+    </td>
+
+    <!-- Methode --> <td>
+    Lehr-Lern Gespräch
+    Live Präsentation
+    </td>
+
+    <!-- Material --> <td>
+    Flipchart mit Modellen
+    Computer, Monitor/Beamer,
+    Bild-Ki-Systeme
+    </td> </tr>
+
+ <!-- ---------------Zeile------------------ --> <tr>
+  
+    <!-- Zeit --> <td>
+    12:40 - 13:45 <br/>
+    05 min
+    </td>
+
+    <!-- Ziel --> <td>
+    TN lernen Vorteile von 
+    OpenSource kennen
+    </td>
+    
+    <!-- Inhalt --> <td>
+    In die Runde Fragen:
+    - Was sind proprietäre Systeme?
+    -> 1. Teil der Flipchart zeigen
+    Nachteile aufzählen
+    Gegenteil -> OpenSource - zeigen
+    (Mischung erwähnen, nur zum Teil OpenSource)
+    Vorteile aufzählen
+    
+    Verweise auf Videos & Dokumentation
+    </td>
+
+    <!-- Methode --> <td>
+    Fragen per Zuruf
+    Flipchart zeigen
+    </td>
+
+    <!-- Material --> <td>
+    Flipchart
+    </td> </tr>
+
+<!-- ---------------Zeile------------------ --> <tr>
+  
+    <!-- Zeit --> <td>
+    13:45 - 13:55 <br/>
+    10 min
+    </td>
+
+    <!-- Ziel --> <td>
+    TN erhalten Überblick
+    zu aktuellen Modellen
+    </td>
+    
+    <!-- Inhalt --> <td>
+    Zeige die Gruppierungsweise (Flipchart)
+    Per Zuruf nach Systemen fragen, dabei ist nicht 
+    wichtig, ob es sich um ein KI-Modell, oder
+    Anwendung handelt.
+    Nennungen auf Metaplankarten schreiben.
+    blau=OpenSource, orange=Proprietär, braun=Mischung
+    Gruppiere an der Pinnwand direkt.
+    Interessante weitere Anwendungen sind:
+    - Mistral x
+    - LLAMA x
+    - TTS OpenAI
+    - Wispher OpenAI
+    - scienceos.ai
+    - DeepL
+    - ElevenLabs
+    - Gemini
+    - Bing Chat
+    
+    </td>
+
+    <!-- Methode --> <td>
+    Erklärung an Flipchart
+    Zuruf Abfrage auf Metaplankarten
+    </td>
+
+    <!-- Material --> <td>
+    Metaplan Karten
+    Flipchart
+    Überschriften Karten
+    </td> </tr>
+
+
+
+ <!-- ---------------Zeile------------------ --> <tr>
+  
+    <!-- Zeit --> <td>
+    13:55 - 14:15 <br/>
+    20 min
+    </td>
+
+    <!-- Ziel --> <td>
+    Lernen weitere Anwendungen 
+    kennen
+    </td>
+    
+    <!-- Inhalt --> <td>
+    TN können nun selber
+    folgende Modelle ausprobieren
+    DallE
+    Midjourny
+    Stable Diffusion
+    Wispher
+    TTS OpenAI
+    ElevenLabs
+    Mistral
+    scienceos.ai
+    DeepL
+    
+    
+    </td>
+
+    <!-- Methode --> <td>
+    Einzelarbeit
+    </td>
+
+    <!-- Material --> <td>
+    Computer mit den Modellen 
+    im Raum
+    </td> </tr>
+
+
+<!-- ---------------Zeile------------------ --> <tr>
+<!-- Zurzet gleich mit KI-Grundlagen -->
+    <!-- Zeit --> <td>
+    14:15 - 14:35 <br/>
+    20 min
+    </td>
+
+    <!-- Ziel --> <td>
+    TN erfahren über die Gefahren/Hindernisse/
+    Herausforderungen erfahren und erkennen.
+    </td>
+    
+    <!-- Inhalt --> <td>
+    Refi zeigt Flipchart mit Frage
+    TN sollen auf Metaplankarten aufschreiben
+    Danach sammeln auf Pinnwand, Refi pinnt &
+    gruppiert direkt. 
+    
+    Refi ergänzt weitere Punkte:
+    - Bias
+    - Überschätzung
+    - Ressourcenverbrauch
+    - plappert, simuliert, produziert Falschinformationen
+    - Manipulation
+    - unklarer Urheberschutz
+    - Datenschutz
+    Refi zeigt Flipchart mit Gruppierung und
+    fasst zusammen.
+    </td>
+
+    <!-- Methode --> <td>
+    Kartenabfrage
+    </td>
+
+    <!-- Material --> <td>
+    Flipchart
+    </td> </tr>
+
+ <!-- ---------------Zeile------------------ --> <tr>
+  
+    <!-- Zeit --> <td>
+    14:35 - 14:45 <br/>
+    10 min
+    </td>
+
+    <!-- Ziel --> <td>
+    TN erfahren über Schwierigkeiten
+    beim Urheberrecht/Datenschutz/Kosten
+    </td>
+    
+    <!-- Inhalt --> <td>
+    WICHTIG! Keine Rechtsberatung & Garantie
+    Einzelne AGBs anschneiden
+    ChatGPT
+    StabelDiffusion
+    Midjourny
+    Wispher
+    TTS
+    Elevenlabs
+    Mistral
+    <!-- ergänze Links und weitere Infos -->
+    </td>
+
+    <!-- Methode --> <td>
+    Lehr-Lern-Gespräch
+    </td>
+
+    <!-- Material --> <td>
+    Präsentation
+    
+    </td> </tr>
+
+<!-- ---------------Zeile------------------ --> <tr>
+  
+    <!-- Zeit --> <td>
+    14:50 - 15:00 <br/>
+    10 min
+    </td>
+
+    <!-- Ziel --> <td>
+    TN erhalten einen schönen Abschluss
+    </td>
+    
+    <!-- Inhalt --> <td>
+    TN fasst Workshop nochmal zusammen
+    TN erhalten eine Übersicht zu weiteren 
+    Informationsquellen.
+    Refi fragt nach (anonymem Feedback)
+    Refi zeigt Seminardokumentation.
+    Refi verabschiedet sich
+    </td>
+
+    <!-- Methode --> <td>
+    -
+    </td>
+
+    <!-- Material --> <td>
+    Flipchart Workshopfahrplan
+    Flipchart weitere Quellen
+    </td> </tr>
 
 
 </table>
