@@ -89,7 +89,7 @@ Alle sprechen von KI, aber was ist KI eigentlich? In diesem Seminar verschaffen 
     </td>
 
     <!-- Material --> <td>
-    Flipchar mit Seminarfahrplan
+    Flipchart mit Seminarfahrplan
     </td> </tr>
 
 <!-- ---------------Zeile------------------ --> <tr>
