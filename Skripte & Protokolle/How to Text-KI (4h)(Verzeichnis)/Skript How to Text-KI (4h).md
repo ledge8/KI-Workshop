@@ -2,10 +2,8 @@
 taxonomy:
     category:
         - Workshopskript
-        
+comment_status: open    
 ---
-
-# In Bearbeitung
 
 
 Dieser Workshop dauert 4 Stunden.
