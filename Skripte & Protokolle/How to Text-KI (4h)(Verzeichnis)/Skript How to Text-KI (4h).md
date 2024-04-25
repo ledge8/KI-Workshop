@@ -15,7 +15,6 @@ Erarbeiten Sie live im Seminar Ihre persönlichen Einsatzszenarien und probieren
 
 <hr>
 ## Zim
-
 <table border="1,5" cellpadding="5" cellspacing="0">
  
 <tr>
