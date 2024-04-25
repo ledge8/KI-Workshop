@@ -7,18 +7,7 @@ comment_status: open
 
 ## Teasertext
 
-Alle sprechen von KI und Sie nutzen ?
-wahrscheinlich schon viele KI-Systeme, ohne
-es zu wissen. Aber was ist KI eigentlich und
-was können diese Systeme bereits?
-In diesem Seminar verschaffen wir Ihnen
-Klarheit über die grundlegenden Funktions-
-weisen der KI, erörtern die Einsatzmöglich-
-keiten im privaten und beruflichen Umfeld
-und diskutieren aktuelle Herausforderungen.
-Darauf aufbauend erhalten Sie die Chance,
-die populärsten Anwendungen selbst live im
-Seminar auszuprobieren.
+folgt
 
 <hr>
 ## Zim
