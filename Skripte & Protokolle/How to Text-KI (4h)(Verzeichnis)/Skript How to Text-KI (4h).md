@@ -5,15 +5,6 @@ taxonomy:
 comment_status: open    
 ---
 
-
-Dieser Workshop dauert 4 Stunden.
-
-Ihr könnt die Unterlagen unter folgender Lizenz selber nutzen
-
-[ KI Grundlagen Workshopunterlagen ](https://ki-workshop.org/ki-grundlagen-workshop/) © 2024   by  [ Max Quast ](https://ki-workshop.org/author/max-quast/) is licensed under [ CC BY-SA 4.0 ](http://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1)
-
-
-<hr>
 ## Teasertext
 
 Alle sprechen von KI und Sie nutzen ?
