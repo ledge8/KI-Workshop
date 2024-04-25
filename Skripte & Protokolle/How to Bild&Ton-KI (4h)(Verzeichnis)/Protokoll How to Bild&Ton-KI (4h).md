@@ -11,7 +11,7 @@ comment_status: open
 - Sprache zu Text Anwendungen
 - Bild KI-Systeme
 
-
+<hr>
 ### Beispiele Audio KI
 [Hier](https://docs.google.com/presentation/d/1IxbK4WbruttTIiEyHSLS63PCn0NYZr0chhAGmWjf-SM/edit?usp=sharing) findest du Beispiele für die Qualität von ElevenLabs
 [Hier](https://platform.openai.com/docs/guides/text-to-speech/voice-options) sind Beispiele von den Stimmen von OpenAI.
@@ -21,7 +21,7 @@ ElevenLabs Stimmen
 OpenAI Stimmen
 [Link](https://www.spiegel.de/netzwelt/web/kuenstliche-intelligenz-microsoft-investiert-in-franzoesisches-start-up-mistral-ai-a-471e16ed-8c8a-4ff1-9316-85c66a86eb50) zu Spiegel Beitrag
 
-
+<hr>
 ### Tooleinführung
 
 ElevenLabs [Link](https://elevenlabs.io/)
@@ -46,37 +46,37 @@ Zum Installieren musst du den folgenden ZIP Ordner herunterladen, entpacken und 
     [Link](https://github.com/TheMorpheus407/OpenAI-Audiobook-Generator) zum Repositorie. 
     [Link](https://platform.openai.com/) zu OpenAI
 
+<hr>
 ### Audio Funktion wie beim Spiegel bauen
 [Hier](https://wp-toolbox.com/wordpress-audio-block-so-fuegst-du-audio-dateien-ein/) ist ein Beitrag, in dem erklärt wird, wie ihr eure Audio Dateien auf eurer Wordpress Seite hochladen könnt.
 
-
-
+<hr>
 ### Herrausforderungen
 Es gibt einige Herausforderungen, die mit der Technik einzug halten.
 - Anrufe mit geklonter Stimme von z.B. dem Kond 
 - Fakes der eigenen Stimme im Internet
 - Die Sycronsprecherindustrie bangt um Jobs (Link)
-- ...
-- 
+- ... 
 
 Ein effektiver Weg, sich vor Fakeanrufen zu schützen, ist mit Freunden und Familie Sicherheitsfragen auszumachen, für den Fall dass Geldangelegenheiten per Telefon geklärt werden müssen.
     
-    
+<hr>   
 ### Vorstellung Wispher
 Wispher ist ein Modell von OpenAI, welches Sprache in Text umwandelt und vollständig auf dem eigenen Computer laufen kann. Es ist OpenSource und hier verfügbar. LINK
     Eine Anleitung zum Installieren findest du [hier](https://www.youtube.com/watch?v=20zr9MgI0LE).
     Die Lizenz findest du [hier](https://github.com/openai/whisper/blob/main/LICENSE).
 
-
+<hr>
 ### Beispiele KI Generierter Bilder
 "Hier werden noch Bilder von Dalle/Stable Diffusion/Midjourny hochladen"
 
-
+<hr>
 ### Unterschiede der Modelle
 
 Die Modelle interpretieren die Prompts zuweilen sehr unterschiedlich, wie am folgenden Beispiel zu sehen.
 "Bild von Prompt der in 3 Modelle gegeben wird."
 
+<hr>
 ### Beispiele für Prompts
 
 ![grafik](https://github.com/ledge8/KI-Workshop/assets/166513027/12c40f3e-24d5-47d3-a890-5a95cd993662)
@@ -93,6 +93,7 @@ Die Modelle interpretieren die Prompts zuweilen sehr unterschiedlich, wie am fol
 
 ![grafik](https://github.com/ledge8/KI-Workshop/assets/166513027/9aaf52ed-e64a-4571-9e9a-df7424870ed8)
 Hier ist ein Beispiel für ein sehr problematisches Bild, den die Rechteinhaber an Deadpool könnten einen Anspruch auf dieses Bild haben.
+
 <hr>
 ### Tipps für gute Prompts
 Die Modelle sind sehr unterschiedlich, ein Prompt der bei Midjourny funktioniert, muss nicht bei Dall*E genauso funktionieren.
@@ -103,7 +104,7 @@ Dennoch gibt es einige allgemeine Tipps:
 - Trail and Error, nimm im Zweifel mehrere Anläufe
 - Lasse Prompt von KI optimieren 
 
-
+<hr>
 ### Thema Urheberrecht & Kosten & Lizenzen bei Bild-KI-Modellen
 1. Es gibt Streit, ob KI generierte Bilder überhaupt schützendswert sind. ("Quellen Klagen, Einschätzungen")
 2. Die Anwendung sagt dir nicht, ob nicht andere ein Recht an dem generierten Bild haben. Nutze Foto Rückwertssuchen z.B. [Google Bilder Rückwertssuche](https://images.google.com/imghp?hl=de) <!-- weitere ergänzen -->
@@ -112,6 +113,7 @@ Dennoch gibt es einige allgemeine Tipps:
 - Midjourny [Kosten](https://docs.midjourney.com/docs/plans) [Lizenz](https://docs.midjourney.com/docs/terms-of-service) 
 - Stable Diffusion [Kosten](https://stablediffusionweb.com/de/pricing) [Lizenz](https://stablediffusionweb.com/license.html)
 
+<hr>
 ### Herausforderungen mit dem Einzug von Bild-KI-Systemen
 - Fakes können schneller erstellt werden 
 - Trainingsdaten möglicherweise illegal
