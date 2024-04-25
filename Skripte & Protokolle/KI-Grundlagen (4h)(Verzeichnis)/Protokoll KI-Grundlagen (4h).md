@@ -23,22 +23,26 @@ Dabei können Gefahren von den Systemen ausgehen, aber auch Chancen.
 
 <hr>
 ### Einblick in aktuelle Anwendungen
+In dieser Präsentation https://docs.google.com/presentation/d/1nB7-nE1tx7leaEeqDWUwquSq9xXZ94tWBCH00JXelMo/edit?usp=drive_link
+erhälst du einen Überblick zu den aktuellen Anwendungen.
 
 
 <hr>
 ### Funktionsweise
 <!-- Dringend verbessern https://github.com/ledge8/KI-Workshop/issues/10#issue-2257093704 -->
-![Schaubildung Funktionsweise KI](https://github.com/ledge8/KI-Workshop/assets/166513027/02ddaee6-8566-45f3-914d-d31a71c1c39b)
+![grafik](https://github.com/ledge8/KI-Workshop/assets/166513027/bb743022-94d3-4db4-ac72-77ba40c9d15f)
+
+
 
 Beispiel Generative Textbasierte KI:
 Ich möchte das nächste Wort im Satz wissen.
-Die Eingabe (das was man der KI gibt) z.B. "Ich mag", wird in Zahlenwerte umgewandelt, damit die KI es verarbeiten kann.
+Die Eingabe (das was man der KI gibt) z.B. "Ich liebe", wird in Zahlenwerte umgewandelt, damit die KI es verarbeiten kann.
 Der umgewandelte Satz wird nun in ein Neuronales Netz gegeben.
 Dieses wurde vorher trainiert.
 Das Neuronale Netz gibt als Antwort wieder Zahlenwerte aus.
 Diese Zahlenwerte werden wieder in Text umgewaldelt.
-Das Ergebniss ist "Züge".
--> Anhand der Trainingsdaten wurde das wahrscheinlich nächte Wort "Züge" errechnet.
+Das Ergebniss ist "dich".
+-> Anhand der Trainingsdaten wurde das wahrscheinlich nächte Wort "Liebe" errechnet.
 
 Weitere Informationen dazu findest du hier:
 https://www.youtube.com/watch?v=fT69SLK2m9I
