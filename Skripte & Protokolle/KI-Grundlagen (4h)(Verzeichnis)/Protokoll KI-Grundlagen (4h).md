@@ -52,6 +52,7 @@ https://www.youtube.com/watch?v=j2mXlzOZ4V4
 <hr>
 ### OpenSource
 <!-- Hier Bild rein tun -->
+![grafik](https://github.com/ledge8/KI-Workshop/assets/166513027/827d6166-8d8f-410a-882e-e421fd57891e)
 
 Hier ist eine Anleitung um OpenSource Modelle zu nutzen
 https://www.youtube.com/watch?v=SUYXdI1kC08&t
@@ -66,8 +67,9 @@ https://huggingface.co
 
 <hr>
 ### Anwendungsfälle
-![grafik](https://github.com/ledge8/KI-Workshop/assets/166513027/da1c0731-d733-450b-befd-92332cca575d")
+![grafik](https://github.com/ledge8/KI-Workshop/assets/166513027/da1c0731-d733-450b-befd-92332cca575d)
 
+Beispiele, wie Chatbots verwendet werden, findest Du <a href="https://ki-workshop.org/anwendungsbeispiele-text-ki/">hier</a>.
 <hr>
 ### Empfehlungen
 
@@ -94,11 +96,17 @@ suno
 <hr>
 ### Herausforderungen
 ![grafik](https://github.com/ledge8/KI-Workshop/assets/166513027/a2804bb6-8ce9-4813-a15c-94ccbda0d8d2 "Wir sammelten, welche Herausforderungen es geben kann")
-![grafik](https://github.com/ledge8/KI-Workshop/assets/166513027/0fbc2ac8-4a36-4893-b881-f5cf4cda8fdb)
+![grafik](https://github.com/ledge8/KI-Workshop/assets/166513027/7cae0577-9e93-49bf-a03d-0b61b2cfb347)
+
 
 <hr>
 ### Weitere Anlaufstellen
 ![grafik](https://github.com/ledge8/KI-Workshop/assets/166513027/acb36da1-b737-4e94-8aa7-62ed79961f23)
+
+Weitere Anlaufpunkte findest Du auch in diesem Beitrag <a href="https://ki-workshop.org/wo-kann-ich-mich-informieren/">hier</a>.
+
+
+[giw_edit_link]
 
 
 
