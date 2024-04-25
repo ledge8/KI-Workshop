@@ -71,7 +71,7 @@ https://huggingface.co
 
 Beispiele, wie Chatbots verwendet werden, findest Du <a href="https://ki-workshop.org/anwendungsbeispiele-text-ki/">hier</a>.
 <hr>
-### Empfehlungen
+### Übersicht aktueller Anwendungen
 
 #### Chat Bots:
 https://chat.openai.com
