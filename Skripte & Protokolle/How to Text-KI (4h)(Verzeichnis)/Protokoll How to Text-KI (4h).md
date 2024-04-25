@@ -14,13 +14,11 @@ comment_status: open
 
 <hr>
 ### Funktionen von ChatGPT Plus
-    Screenshots von:
     -Chaten
     -Bilder hochladen
     -Bilder erstellen
-    -Dateien hochladen
-    (auf Einschränkungen eingehen)
-    -Dateien erstellen lassen
+    -Dateien hochladen (mit Einschräkungen)
+    -Dateien erstellen lassen (mit Einschränkungen)
     -GPTs mit Aktionen
         - Wolfram
         - Adobe
@@ -74,17 +72,17 @@ https://huggingface.co
 
 
 ### GPTs von ChatGPT Plus
-    GPTs kann man sich wie folgt vorstellen
-    FLIPCHART
+![grafik](https://github.com/ledge8/KI-Workshop/assets/166513027/fbb8c898-d4aa-4108-8912-62762f8c547f)
 
-    Es gibt zum Beispiel GPTs zu
-    - leichter Sprache LINK
-    - Wolfram LINK
-    - Adobe LINK
-    - Wordpress LINK
 
-    & man kann auch eigene GPTs erstellen.
-    Hier findest du ein Anleitungsvideo LINK
+Es gibt zum Beispiel GPTs zu
+- leichter Sprache [LINK](https://chat.openai.com/g/g-iKegfBMtc-einfache-und-leichte-sprache-in-deutsch)
+- Wolfram [LINK](https://chat.openai.com/g/g-0S5FXLyFN-wolfram)
+- Adobe [LINK](https://chat.openai.com/g/g-pcoHeADVw-adobe-express)
+- Wordpress [LINK](https://chat.openai.com/g/g-BahnEMrJ0-wordpress-wizard)
+
+& man kann auch eigene GPTs erstellen.
+[Hier](https://www.youtube.com/watch?v=d47yw73u7bM) findest du ein Anleitungsvideo.
 
 
 <hr>
