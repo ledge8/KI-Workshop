@@ -84,7 +84,14 @@ Die zurzeit größten Anwendungen kommen von:
 - Mit den Modellen von Mistral und LLAMA laufen Chatbots vollständig auf dem eigenen Computer.
 
 ### OpenSource
+![grafik](https://github.com/ledge8/KI-Workshop/assets/166513027/827d6166-8d8f-410a-882e-e421fd57891e)
 
+Hier ist eine Anleitung um OpenSource Modelle zu nutzen
+https://www.youtube.com/watch?v=SUYXdI1kC08&t
+
+Hier findest Du OpenSource Modelle.
+Im Abschnitt "Spaces" kann man Modelle auch ausprobieren.
+https://huggingface.co
 
 
 ### Herausforderungen
