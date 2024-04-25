@@ -11,7 +11,8 @@ taxonomy:
 
 <hr>
 ### Einstiegsfrage
-![grafik](https://github.com/ledge8/KI-Workshop/assets/166513027/d976e77b-56b5-4728-9c0a-d6ae4f2ebab0)
+![grafik](https://github.com/ledge8/KI-Workshop/assets/166513027/3714874c-16fb-4938-b410-2280ec6eb66f)
+
 
 <hr>
 ### Ergebnisse
@@ -61,7 +62,7 @@ https://huggingface.co
 
 <hr>
 ### Anwendungsfälle
-![Hier schauten wir uns an, wo KI-Systeme eingesetzt werden können](https://github.com/ledge8/KI-Workshop/assets/166513027/da1c0731-d733-450b-befd-92332cca575d" Hier schauten wir uns an, wo KI-Systeme eingesetzt werden können")
+![grafik](https://github.com/ledge8/KI-Workshop/assets/166513027/da1c0731-d733-450b-befd-92332cca575d")
 
 <hr>
 ### Empfehlungen
