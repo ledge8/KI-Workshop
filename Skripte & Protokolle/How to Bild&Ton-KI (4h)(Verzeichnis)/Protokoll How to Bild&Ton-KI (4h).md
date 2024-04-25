@@ -108,9 +108,9 @@ Dennoch gibt es einige allgemeine Tipps:
 1. Es gibt Streit, ob KI generierte Bilder überhaupt schützendswert sind. ("Quellen Klagen, Einschätzungen")
 2. Die Anwendung sagt dir nicht, ob nicht andere ein Recht an dem generierten Bild haben. Nutze Foto Rückwertssuchen z.B. [Google Bilder Rückwertssuche](https://images.google.com/imghp?hl=de) <!-- weitere ergänzen -->
 3. Links zu den Kosten & Lizenzen
-        Dall*E [Kosten](https://openai.com/chatgpt/pricing) [Lizenz](https://openai.com/policies/terms-of-use)
-        Midjourny [Kosten](https://docs.midjourney.com/docs/plans) [Lizenz](https://docs.midjourney.com/docs/terms-of-service) 
-        Stable Diffusion [Kosten](https://stablediffusionweb.com/de/pricing) [Lizenz](https://stablediffusionweb.com/license.html)
+- Dall*E [Kosten](https://openai.com/chatgpt/pricing) [Lizenz](https://openai.com/policies/terms-of-use)
+- Midjourny [Kosten](https://docs.midjourney.com/docs/plans) [Lizenz](https://docs.midjourney.com/docs/terms-of-service) 
+- Stable Diffusion [Kosten](https://stablediffusionweb.com/de/pricing) [Lizenz](https://stablediffusionweb.com/license.html)
 
 ### Herausforderungen mit dem Einzug von Bild-KI-Systemen
 - Fakes können schneller erstellt werden 
