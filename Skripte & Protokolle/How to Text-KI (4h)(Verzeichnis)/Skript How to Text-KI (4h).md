@@ -8,9 +8,9 @@ comment_status: open
 ## Teasertext
 
 Entdecken Sie die Fähigkeiten von KI im Textschreiben!
-Schon heute können Sie mit geschickten Anweisungen („Prompts“) eindrucksvolle Werbetexte, E-Mails, Bildbeschreibungen und vieles mehr generieren lassen.
+Schon heute können Sie mit geschickten Anweisungen („Prompts“) eindrucksvolle Texte, E-Mails, Feedback und vieles mehr generieren lassen.
 Sie lernen wie die KI funktioniert, wie Sie sie bedienen können und welche Herausforderungen es gibt.
-Zwar bedarf es stets Ihrer Überprüfung, aber Ihre Zeitersparnis wird enorm sein.
+Zwar bedarf es stets Ihrer Überprüfung, aber Ihre Zeitersparnis wird groß sein.
 Erarbeiten Sie live im Seminar Ihre persönlichen Einsatzszenarien und probieren Sie es einfach aus.
 
 <hr>
