@@ -3,6 +3,7 @@
 taxonomy:
     category:
         - Workshops
+comment_status: open  
         
 ---
 KI kann Mitarbeitenden im Büro  behilflich sein. Vier Stunden lang werden ausprobiert, geübt und gelernt wie KI gut eingesetzt werden kann.
