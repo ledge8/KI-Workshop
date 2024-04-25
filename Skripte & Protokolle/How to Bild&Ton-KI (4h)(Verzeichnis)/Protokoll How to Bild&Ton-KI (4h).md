@@ -82,16 +82,21 @@ Die Modelle interpretieren die Prompts zuweilen sehr unterschiedlich, wie am fol
 ![grafik](https://github.com/ledge8/KI-Workshop/assets/166513027/12c40f3e-24d5-47d3-a890-5a95cd993662)
 
 <br>
+
 ![grafik](https://github.com/ledge8/KI-Workshop/assets/166513027/3c03e8f4-4e16-47f8-aaf5-1c05d415e451)
+
 <br>
 
 ![grafik](https://github.com/ledge8/KI-Workshop/assets/166513027/814f8cf0-74aa-40fb-b77e-c1a4c7a43e4c)
 
 <br>
+
 ![grafik](https://github.com/ledge8/KI-Workshop/assets/166513027/d24ec130-fe1b-499c-8080-e8242deda51d)
+
 <br>
 
 ![grafik](https://github.com/ledge8/KI-Workshop/assets/166513027/9aaf52ed-e64a-4571-9e9a-df7424870ed8)
+
 Hier ist ein Beispiel für ein sehr problematisches Bild, den die Rechteinhaber an Deadpool könnten einen Anspruch auf dieses Bild haben.
 
 <hr>
