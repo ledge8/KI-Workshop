@@ -2,7 +2,7 @@
 taxonomy:
     category:
         - Empfehlungen
-        
+comment_status: open          
 ---
 In diesem Artikel werden Beispiele gezeigt, wie Text-KI-Systeme verwendet werden können. Sie sollen als Inspiration dienen und werden stetig erweitert. 
 
