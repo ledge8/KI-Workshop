@@ -14,3 +14,4 @@ Die Fotodokumentation könnt Ihr <a href="https://ki-workshop.org/protokoll-how-
 
 Die Workshop Skript Unterlage (ZIM) könnt Ihr <a href="https://ki-workshop.org/skript-how-to-bildton-ki-4h/">hier</a> ansehen.
 
+[giw_edit_link]
