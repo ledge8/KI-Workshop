@@ -81,28 +81,39 @@ Die Modelle interpretieren die Prompts zuweilen sehr unterschiedlich, wie am fol
 
 ![grafik](https://github.com/ledge8/KI-Workshop/assets/166513027/12c40f3e-24d5-47d3-a890-5a95cd993662)
 
+<br>
+![grafik](https://github.com/ledge8/KI-Workshop/assets/166513027/3c03e8f4-4e16-47f8-aaf5-1c05d415e451)
+<br>
+
+![grafik](https://github.com/ledge8/KI-Workshop/assets/166513027/814f8cf0-74aa-40fb-b77e-c1a4c7a43e4c)
+
+<br>
+![grafik](https://github.com/ledge8/KI-Workshop/assets/166513027/d24ec130-fe1b-499c-8080-e8242deda51d)
+<br>
+
+![grafik](https://github.com/ledge8/KI-Workshop/assets/166513027/9aaf52ed-e64a-4571-9e9a-df7424870ed8)
+Hier ist ein Beispiel für ein sehr problematisches Bild, den die Rechteinhaber an Deadpool könnten einen Anspruch auf dieses Bild haben.
+<hr>
+### Tipps für gute Prompts
+Die Modelle sind sehr unterschiedlich, ein Prompt der bei Midjourny funktioniert, muss nicht bei Dall*E genauso funktionieren.
+Dennoch gibt es einige allgemeine Tipps:
+- Stil angeben
+- Details (Objekte/Farben/...) benennen
+- Komposition und Perspektive beschreiben
+- Trail and Error, nimm im Zweifel mehrere Anläufe
+- Lasse Prompt von KI optimieren 
 
 
+### Thema Urheberrecht & Kosten & Lizenzen bei Bild-KI-Modellen
+1. Es gibt Streit, ob KI generierte Bilder überhaupt schützendswert sind. ("Quellen Klagen, Einschätzungen")
+2. Die Anwendung sagt dir nicht, ob nicht andere ein Recht an dem generierten Bild haben. Nutze Foto Rückwertssuchen z.B. [Google Bilder Rückwertssuche](https://images.google.com/imghp?hl=de) <!-- weitere ergänzen -->
+3. Links zu den Kosten & Lizenzen
+        Dall*E [Kosten](https://openai.com/chatgpt/pricing) [Lizenz](https://openai.com/policies/terms-of-use)
+        Midjourny [Kosten](https://docs.midjourney.com/docs/plans) [Lizenz](https://docs.midjourney.com/docs/terms-of-service) 
+        Stable Diffusion [Kosten](https://stablediffusionweb.com/de/pricing) [Lizenz](https://stablediffusionweb.com/license.html)
 
-    
-Tipps für gute Prompts
-    FLIPCHART malen
-    - Stile (zeige welche)
-    - Details (Objekte/Farben/...)
-    - Komposition und Perspektive:
-    - Trail and Error
-    - Lasse Prompt optimieren 
+### Herausforderungen mit dem Einzug von Bild-KI-Systemen
+- Fakes können schneller erstellt werden 
+- Trainingsdaten möglicherweise illegal
+...
 
-
-Thema Urheberrecht & Kosten & Lizenzen bei Bild-KI-Modellen
-    1. Es gibt Streit, ob KI generierte Bilder überhaupt schützendswert sind. (Quellen Klagen, Einschätzungen)
-    2. Links zu den Kosten & Lizenzen
-        DallE
-        Midjourny
-        Stable Diffusion
-
-Herausforderungen mit dem Einzug von Bild-KI-Systemen
-    - Fakes können schneller erstellt werden LINK weißes Haus
-    - Trainingsdaten möglicherweise illegal LINK
-    
--->
