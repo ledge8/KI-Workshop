@@ -6,7 +6,8 @@ taxonomy:
 
 
 ### Workshop Überblick
-![grafik](https://github.com/ledge8/KI-Workshop/assets/166513027/41da98e1-2df6-497b-92a0-31c472a47f6d)
+![grafik](https://github.com/ledge8/KI-Workshop/assets/166513027/7b33b5f4-f497-4f57-8749-4d166fd544c0)
+
 
 <hr>
 ### Einstiegsfrage
