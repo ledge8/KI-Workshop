@@ -2,7 +2,7 @@
 taxonomy:
     category:
         - Empfehlungen
-        
+comment_status: open 
 ---
 
 <!-- wp:paragraph -->
@@ -102,5 +102,9 @@ taxonomy:
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
+<p><p>
+[giw_edit_link]
 <p></p>
 <!-- /wp:paragraph -->
+
+
