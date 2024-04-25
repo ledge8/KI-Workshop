@@ -4,6 +4,8 @@ taxonomy:
         - Empfehlungen
         
 ---
+In diesem Artikel werden Beispiele gezeigt, wie Text-KI-Systeme verwendet werden können. Sie sollen als Inspiration dienen und werden stetig erweitert. 
+
 ### Links zu Beispielchat mit ChatGPT & GPTs
 Anwendungsfall 1, Text auf Rechtschreibung überprüfen <https://chat.openai.com/share/a038d85e-50b1-4f55-b689-08a8ac24fcf1>
 
