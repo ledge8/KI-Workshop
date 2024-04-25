@@ -3,7 +3,7 @@ skip_file: yes
 taxonomy:
     category:
         - Workshopskript
-        
+comment_status: open  
 ---
 Vorlage
 
