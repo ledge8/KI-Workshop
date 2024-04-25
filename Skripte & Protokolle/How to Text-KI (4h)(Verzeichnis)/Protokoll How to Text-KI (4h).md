@@ -2,7 +2,7 @@
 taxonomy:
     category:
         - Workshopprotokoll
-        
+comment_status: open        
 ---
 
 # In Bearbeitung
