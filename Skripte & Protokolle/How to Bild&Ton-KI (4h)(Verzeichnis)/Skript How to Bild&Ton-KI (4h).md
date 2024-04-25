@@ -2,7 +2,7 @@
 taxonomy:
     category:
         - Workshopskript
-        
+comment_status: open  
 ---
 
 # In Bearbeitung
