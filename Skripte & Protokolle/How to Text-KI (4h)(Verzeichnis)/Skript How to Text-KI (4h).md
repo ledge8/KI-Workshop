@@ -13,7 +13,8 @@ Sie lernen wie die KI funktioniert, wie Sie sie bedienen können und welche Hera
 Zwar bedarf es stets Ihrer Überprüfung, aber Ihre Zeitersparnis wird groß sein.
 Erarbeiten Sie live im Seminar Ihre persönlichen Einsatzszenarien und probieren Sie es einfach aus.
 
-
+<br>
+<br>
 
 
 <hr>
