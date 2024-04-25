@@ -51,7 +51,6 @@ https://www.youtube.com/watch?v=j2mXlzOZ4V4
 
 <hr>
 ### OpenSource
-<!-- Hier Bild rein tun -->
 ![grafik](https://github.com/ledge8/KI-Workshop/assets/166513027/827d6166-8d8f-410a-882e-e421fd57891e)
 
 Hier ist eine Anleitung um OpenSource Modelle zu nutzen
