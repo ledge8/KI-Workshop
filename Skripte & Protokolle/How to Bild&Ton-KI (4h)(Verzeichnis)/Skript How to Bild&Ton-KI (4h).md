@@ -5,17 +5,6 @@ taxonomy:
 comment_status: open  
 ---
 
-# In Bearbeitung
-
-
-Dieser Workshop dauert 4 Stunden.
-
-Ihr könnt die Unterlagen unter folgender Lizenz selber nutzen
-
-[ KI Grundlagen Workshopunterlagen ](https://ki-workshop.org/ki-grundlagen-workshop/) © 2024   by  [ Max Quast ](https://ki-workshop.org/author/max-quast/) is licensed under [ CC BY-SA 4.0 ](http://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1)
-
-
-<hr>
 ## Teasertext
 
 Alle sprechen von KI und Sie nutzen ?
@@ -128,8 +117,8 @@ Seminar auszuprobieren.
  <!-- ---------------Zeile------------------ -->
   
     <!-- Zeit --> <td>
-    00:00 - 00:00 <br/>
-    00 min
+    11:20 - 11:25 <br/>
+    05 min
     </td>
 
     <!-- Ziel --> <td>
@@ -160,8 +149,8 @@ Seminar auszuprobieren.
 <!-- ---------------Zeile------------------ --> <tr>
   
     <!-- Zeit --> <td>
-    00:00 - 00:-00 <br/>
-    00 min
+    11:25 - 11:35 <br/>
+    10 min
     </td>
 
     <!-- Ziel --> <td>
@@ -186,8 +175,8 @@ Seminar auszuprobieren.
 <!-- ---------------Zeile------------------ --> <tr>
   
     <!-- Zeit --> <td>
-    00:00 - 00:00 <br/>
-    00 min
+    11:35 - 11:55 <br/>
+    20 min
     </td>
 
     <!-- Ziel --> <td>
@@ -213,8 +202,8 @@ Seminar auszuprobieren.
  <!-- ---------------Zeile------------------ --> <tr>
   
     <!-- Zeit --> <td>
-    00:00 - 00:00 <br/>
-    00 min
+    11:55 - 12:05 <br/>
+    10 min
     </td>
 
     <!-- Ziel --> <td>
@@ -235,10 +224,21 @@ Seminar auszuprobieren.
     </td> </tr>
 
 <!-- ---------------Zeile------------------ --> <tr>
+    <!-- PAUSE & Puffer -->
+    <!-- Zeit --> <td>
+    
+    12:15 - 12:25 
+    10 min
+    
+    <td/></td>
+    <!-- Pause --> <td>
+    Pause
+    </td> </tr>
+<!-- ---------------Zeile------------------ --> <tr>
   
     <!-- Zeit --> <td>
-    00:00 - 00:-00 <br/>
-    00 min
+    12:25 - 12:30 <br/>
+    05 min
     </td>
 
     <!-- Ziel --> <td>
@@ -266,8 +266,8 @@ Seminar auszuprobieren.
 <!-- ---------------Zeile------------------ --> <tr>
   
     <!-- Zeit --> <td>
-    00:00 - 00:-00 <br/>
-    00 min
+    12:30 - 12:45 <br/>
+    15 min
     </td>
 
     <!-- Ziel --> <td>
@@ -299,8 +299,8 @@ Seminar auszuprobieren.
 <!-- ---------------Zeile------------------ --> <tr>
   
     <!-- Zeit --> <td>
-    00:00 - 00:-00 <br/>
-    00 min
+    12:45 - 12:50 <br/>
+    05 min
     </td>
 
     <!-- Ziel --> <td>
@@ -326,8 +326,8 @@ Seminar auszuprobieren.
 <!-- ---------------Zeile------------------ --> <tr>
   
     <!-- Zeit --> <td>
-    00:00 - 00:00 <br/>
-    00 min
+    12:50 - 13:00 <br/>
+    10 min
     </td>
 
     <!-- Ziel --> <td>
@@ -350,8 +350,8 @@ Seminar auszuprobieren.
 <!-- ---------------Zeile------------------ --> <tr>
   
     <!-- Zeit --> <td>
-    00:00 - 00:-00 <br/>
-    00 min
+    13:00 - 13:10 <br/>
+    10 min
     </td>
 
     <!-- Ziel --> <td>
@@ -379,8 +379,8 @@ Seminar auszuprobieren.
 <!-- ---------------Zeile------------------ --> <tr>
   
     <!-- Zeit --> <td>
-    00:00 - 00:-00 <br/>
-    00 min
+    13:10 - 13:15 <br/>
+    05 min
     </td>
 
     <!-- Ziel --> <td>
@@ -404,8 +404,8 @@ Seminar auszuprobieren.
 <!-- ---------------Zeile------------------ --> <tr>
   
     <!-- Zeit --> <td>
-    00:00 - 00:-00 <br/>
-    00 min
+    13:15 - 13:30 <br/>
+    15 min
     </td>
 
     <!-- Ziel --> <td>
@@ -430,8 +430,8 @@ Seminar auszuprobieren.
 <!-- ---------------Zeile------------------ --> <tr>
   
     <!-- Zeit --> <td>
-    00:00 - 00:-00 <br/>
-    00 min
+    13:30 - 13:45 <br/>
+    15 min
     </td>
 
     <!-- Ziel --> <td>
@@ -455,11 +455,24 @@ Seminar auszuprobieren.
     <!-- Material --> <td>
     Präsentation mit Beispielen
     </td> </tr>
+
+<!-- ---------------Zeile------------------ --> <tr>
+    <!-- PAUSE -->
+    <!-- Zeit --> <td>
+    
+    13:45 - 13:55 
+    10 min
+    
+    <td/></td>
+    <!-- Pause --> <td>
+    Pause
+    </td> </tr>
+    
 <!-- ---------------Zeile------------------ --> <tr>
   
     <!-- Zeit --> <td>
-    00:00 - 00:-00 <br/>
-    00 min
+    13:55 - 14:05 <br/>
+    10 min
     </td>
 
     <!-- Ziel --> <td>
@@ -488,8 +501,8 @@ Seminar auszuprobieren.
 <!-- ---------------Zeile------------------ --> <tr>
   
     <!-- Zeit --> <td>
-    00:00 - 00:-00 <br/>
-    00 min
+    14:05 - 14:25 <br/>
+    20 min
     </td>
 
     <!-- Ziel --> <td>
@@ -511,12 +524,12 @@ Seminar auszuprobieren.
 <!-- ---------------Zeile------------------ --> <tr>
   
     <!-- Zeit --> <td>
-    00:00 - 00:-00 <br/>
-    00 min
+    14:25 - 14:35 <br/>
+    10 min
     </td>
 
     <!-- Ziel --> <td>
-    TN 
+    TN verfestigen gesehendes
     </td>
     
     <!-- Inhalt --> <td>
@@ -533,8 +546,8 @@ Seminar auszuprobieren.
 <!-- ---------------Zeile------------------ --> <tr>
   
     <!-- Zeit --> <td>
-    00:00 - 00:-00 <br/>
-    00 min
+    14:35 - 14:40 <br/>
+    05 min
     </td>
 
     <!-- Ziel --> <td>
@@ -559,8 +572,8 @@ Seminar auszuprobieren.
 <!-- ---------------Zeile------------------ --> <tr>
   
     <!-- Zeit --> <td>
-    00:00 - 00:-00 <br/>
-    00 min
+    14:40 - 14:50 <br/>
+    10 min
     </td>
 
     <!-- Ziel --> <td>
@@ -581,6 +594,35 @@ Seminar auszuprobieren.
 
     <!-- Material --> <td>
     Text
+    </td> </tr>
+
+<!-- ---------------Zeile------------------ --> <tr>
+  
+    <!-- Zeit --> <td>
+    14:50 - 15:00 <br/>
+    10 min
+    </td>
+
+    <!-- Ziel --> <td>
+    TN erhalten einen schönen Abschluss
+    </td>
+    
+    <!-- Inhalt --> <td>
+    TN fasst Workshop nochmal zusammen
+    TN erhalten eine Übersicht zu weiteren 
+    Informationsquellen.
+    Refi fragt nach (anonymem Feedback)
+    Refi zeigt Seminardokumentation.
+    Refi verabschiedet sich
+    </td>
+
+    <!-- Methode --> <td>
+    -
+    </td>
+
+    <!-- Material --> <td>
+    Flipchart Workshopfahrplan
+    Flipchart weitere Quellen
     </td> </tr>
 
 
