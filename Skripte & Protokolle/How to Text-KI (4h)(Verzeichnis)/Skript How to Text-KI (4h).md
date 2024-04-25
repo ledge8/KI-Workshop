@@ -7,18 +7,11 @@ comment_status: open
 
 ## Teasertext
 
-Alle sprechen von KI und Sie nutzen ?
-wahrscheinlich schon viele KI-Systeme, ohne
-es zu wissen. Aber was ist KI eigentlich und
-was können diese Systeme bereits?
-In diesem Seminar verschaffen wir Ihnen
-Klarheit über die grundlegenden Funktions-
-weisen der KI, erörtern die Einsatzmöglich-
-keiten im privaten und beruflichen Umfeld
-und diskutieren aktuelle Herausforderungen.
-Darauf aufbauend erhalten Sie die Chance,
-die populärsten Anwendungen selbst live im
-Seminar auszuprobieren.
+Entdecken Sie die Fähigkeiten von KI im Textschreiben!
+Schon heute können Sie mit geschickten Anweisungen („Prompts“) eindrucksvolle Werbetexte, E-Mails, Bildbeschreibungen und vieles mehr generieren lassen.
+Sie lernen wie die KI funktioniert, wie Sie sie bedienen können und welche Herausforderungen es gibt.
+Zwar bedarf es stets Ihrer Überprüfung, aber Ihre Zeitersparnis wird enorm sein.
+Erarbeiten Sie live im Seminar Ihre persönlichen Einsatzszenarien und probieren Sie es einfach aus.
 
 <hr>
 ## Zim
