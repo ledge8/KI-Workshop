@@ -53,10 +53,10 @@ https://www.youtube.com/watch?v=j2mXlzOZ4V4
 ### OpenSource
 ![grafik](https://github.com/ledge8/KI-Workshop/assets/166513027/827d6166-8d8f-410a-882e-e421fd57891e)
 
-Hier ist eine Anleitung um OpenSource Modelle zu nutzen
+Hier finden Sie eine Anleitung für die Verwendung von Open Source Modellen.
 https://www.youtube.com/watch?v=SUYXdI1kC08&t
 
-Hier findest Du OpenSource Modelle.
+Hier finden Sie die OpenSource Modelle zum Download.
 Im Abschnitt "Spaces" kann man Modelle auch ausprobieren.
 https://huggingface.co
 
@@ -68,29 +68,30 @@ https://huggingface.co
 ### Anwendungsfälle
 ![grafik](https://github.com/ledge8/KI-Workshop/assets/166513027/da1c0731-d733-450b-befd-92332cca575d)
 
-Beispiele, wie Chatbots verwendet werden, findest Du <a href="https://ki-workshop.org/anwendungsbeispiele-text-ki/">hier</a>.
-<hr>
+Beispiele für den Einsatz von Chatbots werden [hier](https://ki-workshop.org/anwendungsbeispiele-text-ki/) in einem eigenen Artikel vorgestellt.
 ### Übersicht aktueller Anwendungen
 
-#### Chat Bots:
-https://chat.openai.com
-Mistral
-LLAMA
-bing chat
-gemini
-Studiensearch
+#### Chatbots:
+[ChatGPT](https://chat.openai.com)
+[Mistral](https://mistral.ai/)
+[LLAMA](https://llama.meta.com/)
+[Bing Chat](https://www.bing.com/chat)
+[Gemini](https://gemini.google.com/?hl=de)
+[Scienceos](https://www.scienceos.ai/)
 
-#### Bilder KI-Systeme:
-midjourney
-Stabele Deffusion
-Dall-E 3
+#### Bilder-KI-Systeme:
+[Midjourny](https://www.midjourney.com/home)
+[Stabele Diffusion
+](https://stablediffusionweb.com/)
+[Dall-E 3](https://chat.openai.com) (Nur mit ChatGPT Plus oder per API)
 
-#### Audio Systeme
-elevenlabs.io
-TTS von Open ai
+#### Audio-Systeme
+[ElvenLabs](https://elevenlabs.io/)
+[TTS von OpenAI](https://help.openai.com/en/articles/8555505-tts-api)
+    -> kann einfach über den [Audiobook Generator](https://github.com/TheMorpheus407/OpenAI-Audiobook-Generator) genutzt werden
 
-#### Musik Erstellung
-suno
+#### Musikerstellung
+[Suno AI](https://suno.com/about)
 
 <hr>
 ### Herausforderungen
@@ -102,10 +103,9 @@ suno
 ### Weitere Anlaufstellen
 ![grafik](https://github.com/ledge8/KI-Workshop/assets/166513027/acb36da1-b737-4e94-8aa7-62ed79961f23)
 
-Weitere Anlaufpunkte findest Du auch in diesem Beitrag <a href="https://ki-workshop.org/wo-kann-ich-mich-informieren/">hier</a>.
+Weitere Anknüpfungspunkte finden sich auch in diesem Beitrag <a href="https://ki-workshop.org/wo-kann-ich-mich-informieren/">Beitrag</a>.
 
 
-[giw_edit_link]
 
 
 
