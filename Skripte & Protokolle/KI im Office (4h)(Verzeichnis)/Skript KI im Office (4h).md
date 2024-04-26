@@ -19,8 +19,8 @@ Egal ob beim PowerPoint erstellen, dem Projektmanagement oder der Termin Protoko
 Sie lernen eine Vielzahl an Einsatzmöglichkeiten kennen und erhalten die Gelegenheit gleich im Seminar diese mit Ihren persönlichen Anwendungsfällen auszuprobieren.
 Außerdem sprechen wir über die Herausforderungen, die mit dem Einzug der KI am Schreibtisch zu tun haben.
 <br>
-<br>
-<br>
+ 
+ 
 <hr>
 ## Zim
 <table border="1,5" cellpadding="5" cellspacing="0">
