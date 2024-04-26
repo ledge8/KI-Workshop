@@ -103,7 +103,7 @@ Beispiele für den Einsatz von Chatbots werden [hier](https://ki-workshop.org/an
 ### Weitere Anlaufstellen
 ![grafik](https://github.com/ledge8/KI-Workshop/assets/166513027/acb36da1-b737-4e94-8aa7-62ed79961f23)
 
-Weitere Anknüpfungspunkte finden sich auch in diesem Beitrag <a href="https://ki-workshop.org/wo-kann-ich-mich-informieren/">Beitrag</a>.
+Weitere Anknüpfungspunkte finden sich auch in diesem <a href="https://ki-workshop.org/wo-kann-ich-mich-informieren/">Beitrag</a>.
 
 
 
