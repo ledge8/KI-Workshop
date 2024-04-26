@@ -1,11 +1,12 @@
 ---
 taxonomy:
     category:
-        - Workshopprotokoll     
+        - Workshopprotokoll 
+comment_status: open  
 ---
 
 
-### Workshop Überblick
+### Workshop Übersicht
 ![grafik](https://github.com/ledge8/KI-Workshop/assets/166513027/7b33b5f4-f497-4f57-8749-4d166fd544c0)
 
 
@@ -18,13 +19,12 @@ taxonomy:
 ### Ergebnisse
 ![grafik](https://github.com/ledge8/KI-Workshop/assets/166513027/1a3a4042-9148-4850-a029-34db67bf0357)
 
-Resüme: Als Ergebnis hielten wir fest: KI-Systeme werden einen immer größeren Einfluss auf uns, die Gesellschaft und die Arbeitswelt haben.
-Dabei können Gefahren von den Systemen ausgehen, aber auch Chancen.
+Fazit: Als Ergebnis hielten wir fest, dass KI-Systeme einen immer größeren Einfluss auf uns, die Gesellschaft und die Arbeitswelt haben werden.
+Dabei können von den Systemen Gefahren, aber auch Chancen ausgehen.
 
 <hr>
 ### Einblick in aktuelle Anwendungen
-In dieser Präsentation https://docs.google.com/presentation/d/1nB7-nE1tx7leaEeqDWUwquSq9xXZ94tWBCH00JXelMo/edit?usp=drive_link
-erhälst du einen Überblick zu den aktuellen Anwendungen.
+[Diese Präsentation](https://docs.google.com/presentation/d/1nB7-nE1tx7leaEeqDWUwquSq9xXZ94tWBCH00JXelMo/edit?usp=drive_link) zeigt einige Beispiele, wie KI bereits eingesetzt wird.
 
 
 <hr>
@@ -34,15 +34,15 @@ erhälst du einen Überblick zu den aktuellen Anwendungen.
 
 
 
-Beispiel Generative Textbasierte KI:
+Beispiel: Textbasierte generative KI:
 Ich möchte das nächste Wort im Satz wissen.
-Die Eingabe (das was man der KI gibt) z.B. "Ich liebe", wird in Zahlenwerte umgewandelt, damit die KI es verarbeiten kann.
-Der umgewandelte Satz wird nun in ein Neuronales Netz gegeben.
-Dieses wurde vorher trainiert.
-Das Neuronale Netz gibt als Antwort wieder Zahlenwerte aus.
-Diese Zahlenwerte werden wieder in Text umgewaldelt.
-Das Ergebniss ist "dich".
--> Anhand der Trainingsdaten wurde das wahrscheinlich nächte Wort "Liebe" errechnet.
+Die Eingabe (das, was Sie der KI geben), z.B. „Ich liebe“, wird in Zahlenwerte umgewandelt, damit die KI sie verarbeiten kann.
+Der umgewandelte Satz wird nun in ein neuronales Netz eingegeben.
+Dieses wurde zuvor trainiert.
+Das neuronale Netz gibt als Antwort wieder Zahlenwerte aus.
+Diese Zahlenwerte werden wieder in Text umgewandelt.
+Das Ergebnis ist „dich“.
+-> Mit Hilfe der Trainingsdaten wurde das wahrscheinlich nächste Wort „Liebe“ berechnet.
 
 Weitere Informationen dazu findest du hier:
 https://www.youtube.com/watch?v=fT69SLK2m9I
