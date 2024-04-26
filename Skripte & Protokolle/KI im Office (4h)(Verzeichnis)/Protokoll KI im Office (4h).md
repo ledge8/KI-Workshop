@@ -8,8 +8,8 @@ comment_status: open
 ### Workshopablauf
 ![image](https://github.com/ledge8/KI-Workshop/assets/166513027/4aefa3ff-f35b-401b-baa2-21b35862398c)
 
-### Beispiele für KI im Office
-<!-- Link zu Präsentation einfügen 
+<!-- ### Beispiele für KI im Office
+ Link zu Präsentation einfügen 
 Inhalt:
 TextBots als Gesprächspartner
 Audio to Text
@@ -30,17 +30,15 @@ Behaltet diese Regel immer im Hinterkopf!
 <!-- Dringend verbessern https://github.com/ledge8/KI-Workshop/issues/10#issue-2257093704 -->
 ![grafik](https://github.com/ledge8/KI-Workshop/assets/166513027/bb743022-94d3-4db4-ac72-77ba40c9d15f)
 
-
-
 Beispiel Generative Textbasierte KI:
 Ich möchte das nächste Wort im Satz wissen.
 Die Eingabe (das was man der KI gibt) z.B. "Ich liebe", wird in Zahlenwerte umgewandelt, damit die KI es verarbeiten kann.
 Der umgewandelte Satz wird nun in ein Neuronales Netz gegeben.
 Dieses wurde vorher trainiert.
 Das Neuronale Netz gibt als Antwort wieder Zahlenwerte aus.
-Diese Zahlenwerte werden wieder in Text umgewaldelt.
-Das Ergebniss ist "dich".
--> Anhand der Trainingsdaten wurde das wahrscheinlich nächte Wort "Liebe" errechnet.
+Diese Zahlenwerte werden wieder in Text umgewanldelt.
+Das Ergebnis ist "dich".
+-> Anhand der Trainingsdaten wurde das wahrscheinlich nächste Wort "Liebe" errechnet.
 
 Weitere Informationen dazu findest du hier:
 https://www.youtube.com/watch?v=fT69SLK2m9I
@@ -72,17 +70,29 @@ Die zurzeit größten Anwendungen kommen von:
 - Stable Diffusion
 
 <!-- mehr aus Bild&TOn Workshop übernehmen -->
-
+<hr>
 ### ChatGPT Erweiterungen
-<!-- mehr von Text KI Übernehmen -->
+![grafik](https://github.com/ledge8/KI-Workshop/assets/166513027/fbb8c898-d4aa-4108-8912-62762f8c547f)
 
+
+Es gibt zum Beispiel GPTs zu
+- leichter Sprache [LINK](https://chat.openai.com/g/g-iKegfBMtc-einfache-und-leichte-sprache-in-deutsch)
+- Wolfram [LINK](https://chat.openai.com/g/g-0S5FXLyFN-wolfram)
+- Adobe [LINK](https://chat.openai.com/g/g-pcoHeADVw-adobe-express)
+- Wordpress [LINK](https://chat.openai.com/g/g-BahnEMrJ0-wordpress-wizard)
+
+& man kann auch eigene GPTs erstellen.
+[Hier](https://www.youtube.com/watch?v=d47yw73u7bM) findest du ein Anleitungsvideo.
+
+
+<hr>
 ### Weitere Anwendungen für den Officebereich
 
 - Mit Scienceos könnt ihr Wissenschaftliche Recherche betreiben.
-- Mit dem Audiobook Generator sind güstige Texte zu Ton Aufgaben möglich.
-- Mit ElevenLabs kann Text erstklassig in Ton umgewadelt und Stimmen geklont werden.
+- Mit dem Audiobook Generator sind günstige Texte zu Ton Aufgaben möglich.
+- Mit ElevenLabs kann Text erstklassig in Ton umgewandelt und Stimmen geklont werden.
 - Mit den Modellen von Mistral und LLAMA laufen Chatbots vollständig auf dem eigenen Computer.
-
+<hr>
 ### OpenSource
 ![grafik](https://github.com/ledge8/KI-Workshop/assets/166513027/827d6166-8d8f-410a-882e-e421fd57891e)
 
