@@ -103,8 +103,8 @@ Erarbeiten Sie live im Seminar Ihre persönlichen Einsatzszenarien und probieren
     </td>
     
     <!-- Inhalt --> <td>
-    Fragen, wer hat schon mit Text-KI
-    gearbeitet & für was
+    Fragen, wer schon mit Text-KI
+    gearbeitet hat & wofür sie eingesetzt wird
     </td>
 
     <!-- Methode --> <td>
@@ -152,8 +152,8 @@ Erarbeiten Sie live im Seminar Ihre persönlichen Einsatzszenarien und probieren
  <!-- ---------------Zeile------------------ --> <tr>
   
     <!-- Zeit --> <td>
-    11:30 - 11:50 <br/>
-    20 min
+    12:00 - 12:15 <br/>
+    15 min
     </td>
 
     <!-- Ziel --> <td>
@@ -165,21 +165,19 @@ Erarbeiten Sie live im Seminar Ihre persönlichen Einsatzszenarien und probieren
     <!-- MUSS VERBESSERT WERDEN -->
     Am Whiteboard aufmalen:
     Ich möchte das nächste Wort im Satz wissen.
-    Die Eingabe (das was man der KI gibt) z.B. „Ich mag“, 
+    Die Eingabe (das, was man der KI gibt), z.B. "Ich liebe",
     wird in Zahlenwerte umgewandelt, damit die KI es verarbeiten kann.
-    Der umgewandelte Satz wird nun in ein Neuronales Netz gegeben.
+    Der umgewandelte Satz wird nun in ein neuronales Netz gegeben.
     Dieses wurde vorher trainiert.
-    Das Neuronale Netz gibt als Antwort wieder Zahlenwerte aus.
+    Das neuronale Netz gibt als Antwort wieder Zahlenwerte aus.
     Diese Zahlenwerte werden wieder in Text umgewandelt.
-    Das Ergebnis ist „Züge“.
-    -> Anhand der Trainingsdaten wird wahrscheinlich 
-    nächste Wort errechnet.
-    -> Trainieren verbraucht die meiste Engergie,
+    Das Ergebnis ist "dich".
+    -> Anhand der Trainingsdaten wird wahrscheinlich
+    das nächste Wort errechnet.
+    -> Trainieren verbraucht die meiste Energie,
     Brücke zu OpenSource schlagen
     Erklärung hier https://www.youtube.com/watch?v=j2mXlzOZ4V4
-    -> ChatGPT Expertenmodell
-    -> Multimodal
-    -> Optimiert Prompt für DallE
+
     </td>
 
     <!-- Methode --> <td>
@@ -215,7 +213,7 @@ Erarbeiten Sie live im Seminar Ihre persönlichen Einsatzszenarien und probieren
     
     <!-- Inhalt --> <td>
     Ein OpenSource Modell zeigen
-    Fragen, welche ChatBots sie noch kennen
+    Fragen, welche Chatbots sie noch kennen
     Aufschreiben
     ggf. ergänzen
     - Mistral, Bing, Gemini, LLAMA, Erni, Grok, scienceos
@@ -382,15 +380,20 @@ Erarbeiten Sie live im Seminar Ihre persönlichen Einsatzszenarien und probieren
     
     <!-- Inhalt --> <td>
     Prompt Tipps durchgehen
-    Prompts gemeinsam optimieren
+    Zu jedem Tipp ein Beispiel geben
+    2 Prompts gemeinsam optimieren
     </td>
 
     <!-- Methode --> <td>
-    Text
+    Vortag
+    Zuruf
     </td>
 
     <!-- Material --> <td>
     Flipchart
+    Computer mit
+    Chatbot
+    Beamer/Monitor
     </td> </tr>
 
  <!-- -------------Pause Zeile-------------- --> <tr>
@@ -406,29 +409,35 @@ Erarbeiten Sie live im Seminar Ihre persönlichen Einsatzszenarien und probieren
   
     <!-- Zeit --> <td>
     14:00 - 14:20 <br/>
-    30 min
+    20 min
     </td>
 
     <!-- Ziel --> <td>
-    Sollen eigenen Prompt ausprobieren und optimieren
+    Werden besser im prompten
     </td>
     
     <!-- Inhalt --> <td>
-    Text
+    2er Gruppen bilden
+    Jede Gruppe soll einen Fall
+    überlegen
+    Gruppenphase
+    20 Min -> Sollen zu ihrem Fall EINEN 
+    Prompt durchoptimieren.
     </td>
 
     <!-- Methode --> <td>
-    Text
+    Gruppenarbeit
     </td>
 
     <!-- Material --> <td>
-    Text
+    Computer mit 
+    den Modellen
     </td> </tr>
     
 <!-- ---------------Zeile------------------ --> <tr>
-<!-- Zurzet gleich mit KI-Grundlagen -->
+<!-- Zurzet gleich mit KI im Office -->
     <!-- Zeit --> <td>
-    14:20 - 14:40 <br/>
+    14:15 - 14:35 <br/>
     20 min
     </td>
 
