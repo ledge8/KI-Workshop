@@ -9,6 +9,9 @@ Vorlage
 
 # In Bearbeitung
 
-<!-- Die Überschriften bekommen ### Hashtags und jedes Thema wird mit <hr> von einander getrennt. -->
+<!-- Die Überschriften bekommen h2 Überschriften. 
+<h2></h2>
+Unterthemen h3
+Jedes Thema wird mit <hr> von einander getrennt. -->
 
 ###
