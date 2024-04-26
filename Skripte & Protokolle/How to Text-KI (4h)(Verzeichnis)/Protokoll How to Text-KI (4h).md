@@ -48,13 +48,8 @@ Wenn du ein Bild generieren lässt, erstellt ChatGPT anhand deiner Eingabe ein e
 
 <hr>
 ### Andere Modelle in der Übersicht
-Es gibt auch andere ChatBots.
-Z.B. den OpenSource ChatBot Mistral 8x7B, der ebenfalls dein Prompt an "Experten" Modelle weitergibt
-    Screenshot
-    Darüberhinaus gibt es noch unteranderem:
-    "AUFLISTUNG CHATBOTS
 
-    Besonders erwähneswert ist die Anwendung scienceOS...
+
 
 <hr>
 ### Propritäre versus OpenSource Anwendungen
