@@ -74,7 +74,6 @@ Die zurzeit größten Anwendungen kommen von:
 ### ChatGPT Erweiterungen
 ![grafik](https://github.com/ledge8/KI-Workshop/assets/166513027/fbb8c898-d4aa-4108-8912-62762f8c547f)
 
-
 Es gibt zum Beispiel GPTs zu
 - leichter Sprache [LINK](https://chat.openai.com/g/g-iKegfBMtc-einfache-und-leichte-sprache-in-deutsch)
 - Wolfram [LINK](https://chat.openai.com/g/g-0S5FXLyFN-wolfram)
@@ -103,7 +102,7 @@ Hier findest Du OpenSource Modelle.
 Im Abschnitt "Spaces" kann man Modelle auch ausprobieren.
 https://huggingface.co
 
-
+<hr>
 ### Herausforderungen
 ![grafik](https://github.com/ledge8/KI-Workshop/assets/166513027/a2804bb6-8ce9-4813-a15c-94ccbda0d8d2 "Wir sammelten, welche Herausforderungen es geben kann")
 ![grafik](https://github.com/ledge8/KI-Workshop/assets/166513027/7cae0577-9e93-49bf-a03d-0b61b2cfb347)
@@ -116,5 +115,3 @@ https://huggingface.co
 Weitere Anlaufpunkte findest Du auch in diesem Beitrag <a href="https://ki-workshop.org/wo-kann-ich-mich-informieren/">hier</a>. 
 
 
-
-[giw_edit_link]
