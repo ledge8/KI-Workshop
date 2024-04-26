@@ -48,7 +48,12 @@ Wenn du ein Bild generieren lässt, erstellt ChatGPT anhand deiner Eingabe ein e
 
 <hr>
 ### Andere Modelle in der Übersicht
-
+[ChatGPT](https://chat.openai.com)
+[Mistral](https://mistral.ai/)
+[LLAMA](https://llama.meta.com/)
+[Bing Chat](https://www.bing.com/chat)
+[Gemini](https://gemini.google.com/?hl=de)
+[Scienceos](https://www.scienceos.ai/)
 
 
 <hr>
