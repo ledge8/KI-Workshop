@@ -36,7 +36,7 @@ Der umgewandelte Satz wird nun in ein Neuronales Netz gegeben.
 Dieses wurde vorher trainiert.
 Das Neuronale Netz gibt als Antwort wieder Zahlenwerte aus.
 Diese Zahlenwerte werden wieder in Text umgewaldelt.
-Das Ergebniss ist "dich".
+Das Ergebnis ist "dich".
 -> Anhand der Trainingsdaten wurde das wahrscheinlich nächte Wort "Liebe" errechnet.
 
 Weitere Informationen dazu findest du hier:
