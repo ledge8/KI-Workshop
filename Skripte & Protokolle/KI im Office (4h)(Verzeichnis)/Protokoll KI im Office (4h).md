@@ -38,7 +38,7 @@ Dieses wurde vorher trainiert.
 Das Neuronale Netz gibt als Antwort wieder Zahlenwerte aus.
 Diese Zahlenwerte werden wieder in Text umgewanldelt.
 Das Ergebnis ist "dich".
--> Anhand der Trainingsdaten wurde das wahrscheinlich nächste Wort "Liebe" errechnet.
+-> Anhand der Trainingsdaten wurde das wahrscheinlich nächste Wort "dich" errechnet.
 
 Weitere Informationen dazu findest du hier:
 https://www.youtube.com/watch?v=fT69SLK2m9I
