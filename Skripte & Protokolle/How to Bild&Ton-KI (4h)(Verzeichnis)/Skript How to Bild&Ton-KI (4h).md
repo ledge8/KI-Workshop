@@ -5,11 +5,11 @@ taxonomy:
 comment_status: open  
 ---
 
-## Teasertext
+<!-- ## Teasertext
 
 folgt
 
-<hr>
+<hr> -->
 ## Zim
 
 <table border="1,5" cellpadding="5" cellspacing="0">
@@ -143,7 +143,7 @@ folgt
     </td>
 
     <!-- Ziel --> <td>
-    TN lernen Tools zu bedinen
+    TN lernen Tools zu bedienen
     </td>
     
     <!-- Inhalt --> <td>
@@ -616,8 +616,6 @@ folgt
 
 
 </table>
-
-
 
 
 [giw_edit_link]
