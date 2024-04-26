@@ -373,7 +373,7 @@ Außerdem sprechen wir über die Herausforderungen, die mit dem Einzug der KI am
  <!-- ---------------Zeile------------------ --> <tr>
   
     <!-- Zeit --> <td>
-    12:40 - 13:45 <br/>
+    13:40 - 13:45 <br/>
     05 min
     </td>
 
