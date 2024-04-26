@@ -18,7 +18,7 @@ Ihr könnt die Unterlagen unter folgender Lizenz selber nutzen
 
 
 <hr>
-## Teasertext
+<h2>Teasertext</h2>
 
 Alle sprechen von KI und Sie nutzen ?
 wahrscheinlich schon viele KI-Systeme, ohne
@@ -34,7 +34,7 @@ die populärsten Anwendungen selbst live im
 Seminar auszuprobieren.
 
 <hr>
-## Zim
+<h2>Zim</h2>
 
 <table border="1,5" cellpadding="5" cellspacing="0">
  
@@ -152,4 +152,4 @@ Seminar auszuprobieren.
 
 
 
-[giw_edit_link]
+
