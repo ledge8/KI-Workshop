@@ -2,7 +2,7 @@
 taxonomy:
     category:
         - Workshopskript
-        
+comment_status: open       
 ---
 
 Dieser Workshop dauert 4 Stunden.
@@ -10,9 +10,6 @@ Dieser Workshop dauert 4 Stunden.
 Ihr könnt die Unterlagen unter folgender Lizenz selber nutzen
 
 [ KI Grundlagen Workshopunterlagen ](https://ki-workshop.org/ki-grundlagen-workshop/) © 2024   by  [ Max Quast ](https://ki-workshop.org/author/max-quast/) is licensed under [ CC BY-SA 4.0 ](http://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1)
-
- <!--
-Die Fotodokumentation findet Ihr Noch ergänzen -->
 
 <hr>
 ## Teasertext
@@ -384,6 +381,30 @@ Alle sprechen von KI, aber was ist KI eigentlich? In diesem Seminar verschaffen 
     </td> </tr>
 
 <!-- ---------------Zeile------------------ --> <tr>
+  
+    <!-- Zeit --> <td>
+    14:5 - 14:5 <br/>
+    10 min
+    </td>
+
+    <!-- Ziel --> <td>
+    TN erfahren über Anwendungsfälle
+    </td>
+    
+    <!-- Inhalt --> <td>
+    Refi fragt nach möglichen Anwendungsfällen
+    und schreibt sie auf Whiteboard.
+    </td>
+
+    <!-- Methode --> <td>
+    Zuruf
+    </td>
+
+    <!-- Material --> <td>
+    Whiteboard
+    </td> </tr>
+
+<!-- ---------------Zeile------------------ --> <tr>
 <!-- Zurzet gleich mit KI im Office -->
     <!-- Zeit --> <td>
     14:15 - 14:35 <br/>
@@ -421,29 +442,7 @@ Alle sprechen von KI, aber was ist KI eigentlich? In diesem Seminar verschaffen 
     Flipchart
     </td> </tr>
 
-<!-- ---------------Zeile------------------ --> <tr>
-  
-    <!-- Zeit --> <td>
-    14:25 - 14:35 <br/>
-    10 min
-    </td>
 
-    <!-- Ziel --> <td>
-    TN erfahren über Anwendungsfälle
-    </td>
-    
-    <!-- Inhalt --> <td>
-    Refi fragt nach möglichen Anwendungsfällen
-    und schreibt sie auf Whiteboard.
-    </td>
-
-    <!-- Methode --> <td>
-    Zuruf
-    </td>
-
-    <!-- Material --> <td>
-    Whiteboard
-    </td> </tr>
 
 <!-- ---------------Zeile------------------ --> <tr>
   
@@ -505,9 +504,3 @@ Alle sprechen von KI, aber was ist KI eigentlich? In diesem Seminar verschaffen 
     </td> </tr>
 
 </table>
-
-
-
-
-[giw_edit_link]
-Hilf mit!
