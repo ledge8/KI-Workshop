@@ -13,9 +13,9 @@ Ihr könnt die Unterlagen unter folgender Lizenz selber nutzen
 <hr>
 ## Teasertext
 
-Sind Sie auch erschöpft, von immer wiederkehrenden, monotenen Aufgaben an Ihrem Schreibtisch?
+Sind Sie auch erschöpft, von immer wiederkehrenden, monotonen Aufgaben an Ihrem Schreibtisch?
 Die Möglichkeiten KI am Schreibtisch zu benutzen sparen Ihnen kostbare Zeit.
-Egal ob beim PowerPoint erstellen, dem Projektmanagement oder der Termin Protokollierung, die KI kann Sie unterstützen.
+Egal ob beim PowerPoint erstellen, dem Projektmanagement oder der Terminprotokollierung, die KI kann Sie unterstützen.
 Sie lernen eine Vielzahl an Einsatzmöglichkeiten kennen und erhalten die Gelegenheit gleich im Seminar diese mit Ihren persönlichen Anwendungsfällen auszuprobieren.
 Außerdem sprechen wir über die Herausforderungen, die mit dem Einzug der KI am Schreibtisch zu tun haben.
 <br>
