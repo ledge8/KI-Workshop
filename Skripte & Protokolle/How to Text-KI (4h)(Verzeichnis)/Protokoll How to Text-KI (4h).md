@@ -6,8 +6,6 @@ comment_status: open
 ---
 
 
-<!-- Die Überschriften bekommen ### Hashtags und jedes Thema wird mit <hr> von einander getrennt. -->
-
 ### Workshop Fahrplan
 ![grafik](https://github.com/ledge8/KI-Workshop/assets/166513027/24c4ea3f-769f-4b87-ac84-1d8ae737af4f)
 
@@ -22,7 +20,7 @@ comment_status: open
         - Wolfram
         - Adobe
         - Wordpress
-
+<hr>
 ### Funktionsweise von Chatbots
 <!-- Dringend verbessern https://github.com/ledge8/KI-Workshop/issues/10#issue-2257093704 -->
 ![grafik](https://github.com/ledge8/KI-Workshop/assets/166513027/bb743022-94d3-4db4-ac72-77ba40c9d15f)
@@ -48,6 +46,7 @@ Die Besonderheit bei ChatGPT Plus ist, dass es nicht nur ein Modell, sonderen me
 Außerdem kann ChatGPT auch Bilder verarbeiten.
 Wenn du ein Bild generieren lässt, erstellt ChatGPT anhand deiner Eingabe ein eigenen Prompt für Dalle und gibt diesen weiter an DallE, auch hier bekommen wir im Chat nicht den von ChatGPT selbst generierten Prompt zu sehen.
 
+<hr>
 ### Andere Modelle in der Übersicht
 Es gibt auch andere ChatBots.
 Z.B. den OpenSource ChatBot Mistral 8x7B, der ebenfalls dein Prompt an "Experten" Modelle weitergibt
@@ -57,7 +56,7 @@ Z.B. den OpenSource ChatBot Mistral 8x7B, der ebenfalls dein Prompt an "Experten
 
     Besonders erwähneswert ist die Anwendung scienceOS...
 
-
+<hr>
 ### Propritäre versus OpenSource Anwendungen
 ![grafik](https://github.com/ledge8/KI-Workshop/assets/166513027/827d6166-8d8f-410a-882e-e421fd57891e)
 
@@ -69,7 +68,7 @@ Im Abschnitt "Spaces" kann man Modelle auch ausprobieren.
 https://huggingface.co
 
 
-
+<hr>
 ### GPTs von ChatGPT Plus
 ![grafik](https://github.com/ledge8/KI-Workshop/assets/166513027/fbb8c898-d4aa-4108-8912-62762f8c547f)
 
@@ -101,7 +100,7 @@ https://www.youtube.com/playlist?list=PLNmsVeXQZj7r4pg1j8eFsEQp3nL0w4jJz
 ### Was sind die Einschränkungen?
 ![grafik](https://github.com/ledge8/KI-Workshop/assets/166513027/daa7a077-72d8-4f69-960b-c36c2ec089cd)
 
-
+<hr>
 ### Herausforderungen
 ![grafik](https://github.com/ledge8/KI-Workshop/assets/166513027/a2804bb6-8ce9-4813-a15c-94ccbda0d8d2 "Wir sammelten, welche Herausforderungen es geben kann")
 ![grafik](https://github.com/ledge8/KI-Workshop/assets/166513027/7cae0577-9e93-49bf-a03d-0b61b2cfb347)
