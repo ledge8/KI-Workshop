@@ -109,9 +109,9 @@ Alle sprechen von KI, aber was ist KI eigentlich? In diesem Seminar verschaffen 
     Erfahrungen werden erfragt.
     "In einem Interview über KI,
     welche zwei Gedanken oder
-    Gefühle würdet Ihr äußern?
-    TN haben 5 min, um es aufzuschreiben,
-    dann pinnen sie es an Pinnwand.
+    Gefühle würdet Ihr äußern?"
+    TN haben 5 Minuten, um es aufzuschreiben,
+    dann pinnen sie es an die Pinnwand.
     Danach stellen sie ihre Punkte vor.
     (Ergebnisse wertschätzen)
     </td>
@@ -140,15 +140,15 @@ Alle sprechen von KI, aber was ist KI eigentlich? In diesem Seminar verschaffen 
     </td>
     
     <!-- Inhalt --> <td>
-    Frage: Wer hat mit einem ChatBot schon geschrieben?
-    Einen ChatBot aufrufen und es Prompt beantworten lassen.
-    Danach eine Präsenation mit vielen Beispielen zeigen.
-    Text-,Audio-,Bild-,Robotik-Systeme
+    Frage: Wer hat schon mit einem Chatbot geschrieben?
+    Einen Chatbot aufrufen und es Prompt beantworten lassen.
+    Danach eine Präsentation mit vielen Beispielen zeigen.
+    Text-, Audio-, Bild-, Robotik-Systeme 
     </td>
 
     <!-- Methode --> <td>
     Frage mit Hand heben
-    Live Präsentation 
+    Live-Präsentation 
     Präsentation zeigen
     </td>
 
@@ -188,19 +188,19 @@ Alle sprechen von KI, aber was ist KI eigentlich? In diesem Seminar verschaffen 
     <!-- MUSS VERBESSERT WERDEN -->
     Am Whiteboard aufmalen:
     Ich möchte das nächste Wort im Satz wissen.
-    Die Eingabe (das was man der KI gibt) z.B. „Ich mag“, 
+    Die Eingabe (das, was man der KI gibt), z.B. "Ich liebe",
     wird in Zahlenwerte umgewandelt, damit die KI es verarbeiten kann.
-    Der umgewandelte Satz wird nun in ein Neuronales Netz gegeben.
+    Der umgewandelte Satz wird nun in ein neuronales Netz gegeben.
     Dieses wurde vorher trainiert.
-    Das Neuronale Netz gibt als Antwort wieder Zahlenwerte aus.
+    Das neuronale Netz gibt als Antwort wieder Zahlenwerte aus.
     Diese Zahlenwerte werden wieder in Text umgewandelt.
-    Das Ergebnis ist „Züge“.
-    -> Anhand der Trainingsdaten wird wahrscheinlich 
-    nächste Wort errechnet.
-    -> Trainieren verbraucht die meiste Engergie,
+    Das Ergebnis ist "dich".
+    -> Anhand der Trainingsdaten wird wahrscheinlich
+    das nächste Wort errechnet.
+    -> Trainieren verbraucht die meiste Energie,
     Brücke zu OpenSource schlagen
     Erklärung hier https://www.youtube.com/watch?v=j2mXlzOZ4V4
-    
+
     </td>
 
     <!-- Methode --> <td>
