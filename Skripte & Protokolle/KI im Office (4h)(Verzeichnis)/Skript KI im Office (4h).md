@@ -525,29 +525,7 @@ Außerdem sprechen wir über die Herausforderungen, die mit dem Einzug der KI am
     Flipchart
     </td> </tr>
 
-<!-- ---------------Zeile------------------ --> <tr>
-  
-    <!-- Zeit --> <td>
-    14:25 - 14:35 <br/>
-    10 min
-    </td>
 
-    <!-- Ziel --> <td>
-    TN erfahren über Anwendungsfälle
-    </td>
-    
-    <!-- Inhalt --> <td>
-    Refi fragt nach möglichen Anwendungsfällen
-    und schreibt sie auf Whiteboard.
-    </td>
-
-    <!-- Methode --> <td>
-    Zuruf
-    </td>
-
-    <!-- Material --> <td>
-    Whiteboard
-    </td> </tr>
 
 <!-- ---------------Zeile------------------ --> <tr>
   
