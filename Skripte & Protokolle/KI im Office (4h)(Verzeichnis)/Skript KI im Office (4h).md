@@ -4,15 +4,9 @@ taxonomy:
         - Workshopskript
 comment_status: open       
 ---
-Vorlage
-
-# In Bearbeitung
-
-
 Dieser Workshop dauert 4 Stunden.
 
 Ihr könnt die Unterlagen unter folgender Lizenz selber nutzen
-
 [ KI Grundlagen Workshopunterlagen ](https://ki-workshop.org/ki-grundlagen-workshop/) © 2024   by  [ Max Quast ](https://ki-workshop.org/author/max-quast/) is licensed under [ CC BY-SA 4.0 ](http://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1)
 
 
@@ -24,7 +18,9 @@ Die Möglichkeiten KI am Schreibtisch zu benutzen sparen Ihnen kostbare Zeit.
 Egal ob beim PowerPoint erstellen, dem Projektmanagement oder der Termin Protokollierung, die KI kann Sie unterstützen.
 Sie lernen eine Vielzahl an Einsatzmöglichkeiten kennen und erhalten die Gelegenheit gleich im Seminar diese mit Ihren persönlichen Anwendungsfällen auszuprobieren.
 Außerdem sprechen wir über die Herausforderungen, die mit dem Einzug der KI am Schreibtisch zu tun haben.
-
+<br>
+<br>
+<br>
 <hr>
 ## Zim
 <table border="1,5" cellpadding="5" cellspacing="0">
@@ -113,24 +109,26 @@ Außerdem sprechen wir über die Herausforderungen, die mit dem Einzug der KI am
     </td>
     
     <!-- Inhalt --> <td>
-    Fragen, wer hat schon mit:
-    ChatBots, Bild-KI, Audio-KI
-    gearbeitet/ mit welchen noch
-    Fragen was sie damit taten
-    Beliebigen ChatBot zeigen
-    Gruppe nach Prompt fragen
-    Direkt auf Fehler aufmerksam machen
-    "Wichtigste Regel Flipchart" zeigen
+    Fragen, wer schon mit ChatBots, 
+    Bild-KI, Audio-KI
+    gearbeitet hat & womit noch.
+    Fragen, was sie damit gemacht haben.
+    Beliebigen Chatbot zeigen.
+    Gruppe nach Prompt fragen.
+    Direkt auf Fehler hinweisen.
+    „Wichtigste Regel Flipchart“ zeigen 
     </td>
 
     <!-- Methode --> <td>
     Zuruf Abfrage
-    Live Präsentation
+    Live-Präsentation
     </td>
 
     <!-- Material --> <td>
-    Computer mit Monitor/
-    Beamer
+    Computer
+    Chatbot
+    Monitor/Beamer
+    Flipchart
     </td> </tr>
 
  <!-- ---------------Zeile------------------ --> <tr>
@@ -141,7 +139,7 @@ Außerdem sprechen wir über die Herausforderungen, die mit dem Einzug der KI am
     </td>
 
     <!-- Ziel --> <td>
-    TN erfahren über Beispiele wie 
+    TN erfahren, über Beispiele, wie 
     KI im Office angewandt wird 
     </td>
     
@@ -164,8 +162,8 @@ Außerdem sprechen wir über die Herausforderungen, die mit dem Einzug der KI am
  <!-- ---------------Zeile------------------ --> <tr>
   
     <!-- Zeit --> <td>
-    11:40 - 11:50 <br/>
-    10 min
+    12:00 - 12:15 <br/>
+    15 min
     </td>
 
     <!-- Ziel --> <td>
@@ -177,19 +175,19 @@ Außerdem sprechen wir über die Herausforderungen, die mit dem Einzug der KI am
     <!-- MUSS VERBESSERT WERDEN -->
     Am Whiteboard aufmalen:
     Ich möchte das nächste Wort im Satz wissen.
-    Die Eingabe (das was man der KI gibt) z.B. „Ich mag“, 
+    Die Eingabe (das, was man der KI gibt), z.B. "Ich liebe",
     wird in Zahlenwerte umgewandelt, damit die KI es verarbeiten kann.
-    Der umgewandelte Satz wird nun in ein Neuronales Netz gegeben.
+    Der umgewandelte Satz wird nun in ein neuronales Netz gegeben.
     Dieses wurde vorher trainiert.
-    Das Neuronale Netz gibt als Antwort wieder Zahlenwerte aus.
+    Das neuronale Netz gibt als Antwort wieder Zahlenwerte aus.
     Diese Zahlenwerte werden wieder in Text umgewandelt.
-    Das Ergebnis ist „Züge“.
-    -> Anhand der Trainingsdaten wird wahrscheinlich 
-    nächste Wort errechnet.
-    -> Trainieren verbraucht die meiste Engergie,
+    Das Ergebnis ist "dich".
+    -> Anhand der Trainingsdaten wird wahrscheinlich
+    das nächste Wort errechnet.
+    -> Trainieren verbraucht die meiste Energie,
     Brücke zu OpenSource schlagen
     Erklärung hier https://www.youtube.com/watch?v=j2mXlzOZ4V4
-    
+
     </td>
 
     <!-- Methode --> <td>
@@ -218,12 +216,13 @@ Außerdem sprechen wir über die Herausforderungen, die mit dem Einzug der KI am
     </td>
 
     <!-- Ziel --> <td>
-    TN lernen, was mit Text-KI 
-    möglich ist
+    TN lernen was mit Text-KI 
+    möglich ist. 
+    TN können AW nachschlagen.
     </td>
     
     <!-- Inhalt --> <td>
-    Refi zeigt anhand echter Chats
+    Refi zeigt Chatbeispiele
     <!-- Link zu Beitrag -->
     Refi zeigt QR Code mit Zusammenfassung
     Refi hält Disskusionen kurz!
@@ -247,19 +246,21 @@ Außerdem sprechen wir über die Herausforderungen, die mit dem Einzug der KI am
     </td>
 
     <!-- Ziel --> <td>
-    TN lernen Prompts zu optimieren
+    TN lernen Prompts zu optimieren.
     </td>
     
     <!-- Inhalt --> <td>
-    Refi geht die Prompt Optimierungsregeln durch
+    Refi geht die Prompt Optimierungstipps durch.
+    Zu jedem Tipp ein Beispiel zeigen.
     </td>
 
     <!-- Methode --> <td>
-    Text
+    Vortrag anhand von Beispielen
     </td>
 
     <!-- Material --> <td>
-    Text
+    Flipchart mit Tipps
+    Beispiele in Präsentation
     </td> </tr>
 
  <!-- ---------------Zeile------------------ --> <tr>
@@ -278,12 +279,12 @@ Außerdem sprechen wir über die Herausforderungen, die mit dem Einzug der KI am
     2er Gruppen bilden
     Jede Gruppe soll einen Fall
     überlegen
-    15 Min drauf losschreiben
-    15 Min
-    Zu ihrem Fall einen Prompt
-    durchoptimieren
-    Im Anschluss vorstellen,
-    sollen Laptop mitnehmen
+    Gruppenphase
+    15 Min -> Können alles ausprobieren
+    15 Min -> Sollen zu ihrem Fall EINEN 
+    Prompt durchoptimieren.
+    Hinweis geben -> Im Anschluss sollen 
+    Gruppen getanes aus Phase 2 vorstellen.
     </td>
 
     <!-- Methode --> <td>
@@ -310,6 +311,7 @@ Außerdem sprechen wir über die Herausforderungen, die mit dem Einzug der KI am
     <!-- Inhalt --> <td>
     Gruppen stellen kurz vor
     wie sie Prompt optimiert haben
+    Timebox max. 3 Minunten
     </td>
 
     <!-- Methode --> <td>
@@ -345,15 +347,15 @@ Außerdem sprechen wir über die Herausforderungen, die mit dem Einzug der KI am
     
     <!-- Inhalt --> <td>
     Modelle vorstellen
-    - Midjourney
-    - Dall*E 3
-    - Stable Deffusion XL & 3
-    Promptoptiemirung DAlleE erwähnen
-    Alle Modelle/ Versionen sind unterschiedlich
+    – Midjourney
+    – DALL-E 3
+    – Stable Diffusion XL & 3
+    Promptoptimierung DALL-E erwähnen
+    Alle Modelle/Versionen sind unterschiedlich
     Trial & Error + Doku
-    Funktionionen live zeigen
-    - Bild in Stable Diffusion & Midjourny erstellen
-    - Inpainting, Zoom Out, etc. zeigen
+    Funktionen live zeigen
+    – Bild in Stable Diffusion & Midjourney erstellen
+    – Inpainting, Zoom Out, etc. zeigen
     Adobe Firefly und Canva GPTs ansprechen
     </td>
 
@@ -415,7 +417,7 @@ Außerdem sprechen wir über die Herausforderungen, die mit dem Einzug der KI am
     
     <!-- Inhalt --> <td>
     Zeige die Gruppierungsweise (Flipchart)
-    Per Zuruf nach Systemen fragen, dabei ist nicht 
+    Per Zuruf nach Systemen fragen, dabei ist nicht
     wichtig, ob es sich um ein KI-Modell, oder
     Anwendung handelt.
     Nennungen auf Metaplankarten schreiben.
@@ -425,13 +427,13 @@ Außerdem sprechen wir über die Herausforderungen, die mit dem Einzug der KI am
     - Mistral x
     - LLAMA x
     - TTS OpenAI
-    - Wispher OpenAI
+    - Whisper OpenAI
     - scienceos.ai
     - DeepL
     - ElevenLabs
     - Gemini
     - Bing Chat
-    
+    - Suno  
     </td>
 
     <!-- Methode --> <td>
@@ -455,24 +457,24 @@ Außerdem sprechen wir über die Herausforderungen, die mit dem Einzug der KI am
     </td>
 
     <!-- Ziel --> <td>
-    Lernen weitere Anwendungen 
-    kennen
+    Verstehen wie vielfältig die 
+    Einsatzmöglichkeiten sind
     </td>
     
     <!-- Inhalt --> <td>
     TN können nun selber
     folgende Modelle ausprobieren
-    DallE
-    Midjourny
-    Stable Diffusion
-    Wispher
-    TTS OpenAI
-    ElevenLabs
-    Mistral
-    scienceos.ai
-    DeepL
-    
-    
+    - DallE
+    - Midjourny
+    - Stable Diffusion
+    - Wispher
+    - TTS OpenAI
+    - ElevenLabs
+    - Mistral
+    - scienceos.ai
+    - DeepL
+    - Suno
+    (Wenn genügend Zeit, dann Plenum)
     </td>
 
     <!-- Methode --> <td>
@@ -486,7 +488,7 @@ Außerdem sprechen wir über die Herausforderungen, die mit dem Einzug der KI am
 
 
 <!-- ---------------Zeile------------------ --> <tr>
-<!-- Zurzet gleich mit KI-Grundlagen -->
+<!-- Zurzet gleich mit KI im Office -->
     <!-- Zeit --> <td>
     14:15 - 14:35 <br/>
     20 min
@@ -523,38 +525,58 @@ Außerdem sprechen wir über die Herausforderungen, die mit dem Einzug der KI am
     Flipchart
     </td> </tr>
 
- <!-- ---------------Zeile------------------ --> <tr>
+<!-- ---------------Zeile------------------ --> <tr>
   
     <!-- Zeit --> <td>
-    14:35 - 14:45 <br/>
+    14:25 - 14:35 <br/>
     10 min
     </td>
 
     <!-- Ziel --> <td>
-    TN erfahren über Schwierigkeiten
-    beim Urheberrecht/Datenschutz/Kosten
+    TN erfahren über Anwendungsfälle
     </td>
     
     <!-- Inhalt --> <td>
-    WICHTIG! Keine Rechtsberatung & Garantie
-    Einzelne AGBs anschneiden
-    ChatGPT
-    StabelDiffusion
-    Midjourny
-    Wispher
-    TTS
-    Elevenlabs
-    Mistral
-    <!-- ergänze Links und weitere Infos -->
+    Refi fragt nach möglichen Anwendungsfällen
+    und schreibt sie auf Whiteboard.
     </td>
 
     <!-- Methode --> <td>
-    Lehr-Lern-Gespräch
+    Zuruf
     </td>
 
     <!-- Material --> <td>
-    Präsentation
+    Whiteboard
+    </td> </tr>
+
+<!-- ---------------Zeile------------------ --> <tr>
+  
+    <!-- Zeit --> <td>
+    14:35 - 14:50 <br/>
+    15 min
+    </td>
+
+    <!-- Ziel --> <td>
+    TN erfahren wie Herausforderungen
+    begegnet werden können
+    </td>
     
+    <!-- Inhalt --> <td>
+    Refi fragt nach Strategien um den
+    Herausforderungen zu begegnen 
+    TN schreiben auf Metaplankarten
+    TN stellen vor und pinnen
+    TN diskutieren
+    Refi betont nochmal OpenSource
+    </td>
+
+    <!-- Methode --> <td>
+    Kartenabfrage
+    Mit Plenum Diskussion
+    </td>
+
+    <!-- Material --> <td>
+    Text
     </td> </tr>
 
 <!-- ---------------Zeile------------------ --> <tr>
@@ -586,9 +608,4 @@ Außerdem sprechen wir über die Herausforderungen, die mit dem Einzug der KI am
     Flipchart weitere Quellen
     </td> </tr>
 
-
 </table>
-
-
-
-[giw_edit_link]
