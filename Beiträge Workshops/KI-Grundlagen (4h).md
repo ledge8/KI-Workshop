@@ -4,12 +4,12 @@ taxonomy:
         - Workshops
 comment_status: open
 ---
-Der aller erste hier gepostete Workshop, behandelt in 4 Stunden die Grundlagen der künstlichen Intelligenz.
-Gehalten wurde dieser an einer VHS.
+Der erste hier vorgestellte Workshop behandelt in 4 Stunden die Grundlagen der künstlichen Intelligenz.
+Er wird an Volkshochschulen durchgeführt.
 
-Die Fotodokumentation könnt Ihr <a href="https://ki-workshop.org/protokoll-ki-grundlagen-4h/">hier</a> ansehen.
+Die Fotodokumentation gibt es <a href="https://ki-workshop.org/protokoll-ki-grundlagen-4h/">hier</a>.
 
-Die Workshop Skript Unterlage (ZIM) könnt Ihr <a href="https://ki-workshop.org/skript-ki-grundlagen-4h/">hier</a> ansehen.
+Das Skript des Workshops (ZIM) könnt Ihr <a href="https://ki-workshop.org/skript-ki-grundlagen-4h/">hier</a> ansehen.
 
 <hr>
 
