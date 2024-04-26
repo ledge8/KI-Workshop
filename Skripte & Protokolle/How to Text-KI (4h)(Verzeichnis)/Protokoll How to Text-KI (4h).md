@@ -11,12 +11,12 @@ comment_status: open
 
 <hr>
 ### Funktionen von ChatGPT Plus
-    -Chaten
-    -Bilder hochladen
-    -Bilder erstellen
-    -Dateien hochladen (mit Einschräkungen)
-    -Dateien erstellen lassen (mit Einschränkungen)
-    -GPTs mit Aktionen
+    - Chaten
+    - Bilder hochladen
+    - Bilder erstellen
+    - Dateien hochladen (mit Einschräkungen)
+    - Dateien erstellen lassen (mit Einschränkungen)
+    - GPTs mit Aktionen
         - Wolfram
         - Adobe
         - Wordpress
