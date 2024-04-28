@@ -471,7 +471,8 @@ Alle sprechen von KI, aber was ist KI eigentlich? In diesem Seminar verschaffen 
     </td>
 
     <!-- Material --> <td>
-    Text
+    Metaplankarten
+    Pinnwand
     </td> </tr>
 
 <!-- ---------------Zeile------------------ --> <tr>
