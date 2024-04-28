@@ -184,7 +184,8 @@ Außerdem sprechen wir über die Herausforderungen, die mit dem Einzug der KI am
     Das Ergebnis ist "dich".
     -> Anhand der Trainingsdaten wird wahrscheinlich
     das nächste Wort errechnet.
-    -> Trainieren verbraucht die meiste Energie,
+    -> Trainieren verbraucht die meiste Energie
+    Intel Gaudi3->1835 Billionen Gleitkommaberechnungen/Sek [h001]
     Brücke zu OpenSource schlagen
     Erklärung hier https://www.youtube.com/watch?v=j2mXlzOZ4V4
 
