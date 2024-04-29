@@ -171,8 +171,7 @@ Außerdem sprechen wir über die Herausforderungen, die mit dem Einzug der KI am
     grundlegende Funktionsweise einer KI
     </td>
     
-    <!-- Inhalt --> <td>
-    <!-- MUSS VERBESSERT WERDEN -->
+    <!-- Inhalt --> <td><!-- MUSS VERBESSERT WERDEN -->
     Am Whiteboard aufmalen:
     Ich möchte das nächste Wort im Satz wissen.
     Die Eingabe (das, was man der KI gibt), z.B. "Ich liebe",
