@@ -181,8 +181,7 @@ Alle sprechen von KI, aber was ist KI eigentlich? In diesem Seminar verschaffen 
     grundlegende Funktionsweise einer KI
     </td>
     
-    <!-- Inhalt --> <td>
-    <!-- MUSS VERBESSERT WERDEN -->
+    <!-- Inhalt --> <td><!-- MUSS VERBESSERT WERDEN -->
     Am Whiteboard aufmalen:
     Ich möchte das nächste Wort im Satz wissen.
     Die Eingabe (das, was man der KI gibt), z.B. "Ich liebe",
@@ -231,8 +230,7 @@ Alle sprechen von KI, aber was ist KI eigentlich? In diesem Seminar verschaffen 
     Gegenteil -> OpenSource - zeigen
     (Mischung erwähnen, nur zum Teil OpenSource)
     Vorteile aufzählen
-    
-    Verweise auf Videos & Dokumentation
+    Verweise auf Videos & Dokumentation & Huggingface
     </td>
 
     <!-- Methode --> <td>
@@ -259,12 +257,24 @@ Alle sprechen von KI, aber was ist KI eigentlich? In diesem Seminar verschaffen 
     
     <!-- Inhalt --> <td>
     Zeige die Gruppierungsweise (Flipchart)
+    -> Anwendungen könnten grob so gruppiert werden
     Per Zuruf nach Systemen fragen, dabei ist nicht 
     wichtig, ob es sich um ein KI-Modell, oder
     Anwendung handelt.
     Nennungen auf Metaplankarten schreiben.
     blau=OpenSource, orange=Proprietär, braun=Mischung
     Gruppiere an der Pinnwand direkt.
+    Interessante weitere Anwendungen sind:
+    - Mistral x
+    - LLAMA x
+    - TTS OpenAI
+    - Whisper OpenAI
+    - scienceos.ai
+    - DeepL
+    - ElevenLabs
+    - Gemini
+    - Bing Chat
+    - Suno 
     </td>
 
     <!-- Methode --> <td>
