@@ -254,7 +254,7 @@ Erarbeiten Sie live im Seminar Ihre persönlichen Einsatzszenarien und probieren
     Modell sagen.
     Installation anschneiden.(Launcher)
     Vorherige Modelle einordnen
-    Verweise auf Videos & Dokumentation
+    Verweise auf Videos & Dokumentation & Huggingface
     </td>
 
     <!-- Methode --> <td>
