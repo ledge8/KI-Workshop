@@ -390,8 +390,7 @@ Außerdem sprechen wir über die Herausforderungen, die mit dem Einzug der KI am
     Gegenteil -> OpenSource - zeigen
     (Mischung erwähnen, nur zum Teil OpenSource)
     Vorteile aufzählen
-    
-    Verweise auf Videos & Dokumentation
+    Verweise auf Videos & Dokumentation & Huggingface
     </td>
 
     <!-- Methode --> <td>
