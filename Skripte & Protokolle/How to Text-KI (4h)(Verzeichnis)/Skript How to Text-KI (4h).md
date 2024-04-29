@@ -161,8 +161,7 @@ Erarbeiten Sie live im Seminar Ihre persönlichen Einsatzszenarien und probieren
     grundlegende Funktionsweise einer KI
     </td>
     
-    <!-- Inhalt --> <td>
-    <!-- MUSS VERBESSERT WERDEN -->
+    <!-- Inhalt --> <td><!-- MUSS VERBESSERT WERDEN -->
     Am Whiteboard aufmalen:
     Ich möchte das nächste Wort im Satz wissen.
     Die Eingabe (das, was man der KI gibt), z.B. "Ich liebe",
