@@ -416,6 +416,7 @@ Außerdem sprechen wir über die Herausforderungen, die mit dem Einzug der KI am
     
     <!-- Inhalt --> <td>
     Zeige die Gruppierungsweise (Flipchart)
+    -> Anwendungen könnten grob so gruppiert werden
     Per Zuruf nach Systemen fragen, dabei ist nicht
     wichtig, ob es sich um ein KI-Modell, oder
     Anwendung handelt.
