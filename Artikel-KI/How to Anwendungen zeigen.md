@@ -20,7 +20,8 @@ Midjourney https://docs.midjourney.com/docs/quick-start | kostenpflichtig
 
 <h3>Audio-Anwendungen</h3>
 Suno https://suno.com | kostenlos
-udio https://udio.com | kostenlos 
+udio https://udio.com | kostenlos
+Elevenlabs https://elevenlabs.io | kostenlos, kostenpflichtig
 
 <h3>Bild-Anwendungen</h3>
 Kittl https://kittl.com | kostenlos & kostenpflichtig
