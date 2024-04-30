@@ -19,7 +19,7 @@ Midjourney https://docs.midjourney.com/docs/quick-start | kostenpflichtig
 
 <h3>Audio Modelle</h3>
 Suno https://suno.com
-
+udio https://udio.com
 
 
 <h2> OpenSource Modelle </h2> 
