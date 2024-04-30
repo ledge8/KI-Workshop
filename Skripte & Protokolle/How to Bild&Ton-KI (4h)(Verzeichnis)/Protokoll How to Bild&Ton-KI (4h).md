@@ -13,7 +13,7 @@ comment_status: open
 
 <hr>
 ### Beispiele Audio KI
-[Hier](https://docs.google.com/presentation/d/1IxbK4WbruttTIiEyHSLS63PCn0NYZr0chhAGmWjf-SM/edit?usp=sharing) findest du Beispiele für die Qualität von ElevenLabs
+[Hier](https://docs.google.com/presentation/d/1IxbK4WbruttTIiEyHSLS63PCn0NYZr0chhAGmWjf-SM/edit?usp=sharing) findest du Beispiele für die Qualität von ElevenLabs.
 [Hier](https://platform.openai.com/docs/guides/text-to-speech/voice-options) sind Beispiele von den Stimmen von OpenAI.
 Der Spiegel vertont zum Beispiel alle seine Artikel, damit alle sie anhören können.
 Hier ist ein Beispiel
@@ -23,7 +23,6 @@ OpenAI Stimmen
 
 <hr>
 ### Tooleinführung
-
 ElevenLabs [Link](https://elevenlabs.io/)
 - sehr gute Aussprache, mit betonung
 - kann eigene Stimme klonen
