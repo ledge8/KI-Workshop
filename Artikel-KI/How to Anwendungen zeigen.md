@@ -8,6 +8,7 @@ comment_status: open
 Hier gehen wir auf die Umsetzung ein, wie im Workshop KI Anwendungen gezeigt werden können.
 
 Liste der Anwendungen
+Hinweis: keine Garantie für die Angaben & Kosten.
 
 <h2> Geschlossene Modelle </h2>
 <h3> Sprachmodelle </h3>
@@ -18,8 +19,8 @@ Google https://gemini.google.com | kostenlos
 Midjourney https://docs.midjourney.com/docs/quick-start | kostenpflichtig
 
 <h3>Audio Modelle</h3>
-Suno https://suno.com
-udio https://udio.com
+Suno https://suno.com | kostenlos
+udio https://udio.com | kostenlos
 
 
 <h2> OpenSource Modelle </h2> 
