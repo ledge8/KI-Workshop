@@ -11,27 +11,34 @@ Liste der Anwendungen
 Hinweis: keine Garantie für die Angaben & Kosten.
 
 <h2> Geschlossene Modelle </h2>
-<h3> Sprachmodelle </h3>
+<h3> Sprach/Text-Anwendungen </h3>
 ChatGPT https://chat.openai.com -> GPT-3.5 | kostenlos, GPT-4 | kostenpflichtig
 Mistral https://chat.mistral.ai/chat -> Mistral Small, Medium, Large | kostenlos
 Bing https://www.bing.com/chat | kostenlos
 Google https://gemini.google.com | kostenlos 
 Midjourney https://docs.midjourney.com/docs/quick-start | kostenpflichtig
 
-<h3>Audio Modelle</h3>
+<h3>Audio-Anwendungen</h3>
 Suno https://suno.com | kostenlos
-udio https://udio.com | kostenlos
+udio https://udio.com | kostenlos 
 
+<h3>Bild-Anwendungen</h3>
+Kittl https://kittl.com | kostenlos & kostenpflichtig
+Midjourney https://www.midjourney.com/ | kostenpflichtig
 
 <h2> OpenSource Modelle </h2> 
-<h3> Sprachmodelle </h3>
-[o001, ]
+<h3> Sprach/Text-Anwendungen </h3>
+[o001]
 - Mistral 7B
 - Mixtral 8x7B
 - Mixtral 8x22B
 
-<h3> Bildmodelle </h3>
-XL Turbo, 3.0 | https://stablediffusionweb.com/
+
+<h3> Bild-Anwendungen </h3>
+Stable Diffusion XL Turbo, 3.0 | https://stablediffusionweb.com/
+
+<h3>Audio-Anwendungen</h3>
+wispher | https://github.com/openai/whisper
 
 
 
