@@ -1,7 +1,7 @@
 ---
 taxonomy:
     category:
-        - HowTo
+        - Empfehlungen
 comment_status: open          
 ---
 
@@ -17,6 +17,8 @@ Bing https://www.bing.com/chat | kostenlos
 Google https://gemini.google.com | kostenlos 
 Midjourney https://docs.midjourney.com/docs/quick-start | kostenpflichtig
 
+<h3>Audio Modelle</h3>
+Suno https://suno.com
 
 
 
