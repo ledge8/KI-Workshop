@@ -85,3 +85,6 @@ Schreibe uns einfach per Mail oder hinterlasse einen Kommentar unter dem Artikel
 - Ausgezeichnete Schriftstellerin hat "circa 5 Prozent" ihres Buches mit ChatGPT geschrieben https://the-decoder.de/ausgezeichnete-schriftstellerin-hat-circa-5-prozent-ihres-buches-mit-chatgpt-geschrieben/
 - ZDF Sparks: ZDF-Tochter gründet Agentur für Künstliche Intelligenz https://www.heise.de/news/ZDF-Sparks-ZDF-Tochter-gruendet-Agentur-fuer-Kuenstliche-Intelligenz-9566833.html
 - Anzeichen von Bewusstsein bei ChatGPT und Co.? https://heise.de/-9295425
+
+<h3> OpenSource Informationen </h3>
+- [Übersicht Mistral Modelle https://docs.mistral.ai/getting-started/models/](https://docs.mistral.ai/getting-started/models/) [o001]
