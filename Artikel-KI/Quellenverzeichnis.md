@@ -15,7 +15,7 @@ Schreibe uns einfach per Mail oder hinterlasse einen Kommentar unter dem Artikel
 
 
 <h3>Funktionsweise</h3>
-[f001] Playlist https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi
+- [f001] Playlist https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi
 
 <h3>News</h3>
 - Wegen KI-Boom: Erdgasbranche erwartet mehr Nachfrage bis Ende des Jahrzehnts [https://www.heise.de/news/Wegen-KI-Boom-Erdgasbranche-erwartet-mehr-Nachfrage-bis-Ende-des-Jahrzehnts-9696098.html](https://www.heise.de/news/Wegen-KI-Boom-Erdgasbranche-erwartet-mehr-Nachfrage-bis-Ende-des-Jahrzehnts-9696098.html)
