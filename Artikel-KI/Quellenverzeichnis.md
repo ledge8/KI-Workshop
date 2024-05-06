@@ -10,7 +10,7 @@ Gut recherchierte Workshops brauchen Quellen. In diesem Artikel werden diese, ab
 Hast du Informationen, Artikel oder Empfehlungen, die du mit uns teilen möchtest?
 Schreibe uns einfach per Mail oder hinterlasse einen Kommentar unter dem Artikel.
 
-<h3> Hardware Informationen </h3>
+<h3> Hardware Informationente </h3>
 - [Gaudi 3 Artikel https://www.heise.de/news/Intels-KI-Beschleuniger-Gaudi-3-soll-Nvidias-H100-zerlegen-9679278.html](https://www.heise.de/news/Intels-KI-Beschleuniger-Gaudi-3-soll-Nvidias-H100-zerlegen-9679278.html) [h001]
 
 <hr>
