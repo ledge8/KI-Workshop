@@ -13,9 +13,6 @@ Schreibe uns einfach per Mail oder hinterlasse einen Kommentar unter dem Artikel
 <h3> Hardware Informationente </h3>
 - [Gaudi 3 Artikel https://www.heise.de/news/Intels-KI-Beschleuniger-Gaudi-3-soll-Nvidias-H100-zerlegen-9679278.html](https://www.heise.de/news/Intels-KI-Beschleuniger-Gaudi-3-soll-Nvidias-H100-zerlegen-9679278.html) [h001]
 
-<hr>
-<h3> OpenSource Informationen </h3>
-- [Übersicht Mistral Modelle https://docs.mistral.ai/getting-started/models/](https://docs.mistral.ai/getting-started/models/) [o001]
 
 <h3>Funktionsweise</h3>
 [f001] Playlist https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi
