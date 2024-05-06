@@ -15,6 +15,7 @@ Schreibe uns einfach per Mail oder hinterlasse einen Kommentar unter dem Artikel
 
 <hr>
 <h3>OpenSource Informationen </h3
+test
 - [Übersicht Mistral Modelle https://docs.mistral.ai/getting-started/models/](https://docs.mistral.ai/getting-started/models/) [h001]
 
 <h3>Funktionsweise</h3>
