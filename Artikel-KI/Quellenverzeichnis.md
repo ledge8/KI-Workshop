@@ -90,7 +90,8 @@ Schreibe uns einfach per Mail oder hinterlasse einen Kommentar unter dem Artikel
 - [Übersicht Mistral Modelle https://docs.mistral.ai/getting-started/models/](https://docs.mistral.ai/getting-started/models/) [o001]
 
 <h3> Kriegsführung und Spionage</h3>
-- Pulsar: Anduril stellt KI-System zur elektronischen Kampfführung vor​ | heise online 
+- Pulsar: Anduril stellt KI-System zur elektronischen Kampfführung vor​ | heise online https://www.heise.de/news/Pulsar-Anduril-stellt-KI-System-zur-elektronischen-Kampffuehrung-vor-9711267.html
+
 
 
 
