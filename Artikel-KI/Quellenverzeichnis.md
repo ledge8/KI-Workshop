@@ -88,3 +88,9 @@ Schreibe uns einfach per Mail oder hinterlasse einen Kommentar unter dem Artikel
 
 <h3> OpenSource Informationen </h3>
 - [Übersicht Mistral Modelle https://docs.mistral.ai/getting-started/models/](https://docs.mistral.ai/getting-started/models/) [o001]
+
+<h3> Kriegsführung und Spionage</h3>
+- Pulsar: Anduril stellt KI-System zur elektronischen Kampfführung vor​ | heise online 
+
+
+
