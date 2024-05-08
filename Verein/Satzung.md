@@ -1,31 +1,26 @@
 Satzung
 Einzutragen im Vereinsregister des Amtsgericht ????.
 
-Präambel
-Künstliche Intelligenz rüttelt die Welt durch, ob sie dadurch besser wird, hängt auch von der Fähigkeit der auf ihr lebenden Wesen ab, damit umzugehen. Deshalb entwickeln wir unter dem Motto #OpenKnowledge freie Bildungsinhalte, bauen Organisationsplattformen auf und schaffen Vernetzung sowie Beratung für Referierende. Denn unser Ziel ist, Referierende zu befähigen, eigenständig und unabhängig Workshops anzubieten, welche die Teilnehmenden befähigen, K.I. gut einzusetzen. Dabei müssen wir es schaffen, die Barrieren zu den Workshops, sowohl bei uns, als auch bei den unabhängigen Referierenden, abzubauen. Denn “All creatures must be able to attend the workshops”.
+### Präambel
+Künstliche Intelligenz rüttelt die Welt durch, ob sie dadurch besser wird, hängt auch von der Fähigkeit der auf ihr lebenden Wesen ab, damit umzugehen. Deshalb entwickeln wir unter dem Motto #OpenKnowledge freie Bildungsinhalte, bauen Organisationsplattformen auf und schaffen Vernetzung für Referierende. Denn unser Ziel ist, Referierende zu befähigen, eigenständig und unabhängig Workshops anzubieten, welche die Teilnehmenden befähigen, K.I. gut und sicher einzusetzen. Dabei müssen wir es schaffen, die Barrieren zu den Workshops, sowohl bei uns, als auch bei den unabhängigen Referierenden, abzubauen. Denn “All creatures must be able to attend the workshops”.
 
-entwurf
-verein fördert den einsatz von ki
 
-nicht profitiert
+### §1 Name, Sitz, Geschäftsjahr
 
-zugang für alle
-
-§1 Name, Sitz, Geschäftsjahr
 (1) Der Verein führt den Namen "KI-Workshop.org". Der Verein wird in das Vereinsregister eingetragen und dann um den Zusatz "e.V." ergänzt. Der Verein hat seinen Sitz in Hamburg.
-
 (2) Das Geschäftsjahr ist das Kalenderjahr. Das erste Geschäftsjahr beginnt mit der Eintragung des Vereins in das Vereinsregister und endet am 31.12. diesen Jahres.
 
-§2 Zweck und Gemeinnützigkeit
+### §2 Zweck und Gemeinnützigkeit
 (1) Insbesondere fördert und unterstützt der Verein Referierende, die Workshops zum Umgang mit AI anbieten oder in Zukunft anbieten möchten. Der Vereinszweck soll unter anderem durch folgende Mittel erreicht werden:
 
-Erstellung und Weiterentwicklung zielgruppenspezifischer Workshop Konzepte und Materialien zum guten Umgang mit K.I., mit dem Recht diese frei verwenden und anpassen zu können.
-Veranstaltung eigener Workshops für Referierende, in denen sie ihre Fähigkeiten sowie Fertigkeiten aufbauen und verbessern sollen.
-Aufbau und Betrieb eines Open Source Learning Management System (wie Moodle) mit dem Referierende Zugriff auf die Workshop Konzepte sowie Materialien des Vereins erhalten. Das LMS soll auch eine Foren Funktion bieten.
-Referierende werden in die Weiterentwicklung der Konzepte und Materiealien mit einbezogen, in dem sie, wie bei Wikipedia, selber Autoren werden und Bearbeitungsrechte für die Konzepte und Materialien erhalten.
-Bereitstellung einer Kontaktgruppe zur persönlichen Unterstützung der Referierenden.
-Schaffung einer Wissenssammlung für Referierende, insbesondere zu Lerntheorien, Hintergrundinformationen zu K.I., kommenden Veranstaltungen sowie Anleitungen zur Seminarbewerbung, Organisation und Durchführung.
-Sensibilisierung und Befähigung der Referierenden zu den Themen Lernethik, Barrierefreiheit und Safe Spaces.
+- Erstellung und Weiterentwicklung zielgruppenspezifischer Workshop Konzepte und Materialien zum guten Umgang mit K.I., mit dem Recht diese frei verwenden und anpassen zu können.
+- Veranstaltung eigener Workshops für Referierende, in denen sie ihre Fähigkeiten sowie Fertigkeiten aufbauen und verbessern sollen.
+- Aufbau und Betrieb eines Open Source Learning Management System (wie Moodle) mit dem Referierende Zugriff auf die Workshop Konzepte sowie Materialien des Vereins erhalten. Das LMS soll auch eine Foren Funktion bieten.
+- Referierende werden in die Weiterentwicklung der Konzepte und Materiealien mit einbezogen, in dem sie, wie bei Wikipedia, selber Autoren werden und Bearbeitungsrechte für die Konzepte und Materialien erhalten.
+- Bereitstellung einer Kontaktgruppe zur persönlichen Unterstützung der Referierenden.
+- Schaffung einer Wissenssammlung für Referierende, insbesondere zu Lerntheorien, Hintergrundinformationen zu K.I., kommenden Veranstaltungen sowie Anleitungen zur Seminarbewerbung, Organisation und Durchführung.
+- Sensibilisierung und Befähigung der Referierenden zu den Themen Lernethik, Barrierefreiheit und Safe Spaces.
+
 entwurf 2: seminare für ki anbieten
 community die
 ref ausbildung
@@ -33,9 +28,11 @@ vermitlung
 daten veröffentlichen
 daten zusammenträgt und aufbereitet
 positionierung
+
 (2) Der Verein verfolgt ausschließlich und unmittelbar gemeinnützige Zwecke im Sinne des Abschnitts "Steuerbegünstigte Zwecke" der Abgabenordnung. Er darf keine Gewinne erzielen; er ist selbstlos tätig und verfolgt nicht in erster Linie eigenwirtschaftliche Zwecke. Die Mittel des Vereins werden ausschließlich und unmittelbar zu den satzungsgemäßen Zwecken verwendet. Die Mitglieder erhalten keine Zuwendung aus den Mitteln des Vereins. Niemand darf durch Ausgaben, die dem Zwecke des Vereins fremd sind oder durch unverhältnismäßig hohe Vergütungen begünstigt werden.
 
-§3 Mitgliedschaft
+### §3 Mitgliedschaft
+
 (1) Natürliche Personen können ordentliche Clubmitglieder werden.
 
 (2) Die Beitrittserklärung erfolgt in Textform gegenüber dem Vorstand. Über die Annahme der Beitrittserklärung entscheidet der Vorstand. Die Mitgliedschaft beginnt mit der Annahme der Beitrittserklärung.
@@ -48,19 +45,19 @@ positionierung
 
 (6) Fördermitglieder sind passive Mitglieder ohne Stimmrecht in der Mitgliederversammlung.
 
-§4 Rechte und Pflichten der Mitglieder
+### §4 Rechte und Pflichten der Mitglieder
 (1) Die Mitglieder sind berechtigt, die Leistungen des Vereins in Anspruch zu nehmen.
 
 (2) Die Mitglieder sind verpflichtet, die satzungsgemäßen Zwecke des Clubs zu unterstützen und zu fördern. Sie sind verpflichtet, die festgesetzten Beiträge zu zahlen.
 
-§5 Ausschluss eines Mitglieds
+### §5 Ausschluss eines Mitglieds
 (1) Ein Mitglied kann durch Beschluss des Vorstandes ausgeschlossen werden, wenn es das Ansehen des Clubs schädigt, seinen Beitragsverpflichtungen nachhaltig nicht nachkommt oder wenn ein sonstiger wichtiger Grund vorliegt. Der Vorstand muss dem auszuschließenden Mitglied den Beschluss in Textform unter Angabe von Gründen mitteilen und ihm auf Verlangen eine Anhörung gewähren.
 
 (2) Gegen den Beschluss des Vorstandes ist innerhalb einer Frist von zwei Monaten nach Zugang des Ausschließungsbeschlusses die Anrufung der Mitgliederversammlung zulässig. Bis zum Beschluss der Mitgliederversammlung ruht die Mitgliedschaft. Die Mitgliederversammlung entscheidet über die Ausschließung endgültig.
 
 (3) Der Vorstand kann Mitglieder von der Mitgliederliste streichen, die trotz Zahlungserinnerung oder Mahnung mit der Leistung ihres Mitgliedsbeitrags mehr als sechs Monate im Verzug sind oder die vom Vorstand nicht erreicht werden können.
 
-§6 Beitrag
+### §6 Beitrag
 (1) Der Club erhebt einen Aufnahme- und einen Jahresbeitrag. Das Nähere regelt eine Beitragsordnung, die von der Mitgliederversammlung beschlossen wird.
 
 (2) Im begründeten Einzelfall kann für ein Mitglied durch Vorstandsbeschluß ein von der Beitragsordnung abweichender Beitrag festgesetzt werden.
@@ -72,7 +69,7 @@ Die Organe des Clubs sind:
 
 (2) der Vorstand
 
-§8 Mitgliederversammlung
+### §8 Mitgliederversammlung
 (1) Oberstes Beschlußorgan ist die Mitgliederversammlung. Ihrer Beschlußfassung unterliegen:
 
 die Genehmigung des Finanzberichtes,
@@ -99,7 +96,7 @@ die Auflösung des Clubs und die Beschlußfassung über die eventuelle Fortsetzu
 
 (7) Auf Antrag eines Mitglieds ist geheim abzustimmen. Über die Beschlüsse der Mitgliederversammlung ist ein Protokoll anzufertigen, das vom der Versammlungsleitung und der protokollführende Person zu unterzeichnen ist; das Protokoll ist allen Mitgliedern zugänglich zu machen.
 
-§9 Vorstand
+### §9 Vorstand
 (1) Der Vorstand besteht aus drei bis sieben Mitgliedern, und zwar:
 
 der/dem Vorsitzenden,
@@ -118,15 +115,15 @@ zwei bis sechs stellvertretenden Vorsitzenden.
 
 (8) Der Vorstand beschließt eine Hausordnung für die Räumlichkeiten, Veranstaltungen und Kommunikationsmedien des GoodAITraining e.V
 
-§10 Finanzprüfung
+### §10 Finanzprüfung
 (1) Zur Kontrolle der Haushaltsführung bestellt die Mitgliederversammlung eine oder zwei Finanzprüferinnen. Nach Durchführung ihrer Prüfung geben sie dem Vorstand Kenntnis von ihrem Prüfungsergebnis und erstatten der Mitgliederversammlung Bericht.
 
 (2) Die Finanzprüferinnen dürfen dem Vorstand nicht angehören.
 
-§11 Auflösung des Clubs
+### §11 Auflösung des Clubs
 Bei der Auflösung des Clubs oder bei Wegfall seines Zwecks fällt das Clubvermögen an eine von der Mitgliederversammlung zu bestimmende steuerbegünstigte Körperschaft, die das Vermögen zur Förderung der Völkerverständigung zu verwenden hat.
 
-§ 12 Vertrauenspersonen
+### §12 Vertrauenspersonen
 (1) Vertrauenspersonen werden von der Mitgliederversammlung auf zwei Jahre gewählt.
 
 (2) Die Gruppe der Vertrauenspersonen besteht aus zwei bis drei Mitgliedern.
@@ -137,7 +134,7 @@ Bei der Auflösung des Clubs oder bei Wegfall seines Zwecks fällt das Clubverm�
 
 (5) Vertrauenspersonen dürfen dem Vorstand nicht angehören.
 
-§ 13 Klärungsstelle
+### §13 Klärungsstelle
 (1) Die Klärungsstelle besteht aus den Vertrauenspersonen und dem Vorstand.
 
 (2) Grundlegend besteht die Aufgabe der Klärungsstelle darin, Zwistigkeiten zwischen den Mitgliedern untereinander und zwischen den Mitgliedern und den Organen des Vereins zu klären. Dabei soll das Ziel der Klärungsstelle eine gütliche Einigung der Streitparteien sein. Näheres regelt die Geschäftsordnung der Klärungsstelle, welche sich die Klärungsstelle selbst gibt.
