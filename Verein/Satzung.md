@@ -1,11 +1,11 @@
 Satzung
 Einzutragen im Vereinsregister des Amtsgericht ????.
 
-### Präambel
+## Präambel
 Künstliche Intelligenz rüttelt die Welt durch, ob sie dadurch besser wird, hängt auch von der Fähigkeit der auf ihr lebenden Wesen ab, damit umzugehen. Deshalb entwickeln wir unter dem Motto #OpenKnowledge freie Bildungsinhalte, bauen Organisationsplattformen auf und schaffen Vernetzung für Referierende. Denn unser Ziel ist, Referierende zu befähigen, eigenständig und unabhängig Workshops anzubieten, welche die Teilnehmenden befähigen, K.I. gut und sicher einzusetzen. Dabei müssen wir es schaffen, die Barrieren zu den Workshops, sowohl bei uns, als auch bei den unabhängigen Referierenden, abzubauen. Denn “All creatures must be able to attend the workshops”.
 
 
-### §1 Name, Sitz, Geschäftsjahr
+## §1 Name, Sitz, Geschäftsjahr
 
 (1) Der Verein führt den Namen "KI-Workshop.org". Der Verein wird in das Vereinsregister eingetragen und dann um den Zusatz "e.V." ergänzt. Der Verein hat seinen Sitz in Hamburg.
 (2) Das Geschäftsjahr ist das Kalenderjahr. Das erste Geschäftsjahr beginnt mit der Eintragung des Vereins in das Vereinsregister und endet am 31.12. diesen Jahres.
