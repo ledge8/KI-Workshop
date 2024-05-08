@@ -23,8 +23,6 @@ Künstliche Intelligenz rüttelt die Welt durch, ob sie dadurch besser wird, hä
 
 (1) Natürliche Personen können ordentliche Clubmitglieder werden.
 
-(2) Die Beitrittserklärung erfolgt in Textform gegenüber dem Vorstand. Über die Annahme der Beitrittserklärung entscheidet der Vorstand. Die Mitgliedschaft beginnt mit der Annahme der Beitrittserklärung.
-
 (3) Die Mitgliedschaft endet durch Austrittserklärung, durch Tod von natürlichen Personen oder durch Auflösung und Erlöschen von juristischen Personen, Handelsgesellschaften, nicht rechtsfähigen Vereinen sowie Anstalten und Körperschaften des öffentlichen Rechts oder durch Ausschluss. Die Beitragspflicht für das laufende Geschäftsjahr bleibt hiervon unberührt.
 
 (4) Der Austritt wird durch Willenserklärung in Textform gegenüber dem Vorstand vollzogen.
@@ -34,6 +32,11 @@ Künstliche Intelligenz rüttelt die Welt durch, ob sie dadurch besser wird, hä
 (6) Fördermitglieder sind passive Mitglieder ohne Stimmrecht in der Mitgliederversammlung.
 
 (7) Juristischen Personen können Fördermitglied werden.
+
+## §3a Beitritt
+(1) Der Aufnahmeantrag erfolgt in Textform gegenüber dem Vorstand. Die Mitgliedschaft steht grundsätzlich jeder Person offen. Über die Annahme des Aufnahmeantrags entscheidet der Vorstand.
+(2) Die Mitgliedschaft beginnt mit der Annahme des Aufnahmeantrags.
+(3) Eine Ablehnung des Aufnahmeantrags ist nicht anfechtbar und muss nicht begründet werden.
 
 ## §4 Rechte und Pflichten der Mitglieder
 (1) Die ordentliche Mitglieder sind berechtigt, die Leistungen des Vereins in Anspruch zu nehmen.
