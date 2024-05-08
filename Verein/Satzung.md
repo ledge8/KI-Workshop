@@ -3,27 +3,19 @@ Künstliche Intelligenz rüttelt die Welt durch, ob sie dadurch besser wird, hä
 
 
 ## §1 Name, Sitz, Geschäftsjahr
-(1) Der Verein führt den Namen "KI-Workshop.org". Der Verein wird in das Vereinsregister eingetragen und dann um den Zusatz "e.V." ergänzt. Der Verein hat seinen Sitz in Hamburg.
+(1) Der Verein führt den Namen "KI-Workshop.org". Der Verein wird in das Vereinsregister eingetragen und dann um den Zusatz "e.V." ergänzt. Der Verein hat seinen Sitz in Regensburg.
+
 (2) Das Geschäftsjahr ist das Kalenderjahr. Das erste Geschäftsjahr beginnt mit der Eintragung des Vereins in das Vereinsregister und endet am 31.12. diesen Jahres.
 
 ## §2 Zweck und Gemeinnützigkeit
 (1) Insbesondere fördert und unterstützt der Verein Referierende, die Workshops zum Umgang mit AI anbieten oder in Zukunft anbieten möchten. Der Vereinszweck soll unter anderem durch folgende Mittel erreicht werden:
 
-- Erstellung und Weiterentwicklung zielgruppenspezifischer Workshop Konzepte und Materialien zum guten Umgang mit K.I., mit dem Recht diese frei verwenden und anpassen zu können.
-- Veranstaltung eigener Workshops für Referierende, in denen sie ihre Fähigkeiten sowie Fertigkeiten aufbauen und verbessern sollen.
-- Aufbau und Betrieb eines Open Source Learning Management System (wie Moodle) mit dem Referierende Zugriff auf die Workshop Konzepte sowie Materialien des Vereins erhalten. Das LMS soll auch eine Foren Funktion bieten.
+- Erstellung und Weiterentwicklung zielgruppenspezifischer Workshop Konzepte und Materialien, mit dem Recht diese frei verwenden und anpassen zu können.
+- Veranstaltung eigener Workshops für Mitgliedern und Referierenden, in denen sie ihre Fähigkeiten sowie Fertigkeiten aufbauen und verbessern sollen.
+- Bereitstellung einer Webseite und Cloudanwendung, auf der Workshop Konzepte und Materialien veröffentlicht werden.
 - Referierende werden in die Weiterentwicklung der Konzepte und Materiealien mit einbezogen, in dem sie, wie bei Wikipedia, selber Autoren werden und Bearbeitungsrechte für die Konzepte und Materialien erhalten.
-- Bereitstellung einer Kontaktgruppe zur persönlichen Unterstützung der Referierenden.
-- Schaffung einer Wissenssammlung für Referierende, insbesondere zu Lerntheorien, Hintergrundinformationen zu K.I., kommenden Veranstaltungen sowie Anleitungen zur Seminarbewerbung, Organisation und Durchführung.
+- Schaffung einer Wissenssammlung für Referierende, insbesondere aber nicht abschließend zu Lerntheorien, Hintergrundinformationen zu K.I. sowie Anleitungen zur Seminarbewerbung, Organisation und Durchführung.
 - Sensibilisierung und Befähigung der Referierenden zu den Themen Lernethik, Barrierefreiheit und Safe Spaces.
-
-entwurf 2: seminare für ki anbieten
-community die
-ref ausbildung
-vermitlung
-daten veröffentlichen
-daten zusammenträgt und aufbereitet
-positionierung
 
 (2) Der Verein verfolgt ausschließlich und unmittelbar gemeinnützige Zwecke im Sinne des Abschnitts "Steuerbegünstigte Zwecke" der Abgabenordnung. Er darf keine Gewinne erzielen; er ist selbstlos tätig und verfolgt nicht in erster Linie eigenwirtschaftliche Zwecke. Die Mittel des Vereins werden ausschließlich und unmittelbar zu den satzungsgemäßen Zwecken verwendet. Die Mitglieder erhalten keine Zuwendung aus den Mitteln des Vereins. Niemand darf durch Ausgaben, die dem Zwecke des Vereins fremd sind oder durch unverhältnismäßig hohe Vergütungen begünstigt werden.
 
@@ -41,8 +33,10 @@ positionierung
 
 (6) Fördermitglieder sind passive Mitglieder ohne Stimmrecht in der Mitgliederversammlung.
 
+(7) Juristischen Personen können Fördermitglied werden.
+
 ## §4 Rechte und Pflichten der Mitglieder
-(1) Die Mitglieder sind berechtigt, die Leistungen des Vereins in Anspruch zu nehmen.
+(1) Die ordentliche Mitglieder sind berechtigt, die Leistungen des Vereins in Anspruch zu nehmen.
 
 (2) Die Mitglieder sind verpflichtet, die satzungsgemäßen Zwecke des Clubs zu unterstützen und zu fördern. Sie sind verpflichtet, die festgesetzten Beiträge zu zahlen.
 
@@ -68,18 +62,19 @@ Die Organe des Clubs sind:
 ## §8 Mitgliederversammlung
 (1) Oberstes Beschlußorgan ist die Mitgliederversammlung. Ihrer Beschlußfassung unterliegen:
 
-die Genehmigung des Finanzberichtes,
-die Entlastung des Vorstandes,
-die Wahl und die Abberufung der Vorstandsmitglieder,
-die Wahl und die Abberufung der Vertrauenspersonen,
-die Bestellung von Finanzprüfern,
-die Satzungsänderungen,
-die Genehmigung der Beitragsordnung,
-die Genehmigung der Nutzungsordnung,
-die Richtlinie über die Erstattung von Reisekosten und Auslagen,
-Beschlüsse über Anträge des Vorstandes und der Mitglieder,
-die Ernennung von Ehrenmitgliedern,
-die Auflösung des Clubs und die Beschlußfassung über die eventuelle Fortsetzung des aufgelösten Clubs.
+- die Genehmigung des Finanzberichtes,
+- die Entlastung des Vorstandes,
+- die Wahl und die Abberufung der Vorstandsmitglieder,
+- die Wahl und die Abberufung der Vertrauenspersonen,
+- die Bestellung von Finanzprüfern,
+- die Satzungsänderungen,
+- die Genehmigung der Beitragsordnung,
+- die Genehmigung der Nutzungsordnung,
+- die Richtlinie über die Erstattung von Reisekosten und Auslagen,
+- Beschlüsse über Anträge des Vorstandes und der Mitglieder,
+- die Ernennung von Ehrenmitgliedern,
+- die Auflösung des Clubs und die Beschlußfassung über die eventuelle Fortsetzung des aufgelösten Clubs.
+
 (2) Die ordentliche Mitgliederversammlung findet alle 2 Jahre statt. Außerordentliche Mitgliederversammlungen werden auf Beschluß des Vorstandes abgehalten, wenn die Interessen des Clubs dies erfordern, oder wenn mindestens 10% der ordentlichen Mitglieder dies unter Angabe des Zwecks und der Gründe in Textform beantragen. Die Einberufung der Mitgliederversammlung erfolgt in Textform unter Angabe der Tagesordnung durch ein Vorstandsmitglied mit einer Frist von mindestens zwei Wochen. Zur Wahrung der Frist genügt die Aufgabe der Einladung zur Post an die letzte bekannte Anschrift oder die Versendung an die zuletzt bekannte E-Mail-Adresse. Anträge zur Tagesordnung sind mindestens drei Tage vor der Mitgliederversammlung beim Vorstand einzureichen. Über die Behandlung von Initiativanträgen entscheidet die Mitgliederversammlung.
 
 (3) Beschlüsse über Satzungsänderungen und über die Auflösung des Clubs können nur in einer Mitgliederversammlung beschlossen werden, in der diese Tagesordnungspunkte ausdrücklich angekündigt worden sind. Solche Beschlüsse bedürfen zu ihrer Rechtswirksamkeit der Dreiviertelmehrheit der anwesenden stimmberechtigten Mitglieder. In allen anderen Fällen genügt die einfache Mehrheit.
@@ -96,6 +91,7 @@ die Auflösung des Clubs und die Beschlußfassung über die eventuelle Fortsetzu
 (1) Der Vorstand besteht aus drei bis sieben Mitgliedern, und zwar:
 
 der/dem Vorsitzenden,
+
 zwei bis sechs stellvertretenden Vorsitzenden.
 (2) Vorstand im Sinne des §26, Abs. 2 BGB ist jedes Vorstandsmitglied.
 
