@@ -91,7 +91,7 @@ Schreibe uns einfach per Mail oder hinterlasse einen Kommentar unter dem Artikel
 
 <h3> Kriegsführung und Spionage</h3>
 - Pulsar: Anduril stellt KI-System zur elektronischen Kampfführung vor​ | heise online https://www.heise.de/news/Pulsar-Anduril-stellt-KI-System-zur-elektronischen-Kampffuehrung-vor-9711267.html
-
+- https://heise.de/-9713657
 
 
 
