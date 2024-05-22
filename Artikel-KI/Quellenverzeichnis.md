@@ -10,13 +10,6 @@ Gut recherchierte Workshops brauchen Quellen. In diesem Artikel werden diese, ab
 Hast du Informationen, Artikel oder Empfehlungen, die du mit uns teilen möchtest?
 Schreibe uns einfach per Mail oder hinterlasse einen Kommentar unter dem Artikel.
 
-<h3> Hardware Informationente </h3>
-- [Gaudi 3 Artikel https://www.heise.de/news/Intels-KI-Beschleuniger-Gaudi-3-soll-Nvidias-H100-zerlegen-9679278.html](https://www.heise.de/news/Intels-KI-Beschleuniger-Gaudi-3-soll-Nvidias-H100-zerlegen-9679278.html) [h001]
-
-
-<h3>Funktionsweise</h3>
-- [f001] Playlist https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi
-
 <h3>News</h3>
 - Wegen KI-Boom: Erdgasbranche erwartet mehr Nachfrage bis Ende des Jahrzehnts [https://www.heise.de/news/Wegen-KI-Boom-Erdgasbranche-erwartet-mehr-Nachfrage-bis-Ende-des-Jahrzehnts-9696098.html](https://www.heise.de/news/Wegen-KI-Boom-Erdgasbranche-erwartet-mehr-Nachfrage-bis-Ende-des-Jahrzehnts-9696098.html)
 - KI von Google bedient grafische Oberflächen und versteht Infografiken https://www.heise.de/news/KI-von-Google-bedient-grafische-Oberflaechen-und-versteht-Infografiken-9660784.html
@@ -93,5 +86,10 @@ Schreibe uns einfach per Mail oder hinterlasse einen Kommentar unter dem Artikel
 - Pulsar: Anduril stellt KI-System zur elektronischen Kampfführung vor​ | https://www.heise.de/news/Pulsar-Anduril-stellt-KI-System-zur-elektronischen-Kampffuehrung-vor-9711267.html
 - U.S. Marines testen autonomen Roboterhund mit Waffensystem | https://heise.de/-9713657
 
+<h3> Hardware Informationen </h3>
+- [Gaudi 3 Artikel https://www.heise.de/news/Intels-KI-Beschleuniger-Gaudi-3-soll-Nvidias-H100-zerlegen-9679278.html](https://www.heise.de/news/Intels-KI-Beschleuniger-Gaudi-3-soll-Nvidias-H100-zerlegen-9679278.html) [h001]
+
+<h3>Funktionsweise</h3>
+- [f001] Playlist https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi
 
 
